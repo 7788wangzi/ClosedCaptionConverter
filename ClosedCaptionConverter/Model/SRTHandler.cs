@@ -25,9 +25,7 @@ namespace ClosedCaptionConverter.Model
             {
                 string fileContent = reader.ReadToEnd();                
 
-                var cues = Regex.Matches(fileContent, timePattern, RegexOptions.IgnoreCase);
-
-                
+                var cues = Regex.Matches(fileContent, timePattern, RegexOptions.IgnoreCase);                
 
                 // Handle Time Stamp
                 foreach (Match cue in cues)

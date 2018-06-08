@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2015 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:fontFamily="Segoe UI" tts:fontSize="13px" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region xml:id="subtitleArea" style="s1" tts:origin="0% 0%" tts:extent="100% 60px" tts:padding="3px 3px" tts:backgroundColor="black" tts:opacity="0.7" tts:displayAlign="center" tts:showBackground="whenActive" />
+    </layout>
+  </head>
+  <body>
+    <div region="subtitleArea">
+      <p xml:id="subtitle1" ttm:role="caption" begin="00:00:00.560" end="00:00:03.030">&gt;&gt; Everybody, as<br />the top of the hour,</p>
+      <p xml:id="subtitle2" ttm:role="caption" begin="00:00:03.031" end="00:00:05.250">we're going to give<br />people another couple of</p>
+      <p xml:id="subtitle3" ttm:role="caption" begin="00:00:05.251" end="00:00:08.130">minutes to join<br />from other mediums</p>
+      <p xml:id="subtitle4" ttm:role="caption" begin="00:00:08.131" end="00:00:12.400">so we'll get started<br />in two minutes.</p>
+      <p xml:id="subtitle5" ttm:role="caption" begin="00:00:12.690" end="00:00:15.340">All right, folks. We're<br />going to give it about one</p>
+      <p xml:id="subtitle6" ttm:role="caption" begin="00:00:15.341" end="00:00:17.110">more minute before<br />we get started.</p>
+      <p xml:id="subtitle7" ttm:role="caption" begin="00:00:17.111" end="00:00:21.540">All right, everybody.</p>
+      <p xml:id="subtitle8" ttm:role="caption" begin="00:00:21.541" end="00:00:22.890">It's a couple of<br />minutes after the hour,</p>
+      <p xml:id="subtitle9" ttm:role="caption" begin="00:00:22.891" end="00:00:25.800">we're going to go ahead and<br />get started as people join.</p>
+      <p xml:id="subtitle10" ttm:role="caption" begin="00:00:25.801" end="00:00:29.850">Welcome to the May 2018 Skype</p>
+      <p xml:id="subtitle11" ttm:role="caption" begin="00:00:29.851" end="00:00:32.745">for Business and Microsoft<br />Teams Readiness Brown Bag.</p>
+      <p xml:id="subtitle12" ttm:role="caption" begin="00:00:32.746" end="00:00:34.200">My name is Tim Ballew,</p>
+      <p xml:id="subtitle13" ttm:role="caption" begin="00:00:34.201" end="00:00:36.240">and I am the Business<br />Program Manager</p>
+      <p xml:id="subtitle14" ttm:role="caption" begin="00:00:36.241" end="00:00:38.770">for CSS Learning<br />for these products,</p>
+      <p xml:id="subtitle15" ttm:role="caption" begin="00:00:38.771" end="00:00:41.580">and I'm joined today by<br />members of our Readiness Team:</p>
+      <p xml:id="subtitle16" ttm:role="caption" begin="00:00:41.581" end="00:00:43.305">our learning development managers</p>
+      <p xml:id="subtitle17" ttm:role="caption" begin="00:00:43.306" end="00:00:45.390">and instructional designers.</p>
+      <p xml:id="subtitle18" ttm:role="caption" begin="00:00:45.391" end="00:00:47.440">During today's session, we'll be</p>
+      <p xml:id="subtitle19" ttm:role="caption" begin="00:00:47.441" end="00:00:49.590">reviewing the May<br />feature releases and updates for</p>
+      <p xml:id="subtitle20" ttm:role="caption" begin="00:00:49.591" end="00:00:51.945">Skype for Business and<br />Teams' product family</p>
+      <p xml:id="subtitle21" ttm:role="caption" begin="00:00:51.946" end="00:00:53.100">and we'll be providing</p>
+      <p xml:id="subtitle22" ttm:role="caption" begin="00:00:53.101" end="00:00:54.930">you some additional resources</p>
+      <p xml:id="subtitle23" ttm:role="caption" begin="00:00:54.931" end="00:00:57.450">for more information<br />on those items.</p>
+      <p xml:id="subtitle24" ttm:role="caption" begin="00:00:57.451" end="00:00:59.880">We anticipate that<br />today's session</p>
+      <p xml:id="subtitle25" ttm:role="caption" begin="00:00:59.881" end="00:01:01.600">will be roughly 50 minutes,</p>
+      <p xml:id="subtitle26" ttm:role="caption" begin="00:01:01.601" end="00:01:04.570">we won't necessarily take<br />the whole hour this time.</p>
+      <p xml:id="subtitle27" ttm:role="caption" begin="00:01:04.571" end="00:01:06.220">And please note that</p>
+      <p xml:id="subtitle28" ttm:role="caption" begin="00:01:06.221" end="00:01:08.275">a recording will be<br />made available as</p>
+      <p xml:id="subtitle29" ttm:role="caption" begin="00:01:08.276" end="00:01:12.200">a training and success factors<br />after the session is over.</p>
+      <p xml:id="subtitle30" ttm:role="caption" begin="00:01:12.201" end="00:01:15.600">So, a real quick reminder</p>
+      <p xml:id="subtitle31" ttm:role="caption" begin="00:01:15.601" end="00:01:20.060">about our confidentiality<br />obligations.</p>
+      <p xml:id="subtitle32" ttm:role="caption" begin="00:01:20.061" end="00:01:22.855">We do not disclose<br />confidential information,</p>
+      <p xml:id="subtitle33" ttm:role="caption" begin="00:01:22.856" end="00:01:25.220">and this information that<br />we're sharing today has not</p>
+      <p xml:id="subtitle34" ttm:role="caption" begin="00:01:25.221" end="00:01:27.525">necessarily been reviewed<br />for public consumption.</p>
+      <p xml:id="subtitle35" ttm:role="caption" begin="00:01:27.526" end="00:01:29.740">So, be aware.</p>
+      <p xml:id="subtitle36" ttm:role="caption" begin="00:01:30.120" end="00:01:32.380">Today we're going<br />to be looking at</p>
+      <p xml:id="subtitle37" ttm:role="caption" begin="00:01:32.381" end="00:01:35.950">typical topics of Lync and<br />Skype for Business Server.</p>
+      <p xml:id="subtitle38" ttm:role="caption" begin="00:01:35.951" end="00:01:38.150">We'll be talking about Skype</p>
+      <p xml:id="subtitle39" ttm:role="caption" begin="00:01:38.151" end="00:01:39.970">for Business Online<br />Calling Plans,</p>
+      <p xml:id="subtitle40" ttm:role="caption" begin="00:01:39.971" end="00:01:43.805">Direct Routing and<br />Coexistence Modes.</p>
+      <p xml:id="subtitle41" ttm:role="caption" begin="00:01:43.806" end="00:01:46.040">Our Phones and<br />Devices section will</p>
+      <p xml:id="subtitle42" ttm:role="caption" begin="00:01:46.041" end="00:01:48.985">cover Skype Room Systems updates,</p>
+      <p xml:id="subtitle43" ttm:role="caption" begin="00:01:48.986" end="00:01:52.360">and they will cover<br />all of the clients.</p>
+      <p xml:id="subtitle44" ttm:role="caption" begin="00:01:52.361" end="00:01:55.840">We'll talk a little bit about<br />the network assessment tool</p>
+      <p xml:id="subtitle45" ttm:role="caption" begin="00:01:55.841" end="00:01:59.900">and then review current<br />recently released trainings,</p>
+      <p xml:id="subtitle46" ttm:role="caption" begin="00:01:59.901" end="00:02:02.525">they have the upcoming trainings<br />to look out for.</p>
+      <p xml:id="subtitle47" ttm:role="caption" begin="00:02:02.526" end="00:02:05.700">So, with that I'm going to go</p>
+      <p xml:id="subtitle48" ttm:role="caption" begin="00:02:05.701" end="00:02:08.510">ahead and hand it over<br />to Darren Hansen,</p>
+      <p xml:id="subtitle49" ttm:role="caption" begin="00:02:08.511" end="00:02:09.690">who is going to walk us through</p>
+      <p xml:id="subtitle50" ttm:role="caption" begin="00:02:09.691" end="00:02:12.890">our features and fixes. Darren!</p>
+      <p xml:id="subtitle51" ttm:role="caption" begin="00:02:13.540" end="00:02:16.280">&gt;&gt; All right thank you much Tim.</p>
+      <p xml:id="subtitle52" ttm:role="caption" begin="00:02:16.281" end="00:02:17.900">All right, so we're<br />going to start off</p>
+      <p xml:id="subtitle53" ttm:role="caption" begin="00:02:17.901" end="00:02:19.040">today with an update</p>
+      <p xml:id="subtitle54" ttm:role="caption" begin="00:02:19.041" end="00:02:22.070">for Skype for<br />Business Server 2015.</p>
+      <p xml:id="subtitle55" ttm:role="caption" begin="00:02:22.071" end="00:02:27.165">This is highly<br />anticipated CU for CU7.</p>
+      <p xml:id="subtitle56" ttm:role="caption" begin="00:02:27.166" end="00:02:31.160">It is going to come out here<br />in June in a little bit.</p>
+      <p xml:id="subtitle57" ttm:role="caption" begin="00:02:31.161" end="00:02:33.380">We don't have an exact<br />date but it should be</p>
+      <p xml:id="subtitle58" ttm:role="caption" begin="00:02:33.381" end="00:02:35.300">coming up in the next few weeks.</p>
+      <p xml:id="subtitle59" ttm:role="caption" begin="00:02:35.301" end="00:02:38.450">So, there are a lot of</p>
+      <p xml:id="subtitle60" ttm:role="caption" begin="00:02:38.451" end="00:02:40.700">fixes and improvements and</p>
+      <p xml:id="subtitle61" ttm:role="caption" begin="00:02:40.701" end="00:02:42.695">stuff like that that have<br />gone into this update.</p>
+      <p xml:id="subtitle62" ttm:role="caption" begin="00:02:42.696" end="00:02:45.610">We're going to highlight<br />a few here on the slides,</p>
+      <p xml:id="subtitle63" ttm:role="caption" begin="00:02:45.611" end="00:02:48.630">and then the majority of<br />them are in the appendix,</p>
+      <p xml:id="subtitle64" ttm:role="caption" begin="00:02:48.631" end="00:02:50.935">which is linked right down here.</p>
+      <p xml:id="subtitle65" ttm:role="caption" begin="00:02:50.936" end="00:02:52.940">So, the first one that<br />we're going to talk</p>
+      <p xml:id="subtitle66" ttm:role="caption" begin="00:02:52.941" end="00:02:55.010">about is an issue where we now</p>
+      <p xml:id="subtitle67" ttm:role="caption" begin="00:02:55.011" end="00:02:57.590">support anonymous<br />PSTN callers starting</p>
+      <p xml:id="subtitle68" ttm:role="caption" begin="00:02:57.591" end="00:02:59.510">a static meeting without</p>
+      <p xml:id="subtitle69" ttm:role="caption" begin="00:02:59.511" end="00:03:02.525">an authenticated user<br />in Skype for Business.</p>
+      <p xml:id="subtitle70" ttm:role="caption" begin="00:03:02.526" end="00:03:04.760">Another one where we support</p>
+      <p xml:id="subtitle71" ttm:role="caption" begin="00:03:04.761" end="00:03:06.830">the end meeting functionality for</p>
+      <p xml:id="subtitle72" ttm:role="caption" begin="00:03:06.831" end="00:03:09.995">Skype for Business<br />on Mac in 2015,</p>
+      <p xml:id="subtitle73" ttm:role="caption" begin="00:03:09.996" end="00:03:13.160">enabling Skype meetings<br />app to replace</p>
+      <p xml:id="subtitle74" ttm:role="caption" begin="00:03:13.161" end="00:03:14.810">the Skype for<br />Business Web app and</p>
+      <p xml:id="subtitle75" ttm:role="caption" begin="00:03:14.811" end="00:03:17.540">Skype for Business Server 2015.</p>
+      <p xml:id="subtitle76" ttm:role="caption" begin="00:03:18.490" end="00:03:22.265">Then Microsoft SQL servers</p>
+      <p xml:id="subtitle77" ttm:role="caption" begin="00:03:22.266" end="00:03:25.285">2016 is available for<br />the back end server.</p>
+      <p xml:id="subtitle78" ttm:role="caption" begin="00:03:25.286" end="00:03:28.010">Oh! I'm sorry, Thank you Colin.</p>
+      <p xml:id="subtitle79" ttm:role="caption" begin="00:03:28.011" end="00:03:31.130">I did not take over<br />as presenter there.</p>
+      <p xml:id="subtitle80" ttm:role="caption" begin="00:03:31.450" end="00:03:33.710">All right so now you<br />should be seeing</p>
+      <p xml:id="subtitle81" ttm:role="caption" begin="00:03:33.711" end="00:03:35.810">the Skype for<br />Business Server 2015</p>
+      <p xml:id="subtitle82" ttm:role="caption" begin="00:03:35.811" end="00:03:40.350">slides with a few improvements<br />here on the screen.</p>
+      <p xml:id="subtitle83" ttm:role="caption" begin="00:03:40.351" end="00:03:42.820">So, we get to<br />the last one there were</p>
+      <p xml:id="subtitle84" ttm:role="caption" begin="00:03:42.821" end="00:03:45.220">Microsoft SQL server<br />2016 is available</p>
+      <p xml:id="subtitle85" ttm:role="caption" begin="00:03:45.221" end="00:03:49.200">for backend servers of Skype<br />for Business Server 2015.</p>
+      <p xml:id="subtitle86" ttm:role="caption" begin="00:03:49.201" end="00:03:51.270">So, we now support that.</p>
+      <p xml:id="subtitle87" ttm:role="caption" begin="00:03:51.310" end="00:03:54.485">And again, there are probably</p>
+      <p xml:id="subtitle88" ttm:role="caption" begin="00:03:54.486" end="00:03:58.190">20 or more additional fixes<br />and improvements</p>
+      <p xml:id="subtitle89" ttm:role="caption" begin="00:03:58.191" end="00:04:01.130">in the appendix there so make<br />sure you download the deck</p>
+      <p xml:id="subtitle90" ttm:role="caption" begin="00:04:01.131" end="00:04:04.570">from the meeting attachments<br />and take a look there.</p>
+      <p xml:id="subtitle91" ttm:role="caption" begin="00:04:04.571" end="00:04:07.520">So, now moving off of</p>
+      <p xml:id="subtitle92" ttm:role="caption" begin="00:04:07.521" end="00:04:10.310">server and onto sort of Skype<br />for Business online,</p>
+      <p xml:id="subtitle93" ttm:role="caption" begin="00:04:10.311" end="00:04:12.225">you can see that all of<br />these things have to do</p>
+      <p xml:id="subtitle94" ttm:role="caption" begin="00:04:12.226" end="00:04:16.180">with Microsoft Teams<br />but they also do</p>
+      <p xml:id="subtitle95" ttm:role="caption" begin="00:04:16.181" end="00:04:19.700">reflect functionality<br />and Skype for Business</p>
+      <p xml:id="subtitle96" ttm:role="caption" begin="00:04:19.701" end="00:04:21.350">online too for customers who are</p>
+      <p xml:id="subtitle97" ttm:role="caption" begin="00:04:21.351" end="00:04:23.860">using for example calling plans,</p>
+      <p xml:id="subtitle98" ttm:role="caption" begin="00:04:23.861" end="00:04:28.090">Direct Routing and<br />coexistence modes apply.</p>
+      <p xml:id="subtitle99" ttm:role="caption" begin="00:04:28.091" end="00:04:29.945">But, as we move forward</p>
+      <p xml:id="subtitle100" ttm:role="caption" begin="00:04:29.946" end="00:04:32.030">you'll also see in<br />the top right hand corner</p>
+      <p xml:id="subtitle101" ttm:role="caption" begin="00:04:32.031" end="00:04:36.380">that there are some logos<br />for Teams and Skype.</p>
+      <p xml:id="subtitle102" ttm:role="caption" begin="00:04:36.381" end="00:04:39.295">Those just help you know which</p>
+      <p xml:id="subtitle103" ttm:role="caption" begin="00:04:39.296" end="00:04:40.580">one we're talking about on each</p>
+      <p xml:id="subtitle104" ttm:role="caption" begin="00:04:40.581" end="00:04:42.080">individual slide as we<br />go through the deck,</p>
+      <p xml:id="subtitle105" ttm:role="caption" begin="00:04:42.081" end="00:04:44.750">you see we've made<br />some updates to the template.</p>
+      <p xml:id="subtitle106" ttm:role="caption" begin="00:04:44.751" end="00:04:45.920">So, we're just trying to</p>
+      <p xml:id="subtitle107" ttm:role="caption" begin="00:04:45.921" end="00:04:47.615">make that a little bit<br />more clear.</p>
+      <p xml:id="subtitle108" ttm:role="caption" begin="00:04:47.616" end="00:04:50.450">So, Microsoft Teams and</p>
+      <p xml:id="subtitle109" ttm:role="caption" begin="00:04:50.451" end="00:04:52.340">Skype for Business Online<br />calling plans in</p>
+      <p xml:id="subtitle110" ttm:role="caption" begin="00:04:52.341" end="00:04:54.530">Canada are now general available,</p>
+      <p xml:id="subtitle111" ttm:role="caption" begin="00:04:54.531" end="00:04:57.910">that was updated or<br />released on May first.</p>
+      <p xml:id="subtitle112" ttm:role="caption" begin="00:04:57.911" end="00:05:00.980">So, all calls between<br />US and Canada users in</p>
+      <p xml:id="subtitle113" ttm:role="caption" begin="00:05:00.981" end="00:05:02.360">both directions<br />are now considered</p>
+      <p xml:id="subtitle114" ttm:role="caption" begin="00:05:02.361" end="00:05:05.225">domestic and not international<br />so that's a big win.</p>
+      <p xml:id="subtitle115" ttm:role="caption" begin="00:05:05.226" end="00:05:07.535">Calling plans work<br />with both teams</p>
+      <p xml:id="subtitle116" ttm:role="caption" begin="00:05:07.536" end="00:05:09.415">as well as Skype for<br />Business and you can buy</p>
+      <p xml:id="subtitle117" ttm:role="caption" begin="00:05:09.416" end="00:05:13.720">today in Office 365<br />together obviously,</p>
+      <p xml:id="subtitle118" ttm:role="caption" begin="00:05:13.721" end="00:05:15.350">they make calling enabled for</p>
+      <p xml:id="subtitle119" ttm:role="caption" begin="00:05:15.351" end="00:05:19.275">your organization using<br />your primary phone number.</p>
+      <p xml:id="subtitle120" ttm:role="caption" begin="00:05:19.276" end="00:05:23.285">So, make sure your customers<br />know about that.</p>
+      <p xml:id="subtitle121" ttm:role="caption" begin="00:05:23.286" end="00:05:25.950">There is information<br />in the blog here.</p>
+      <p xml:id="subtitle122" ttm:role="caption" begin="00:05:27.480" end="00:05:29.690">Direct Routing, if you</p>
+      <p xml:id="subtitle123" ttm:role="caption" begin="00:05:29.691" end="00:05:32.315">haven't heard about<br />Direct Routing before.</p>
+      <p xml:id="subtitle124" ttm:role="caption" begin="00:05:32.316" end="00:05:35.645">It's essentially CCE or Cloud.</p>
+      <p xml:id="subtitle125" ttm:role="caption" begin="00:05:35.646" end="00:05:38.705">There are definitely<br />two different things</p>
+      <p xml:id="subtitle126" ttm:role="caption" begin="00:05:38.706" end="00:05:40.400">but this is basically using</p>
+      <p xml:id="subtitle127" ttm:role="caption" begin="00:05:40.401" end="00:05:45.680">your on premise infrastructure<br />with Teams to route calls.</p>
+      <p xml:id="subtitle128" ttm:role="caption" begin="00:05:45.681" end="00:05:48.900">So, this was released on May 15.</p>
+      <p xml:id="subtitle129" ttm:role="caption" begin="00:05:49.540" end="00:05:52.655">Customers can choose<br />to sign up for preview</p>
+      <p xml:id="subtitle130" ttm:role="caption" begin="00:05:52.656" end="00:05:54.910">and they will get support<br />through our in market teams.</p>
+      <p xml:id="subtitle131" ttm:role="caption" begin="00:05:54.911" end="00:05:57.505">It is a preview release,</p>
+      <p xml:id="subtitle132" ttm:role="caption" begin="00:05:57.506" end="00:05:59.255">so just be aware of that.</p>
+      <p xml:id="subtitle133" ttm:role="caption" begin="00:05:59.256" end="00:06:01.880">What if you do get a call and you</p>
+      <p xml:id="subtitle134" ttm:role="caption" begin="00:06:01.881" end="00:06:04.540">need assistance with answering<br />direct routing calls?</p>
+      <p xml:id="subtitle135" ttm:role="caption" begin="00:06:04.541" end="00:06:06.695">You can post your question here,</p>
+      <p xml:id="subtitle136" ttm:role="caption" begin="00:06:06.696" end="00:06:10.085">which leads to<br />the real one note I believe,</p>
+      <p xml:id="subtitle137" ttm:role="caption" begin="00:06:10.086" end="00:06:12.260">and SME will respond or you</p>
+      <p xml:id="subtitle138" ttm:role="caption" begin="00:06:12.261" end="00:06:14.370">can reach out to one<br />of these SMEs listed.</p>
+      <p xml:id="subtitle139" ttm:role="caption" begin="00:06:14.371" end="00:06:17.055">So, I know that there are<br />some of you on the phone,</p>
+      <p xml:id="subtitle140" ttm:role="caption" begin="00:06:17.056" end="00:06:18.925">who are on this list so,</p>
+      <p xml:id="subtitle141" ttm:role="caption" begin="00:06:18.926" end="00:06:22.380">I hope you don't get<br />too many calls or questions.</p>
+      <p xml:id="subtitle142" ttm:role="caption" begin="00:06:22.381" end="00:06:24.260">There's also plenty of</p>
+      <p xml:id="subtitle143" ttm:role="caption" begin="00:06:24.261" end="00:06:27.265">information in our training<br />that we just released,</p>
+      <p xml:id="subtitle144" ttm:role="caption" begin="00:06:27.266" end="00:06:30.570">as well as the UC real<br />one note documents.</p>
+      <p xml:id="subtitle145" ttm:role="caption" begin="00:06:30.571" end="00:06:33.890">So, Carolyn and other SMEs did a</p>
+      <p xml:id="subtitle146" ttm:role="caption" begin="00:06:33.891" end="00:06:37.260">really bang up job in<br />documenting Direct Routing,</p>
+      <p xml:id="subtitle147" ttm:role="caption" begin="00:06:37.261" end="00:06:39.820">documenting troubleshooting<br />methodologies,</p>
+      <p xml:id="subtitle148" ttm:role="caption" begin="00:06:39.821" end="00:06:42.440">scenarios, all sorts of stuff.</p>
+      <p xml:id="subtitle149" ttm:role="caption" begin="00:06:42.441" end="00:06:45.530">So, it's very well<br />understood product</p>
+      <p xml:id="subtitle150" ttm:role="caption" begin="00:06:45.531" end="00:06:47.740">at this point and we're<br />just entering previews.</p>
+      <p xml:id="subtitle151" ttm:role="caption" begin="00:06:47.741" end="00:06:54.890">So, coexistence mode, you may<br />have also heard about this.</p>
+      <p xml:id="subtitle152" ttm:role="caption" begin="00:06:54.891" end="00:06:58.310">Greg talked about it in<br />our last brown bag last month,</p>
+      <p xml:id="subtitle153" ttm:role="caption" begin="00:06:58.311" end="00:07:00.200">when he demo the modern portal</p>
+      <p xml:id="subtitle154" ttm:role="caption" begin="00:07:00.201" end="00:07:02.450">and the modes for upgrading.</p>
+      <p xml:id="subtitle155" ttm:role="caption" begin="00:07:02.451" end="00:07:06.815">So, the modern portal now<br />removes the interrupt policy</p>
+      <p xml:id="subtitle156" ttm:role="caption" begin="00:07:06.816" end="00:07:08.090">and upgrade policy as</p>
+      <p xml:id="subtitle157" ttm:role="caption" begin="00:07:08.091" end="00:07:12.335">two separate entities and<br />gives us coexistence modes.</p>
+      <p xml:id="subtitle158" ttm:role="caption" begin="00:07:12.336" end="00:07:14.555">The goal is to consolidate</p>
+      <p xml:id="subtitle159" ttm:role="caption" begin="00:07:14.556" end="00:07:16.070">the upgrade experience when</p>
+      <p xml:id="subtitle160" ttm:role="caption" begin="00:07:16.071" end="00:07:18.020">transitioning from Skype<br />for Business to Teams,</p>
+      <p xml:id="subtitle161" ttm:role="caption" begin="00:07:18.021" end="00:07:20.550">because it's pretty<br />confusing as it is today.</p>
+      <p xml:id="subtitle162" ttm:role="caption" begin="00:07:20.551" end="00:07:23.370">There are some customers and TAP,</p>
+      <p xml:id="subtitle163" ttm:role="caption" begin="00:07:23.371" end="00:07:28.390">who have already set the Teams<br />interrupt policy before,</p>
+      <p xml:id="subtitle164" ttm:role="caption" begin="00:07:28.391" end="00:07:32.070">and those customers are flighted</p>
+      <p xml:id="subtitle165" ttm:role="caption" begin="00:07:32.071" end="00:07:36.025">for the Team's only<br />upgrade coexistence mode.</p>
+      <p xml:id="subtitle166" ttm:role="caption" begin="00:07:36.026" end="00:07:38.450">So, they're the only customers<br />right now who can</p>
+      <p xml:id="subtitle167" ttm:role="caption" begin="00:07:38.451" end="00:07:40.250">fully switch the Teams</p>
+      <p xml:id="subtitle168" ttm:role="caption" begin="00:07:40.251" end="00:07:42.960">and have Skype for<br />Business disabled.</p>
+      <p xml:id="subtitle169" ttm:role="caption" begin="00:07:43.300" end="00:07:46.070">The rest of the<br />customers are given</p>
+      <p xml:id="subtitle170" ttm:role="caption" begin="00:07:46.071" end="00:07:48.950">the option of I believe,</p>
+      <p xml:id="subtitle171" ttm:role="caption" begin="00:07:48.951" end="00:07:52.230">Skype for Business<br />only or Teams club,</p>
+      <p xml:id="subtitle172" ttm:role="caption" begin="00:07:52.231" end="00:07:55.905">and so make sure to<br />check out the appendix.</p>
+      <p xml:id="subtitle173" ttm:role="caption" begin="00:07:55.906" end="00:07:59.295">There are some screenshots<br />in there to understand what</p>
+      <p xml:id="subtitle174" ttm:role="caption" begin="00:07:59.296" end="00:08:01.940">the coexistence mode looks like</p>
+      <p xml:id="subtitle175" ttm:role="caption" begin="00:08:01.941" end="00:08:04.610">and how to set it,<br />as well as a blog.</p>
+      <p xml:id="subtitle176" ttm:role="caption" begin="00:08:04.611" end="00:08:06.935">So, make sure you<br />go check those out.</p>
+      <p xml:id="subtitle177" ttm:role="caption" begin="00:08:06.936" end="00:08:08.570">We also will be releasing</p>
+      <p xml:id="subtitle178" ttm:role="caption" begin="00:08:08.571" end="00:08:10.190">training here in<br />the next few weeks</p>
+      <p xml:id="subtitle179" ttm:role="caption" begin="00:08:10.191" end="00:08:13.690">on the upgrade story and<br />the interrupt mode story,</p>
+      <p xml:id="subtitle180" ttm:role="caption" begin="00:08:13.691" end="00:08:15.615">so make sure to<br />look out for that.</p>
+      <p xml:id="subtitle181" ttm:role="caption" begin="00:08:15.616" end="00:08:19.130">So, that does it</p>
+      <p xml:id="subtitle182" ttm:role="caption" begin="00:08:19.131" end="00:08:20.565">for Skype for Business Online</p>
+      <p xml:id="subtitle183" ttm:role="caption" begin="00:08:20.566" end="00:08:23.120">specifically or Microsoft Teams.</p>
+      <p xml:id="subtitle184" ttm:role="caption" begin="00:08:23.121" end="00:08:25.040">So, now we'll move<br />on to Phone Devices,</p>
+      <p xml:id="subtitle185" ttm:role="caption" begin="00:08:25.041" end="00:08:27.110">where we've got some updates</p>
+      <p xml:id="subtitle186" ttm:role="caption" begin="00:08:27.111" end="00:08:29.785">or information on<br />Skype Room Systems.</p>
+      <p xml:id="subtitle187" ttm:role="caption" begin="00:08:29.786" end="00:08:32.720">So, this one is<br />a performance issue on</p>
+      <p xml:id="subtitle188" ttm:role="caption" begin="00:08:32.721" end="00:08:35.814">Skype Room Systems v2 devices</p>
+      <p xml:id="subtitle189" ttm:role="caption" begin="00:08:35.815" end="00:08:40.830">that are on Surface Pro 2017<br />based devices.</p>
+      <p xml:id="subtitle190" ttm:role="caption" begin="00:08:42.020" end="00:08:47.250">So there is a performance<br />issues when you join</p>
+      <p xml:id="subtitle191" ttm:role="caption" begin="00:08:47.251" end="00:08:48.820">a meeting with a combination</p>
+      <p xml:id="subtitle192" ttm:role="caption" begin="00:08:48.821" end="00:08:52.020">of HDMI, wired ingest sharing.</p>
+      <p xml:id="subtitle193" ttm:role="caption" begin="00:08:52.021" end="00:08:54.370">So, you're plugging<br />the HDMI into your laptop,</p>
+      <p xml:id="subtitle194" ttm:role="caption" begin="00:08:54.371" end="00:08:56.685">and sharing through<br />the Skype Room System.</p>
+      <p xml:id="subtitle195" ttm:role="caption" begin="00:08:56.686" end="00:08:59.820">When you have dual<br />front-of-room displays,</p>
+      <p xml:id="subtitle196" ttm:role="caption" begin="00:08:59.821" end="00:09:02.010">and multiple remote video<br />streams being used.</p>
+      <p xml:id="subtitle197" ttm:role="caption" begin="00:09:02.011" end="00:09:03.650">So, when all of those things are</p>
+      <p xml:id="subtitle198" ttm:role="caption" begin="00:09:03.651" end="00:09:06.065">happening in conjunction<br />in one meeting,</p>
+      <p xml:id="subtitle199" ttm:role="caption" begin="00:09:06.066" end="00:09:08.875">you might get<br />some performance issues.</p>
+      <p xml:id="subtitle200" ttm:role="caption" begin="00:09:08.876" end="00:09:13.010">So, possible workarounds<br />are desktop sharing into</p>
+      <p xml:id="subtitle201" ttm:role="caption" begin="00:09:13.011" end="00:09:15.390">the meeting via Skype<br />for Business Application</p>
+      <p xml:id="subtitle202" ttm:role="caption" begin="00:09:15.391" end="00:09:17.200">instead of the HDMI cable,</p>
+      <p xml:id="subtitle203" ttm:role="caption" begin="00:09:17.201" end="00:09:21.040">or reducing the front-off-room<br />display configuration</p>
+      <p xml:id="subtitle204" ttm:role="caption" begin="00:09:21.041" end="00:09:23.175">to a single screen.</p>
+      <p xml:id="subtitle205" ttm:role="caption" begin="00:09:23.176" end="00:09:26.390">So, that's just be<br />aware of that if you're</p>
+      <p xml:id="subtitle206" ttm:role="caption" begin="00:09:26.391" end="00:09:28.120">using all of these features</p>
+      <p xml:id="subtitle207" ttm:role="caption" begin="00:09:28.121" end="00:09:30.250">of Skype Room Systems<br />at one time,</p>
+      <p xml:id="subtitle208" ttm:role="caption" begin="00:09:30.251" end="00:09:32.170">you might get<br />some performance issues,</p>
+      <p xml:id="subtitle209" ttm:role="caption" begin="00:09:32.171" end="00:09:35.935">specifically on the Surface Pro<br />2017 based devices.</p>
+      <p xml:id="subtitle210" ttm:role="caption" begin="00:09:35.936" end="00:09:38.630">So, this is just to let you<br />know that documentation</p>
+      <p xml:id="subtitle211" ttm:role="caption" begin="00:09:38.631" end="00:09:41.610">has been updated for<br />Skype Room Systems v2.</p>
+      <p xml:id="subtitle212" ttm:role="caption" begin="00:09:41.611" end="00:09:44.550">It improves the onscreen<br />keyboard behavior,</p>
+      <p xml:id="subtitle213" ttm:role="caption" begin="00:09:44.551" end="00:09:46.400">or just lets you know about</p>
+      <p xml:id="subtitle214" ttm:role="caption" begin="00:09:46.401" end="00:09:48.130">the onscreen keyboard behavior</p>
+      <p xml:id="subtitle215" ttm:role="caption" begin="00:09:48.131" end="00:09:50.855">in version 1709 of Windows 10,</p>
+      <p xml:id="subtitle216" ttm:role="caption" begin="00:09:50.856" end="00:09:54.150">and improvements to prepare</p>
+      <p xml:id="subtitle217" ttm:role="caption" begin="00:09:54.151" end="00:09:57.175">for updates to<br />future operating systems.</p>
+      <p xml:id="subtitle218" ttm:role="caption" begin="00:09:57.176" end="00:09:58.940">All right. Moving on to Lync,</p>
+      <p xml:id="subtitle219" ttm:role="caption" begin="00:09:58.941" end="00:10:00.660">and Skype for Business desktop,</p>
+      <p xml:id="subtitle220" ttm:role="caption" begin="00:10:00.661" end="00:10:04.040">and mobile clients, we also<br />have Teams in here as well.</p>
+      <p xml:id="subtitle221" ttm:role="caption" begin="00:10:04.041" end="00:10:08.375">So, we will start off with<br />Skype for Business 2015.</p>
+      <p xml:id="subtitle222" ttm:role="caption" begin="00:10:08.376" end="00:10:11.815">This was an update<br />released back on May 1st.</p>
+      <p xml:id="subtitle223" ttm:role="caption" begin="00:10:11.816" end="00:10:15.970">Just one issue fixed here<br />with a location display issue</p>
+      <p xml:id="subtitle224" ttm:role="caption" begin="00:10:15.971" end="00:10:20.430">if using E911 is set to<br />true in Skype for Business.</p>
+      <p xml:id="subtitle225" ttm:role="caption" begin="00:10:20.431" end="00:10:23.060">So there, the downloads<br />available there,</p>
+      <p xml:id="subtitle226" ttm:role="caption" begin="00:10:23.061" end="00:10:26.180">as well as the KB if you'd<br />like more information.</p>
+      <p xml:id="subtitle227" ttm:role="caption" begin="00:10:26.181" end="00:10:29.204">Joe correctly called out</p>
+      <p xml:id="subtitle228" ttm:role="caption" begin="00:10:29.205" end="00:10:33.310">that this should be<br />May 1st, 2018 not 2013.</p>
+      <p xml:id="subtitle229" ttm:role="caption" begin="00:10:33.311" end="00:10:35.375">So, thank you.</p>
+      <p xml:id="subtitle230" ttm:role="caption" begin="00:10:35.376" end="00:10:37.695">Skype for Business 2016,</p>
+      <p xml:id="subtitle231" ttm:role="caption" begin="00:10:37.696" end="00:10:39.420">also released on May 1st.</p>
+      <p xml:id="subtitle232" ttm:role="caption" begin="00:10:39.421" end="00:10:41.780">I know that the same fix for</p>
+      <p xml:id="subtitle233" ttm:role="caption" begin="00:10:41.781" end="00:10:46.130">the 2015 client is also in<br />the 2016 quite right here,</p>
+      <p xml:id="subtitle234" ttm:role="caption" begin="00:10:46.131" end="00:10:48.265">in addition to two other ones.</p>
+      <p xml:id="subtitle235" ttm:role="caption" begin="00:10:48.266" end="00:10:51.190">So, unread messages of<br />a reopened chatroom are</p>
+      <p xml:id="subtitle236" ttm:role="caption" begin="00:10:51.191" end="00:10:52.900">incorrectly indicated<br />when restarting</p>
+      <p xml:id="subtitle237" ttm:role="caption" begin="00:10:52.901" end="00:10:54.320">Skype for Business 2016,</p>
+      <p xml:id="subtitle238" ttm:role="caption" begin="00:10:54.321" end="00:10:55.910">so that issue is fixed.</p>
+      <p xml:id="subtitle239" ttm:role="caption" begin="00:10:55.911" end="00:10:57.870">Another issue fixed where you</p>
+      <p xml:id="subtitle240" ttm:role="caption" begin="00:10:57.871" end="00:11:00.365">were repeatedly<br />added as a delegate.</p>
+      <p xml:id="subtitle241" ttm:role="caption" begin="00:11:00.366" end="00:11:03.270">You would receive that message<br />every time you log in</p>
+      <p xml:id="subtitle242" ttm:role="caption" begin="00:11:03.271" end="00:11:05.675">to Skype for Business<br />2015 even if you were,</p>
+      <p xml:id="subtitle243" ttm:role="caption" begin="00:11:05.676" end="00:11:08.200">had already been<br />a member of that,</p>
+      <p xml:id="subtitle244" ttm:role="caption" begin="00:11:08.280" end="00:11:12.105">or even selected as<br />a delegate for that user.</p>
+      <p xml:id="subtitle245" ttm:role="caption" begin="00:11:12.106" end="00:11:15.070">So, make sure to check<br />out the download links,</p>
+      <p xml:id="subtitle246" ttm:role="caption" begin="00:11:15.071" end="00:11:16.645">as well as KB.</p>
+      <p xml:id="subtitle247" ttm:role="caption" begin="00:11:16.646" end="00:11:19.440">So, Microsoft Teams.</p>
+      <p xml:id="subtitle248" ttm:role="caption" begin="00:11:20.960" end="00:11:23.580">Some of this is available</p>
+      <p xml:id="subtitle249" ttm:role="caption" begin="00:11:23.581" end="00:11:26.190">publicly in your<br />regular Team's client.</p>
+      <p xml:id="subtitle250" ttm:role="caption" begin="00:11:26.191" end="00:11:28.780">You can go to the, I<br />believe, the T bot,</p>
+      <p xml:id="subtitle251" ttm:role="caption" begin="00:11:28.781" end="00:11:32.005">and look at what's new in Teams.</p>
+      <p xml:id="subtitle252" ttm:role="caption" begin="00:11:32.006" end="00:11:36.320">So, just some new features,</p>
+      <p xml:id="subtitle253" ttm:role="caption" begin="00:11:36.321" end="00:11:38.255">and new improvements<br />that they've made.</p>
+      <p xml:id="subtitle254" ttm:role="caption" begin="00:11:38.256" end="00:11:39.950">I believe this was last months</p>
+      <p xml:id="subtitle255" ttm:role="caption" begin="00:11:39.951" end="00:11:41.080">that we may have<br />already covered it.</p>
+      <p xml:id="subtitle256" ttm:role="caption" begin="00:11:41.081" end="00:11:43.800">So, you can now send messages<br />from the command box.</p>
+      <p xml:id="subtitle257" ttm:role="caption" begin="00:11:43.801" end="00:11:45.100">For the contact card,</p>
+      <p xml:id="subtitle258" ttm:role="caption" begin="00:11:45.101" end="00:11:48.330">you can dial out or<br />into a group call,</p>
+      <p xml:id="subtitle259" ttm:role="caption" begin="00:11:48.331" end="00:11:52.180">auto import, or auto<br />favorite import channels.</p>
+      <p xml:id="subtitle260" ttm:role="caption" begin="00:11:52.181" end="00:11:54.545">That means that<br />an admin of a channel,</p>
+      <p xml:id="subtitle261" ttm:role="caption" begin="00:11:54.546" end="00:11:55.970">or an owner of a channel,</p>
+      <p xml:id="subtitle262" ttm:role="caption" begin="00:11:55.971" end="00:11:58.550">or a group can automatically</p>
+      <p xml:id="subtitle263" ttm:role="caption" begin="00:11:58.551" end="00:12:00.050">favorites certain channels for</p>
+      <p xml:id="subtitle264" ttm:role="caption" begin="00:12:00.051" end="00:12:01.960">you when you join the team.</p>
+      <p xml:id="subtitle265" ttm:role="caption" begin="00:12:01.961" end="00:12:04.530">New views in the<br />Microsoft Planner tab.</p>
+      <p xml:id="subtitle266" ttm:role="caption" begin="00:12:04.531" end="00:12:06.090">I believe there's graph views,</p>
+      <p xml:id="subtitle267" ttm:role="caption" begin="00:12:06.091" end="00:12:08.290">and different schedule views,</p>
+      <p xml:id="subtitle268" ttm:role="caption" begin="00:12:08.291" end="00:12:10.415">you can look at<br />the schedule all up.</p>
+      <p xml:id="subtitle269" ttm:role="caption" begin="00:12:10.416" end="00:12:13.220">Then, in the charts view<br />of the Planner tab,</p>
+      <p xml:id="subtitle270" ttm:role="caption" begin="00:12:13.221" end="00:12:14.390">you can stay up to date on</p>
+      <p xml:id="subtitle271" ttm:role="caption" begin="00:12:14.391" end="00:12:16.355">the status of<br />your plans obviously.</p>
+      <p xml:id="subtitle272" ttm:role="caption" begin="00:12:16.356" end="00:12:19.820">So, there's also filtering<br />options where you can</p>
+      <p xml:id="subtitle273" ttm:role="caption" begin="00:12:19.821" end="00:12:23.335">group tasks by buckets<br />such as a sign to,</p>
+      <p xml:id="subtitle274" ttm:role="caption" begin="00:12:23.336" end="00:12:24.990">progress, due dates, and labels.</p>
+      <p xml:id="subtitle275" ttm:role="caption" begin="00:12:24.991" end="00:12:28.695">So, you have a lot more way<br />to look at your project data.</p>
+      <p xml:id="subtitle276" ttm:role="caption" begin="00:12:28.696" end="00:12:31.530">You can now use<br />the SharePoint tab</p>
+      <p xml:id="subtitle277" ttm:role="caption" begin="00:12:31.531" end="00:12:33.090">to place important pages,</p>
+      <p xml:id="subtitle278" ttm:role="caption" begin="00:12:33.091" end="00:12:36.495">news articles, and list as<br />individual tabs in a channel.</p>
+      <p xml:id="subtitle279" ttm:role="caption" begin="00:12:36.496" end="00:12:39.160">So, instead of just having<br />a link to one SharePoint page,</p>
+      <p xml:id="subtitle280" ttm:role="caption" begin="00:12:39.161" end="00:12:43.310">you can add a list to<br />specific SharePoint pages,</p>
+      <p xml:id="subtitle281" ttm:role="caption" begin="00:12:43.311" end="00:12:46.875">and have that show up<br />in your team channel.</p>
+      <p xml:id="subtitle282" ttm:role="caption" begin="00:12:46.876" end="00:12:50.590">&gt;&gt; Hey, Darren we got<br />a quick question regarding the</p>
+      <p xml:id="subtitle283" ttm:role="caption" begin="00:12:50.591" end="00:12:53.450">delegate data fix for 2016 MSI.</p>
+      <p xml:id="subtitle284" ttm:role="caption" begin="00:12:53.451" end="00:12:57.555">Does that now imply that<br />it supports 25 delegators.</p>
+      <p xml:id="subtitle285" ttm:role="caption" begin="00:12:57.556" end="00:13:02.255">&gt;&gt; I didn't get that implication<br />from what I read.</p>
+      <p xml:id="subtitle286" ttm:role="caption" begin="00:13:02.256" end="00:13:04.780">I think we'd have to check<br />the KB for more information,</p>
+      <p xml:id="subtitle287" ttm:role="caption" begin="00:13:04.781" end="00:13:11.690">but I wouldn't know off<br />the top of my head.</p>
+      <p xml:id="subtitle288" ttm:role="caption" begin="00:13:11.691" end="00:13:15.300">So, that's a good question<br />that if it's not in the KB,</p>
+      <p xml:id="subtitle289" ttm:role="caption" begin="00:13:15.301" end="00:13:17.175">we can go ahead, and<br />take a look at that.</p>
+      <p xml:id="subtitle290" ttm:role="caption" begin="00:13:17.176" end="00:13:20.300">So, Tim, if you might take<br />a note to follow up on that.</p>
+      <p xml:id="subtitle291" ttm:role="caption" begin="00:13:20.301" end="00:13:21.685">We can check later.</p>
+      <p xml:id="subtitle292" ttm:role="caption" begin="00:13:21.686" end="00:13:23.020">&gt;&gt; I will do that.</p>
+      <p xml:id="subtitle293" ttm:role="caption" begin="00:13:23.021" end="00:13:26.080">&gt;&gt; Thank you. All right.</p>
+      <p xml:id="subtitle294" ttm:role="caption" begin="00:13:26.081" end="00:13:29.575">So, moving on more<br />on Microsoft Teams,</p>
+      <p xml:id="subtitle295" ttm:role="caption" begin="00:13:29.576" end="00:13:33.240">few highlights on the iOS,<br />and Android apps.</p>
+      <p xml:id="subtitle296" ttm:role="caption" begin="00:13:33.241" end="00:13:36.635">We now have better meeting<br />capabilities on the apps.</p>
+      <p xml:id="subtitle297" ttm:role="caption" begin="00:13:36.636" end="00:13:39.050">You can request<br />a call to your Teams</p>
+      <p xml:id="subtitle298" ttm:role="caption" begin="00:13:39.051" end="00:13:41.645">phone to connect you to<br />a meeting instead of dialing in.</p>
+      <p xml:id="subtitle299" ttm:role="caption" begin="00:13:41.646" end="00:13:43.440">That's very similar to<br />Skype for Business,</p>
+      <p xml:id="subtitle300" ttm:role="caption" begin="00:13:43.441" end="00:13:44.760">and how it's done today.</p>
+      <p xml:id="subtitle301" ttm:role="caption" begin="00:13:44.761" end="00:13:46.950">So, you can easily turn a one on</p>
+      <p xml:id="subtitle302" ttm:role="caption" begin="00:13:46.951" end="00:13:48.860">one call into a group call,</p>
+      <p xml:id="subtitle303" ttm:role="caption" begin="00:13:48.861" end="00:13:50.250">or transfer one on one call</p>
+      <p xml:id="subtitle304" ttm:role="caption" begin="00:13:50.251" end="00:13:52.175">to someone else,<br />or forward calls.</p>
+      <p xml:id="subtitle305" ttm:role="caption" begin="00:13:52.176" end="00:13:54.060">This is all in the<br />mobile app, remember.</p>
+      <p xml:id="subtitle306" ttm:role="caption" begin="00:13:54.061" end="00:13:55.310">So, some of the stuff is already</p>
+      <p xml:id="subtitle307" ttm:role="caption" begin="00:13:55.311" end="00:13:56.585">available on the desktop app,</p>
+      <p xml:id="subtitle308" ttm:role="caption" begin="00:13:56.586" end="00:13:59.675">now it's in mobile.</p>
+      <p xml:id="subtitle309" ttm:role="caption" begin="00:13:59.676" end="00:14:03.900">So, you can now create Teams<br />for mobile, and Teams EDU.</p>
+      <p xml:id="subtitle310" ttm:role="caption" begin="00:14:03.901" end="00:14:07.970">So, specifically you have<br />to be a EDU customer,</p>
+      <p xml:id="subtitle311" ttm:role="caption" begin="00:14:07.971" end="00:14:10.480">using classrooms, and teachers,</p>
+      <p xml:id="subtitle312" ttm:role="caption" begin="00:14:10.481" end="00:14:11.550">and students can now create,</p>
+      <p xml:id="subtitle313" ttm:role="caption" begin="00:14:11.551" end="00:14:13.565">edit, and delete teams on mobile.</p>
+      <p xml:id="subtitle314" ttm:role="caption" begin="00:14:13.566" end="00:14:17.535">So, as we announced this<br />last week, or last month,</p>
+      <p xml:id="subtitle315" ttm:role="caption" begin="00:14:17.536" end="00:14:20.005">but more about the<br />Windows Phone apps for Teams,</p>
+      <p xml:id="subtitle316" ttm:role="caption" begin="00:14:20.006" end="00:14:21.910">the app for Teams,</p>
+      <p xml:id="subtitle317" ttm:role="caption" begin="00:14:21.911" end="00:14:24.040">and Skype for Business<br />is being retired.</p>
+      <p xml:id="subtitle318" ttm:role="caption" begin="00:14:24.041" end="00:14:25.890">So, after this takes effects,</p>
+      <p xml:id="subtitle319" ttm:role="caption" begin="00:14:25.891" end="00:14:27.415">users would no longer be able to</p>
+      <p xml:id="subtitle320" ttm:role="caption" begin="00:14:27.416" end="00:14:29.370">download the app from the Store,</p>
+      <p xml:id="subtitle321" ttm:role="caption" begin="00:14:29.371" end="00:14:31.595">and the app will no<br />longer be supported.</p>
+      <p xml:id="subtitle322" ttm:role="caption" begin="00:14:31.596" end="00:14:33.960">So, we'll continue to<br />invest in the iOS,</p>
+      <p xml:id="subtitle323" ttm:role="caption" begin="00:14:33.961" end="00:14:35.650">and Android apps on desktop,</p>
+      <p xml:id="subtitle324" ttm:role="caption" begin="00:14:35.651" end="00:14:39.325">and Windows, but no longer<br />the Windows Phone apps.</p>
+      <p xml:id="subtitle325" ttm:role="caption" begin="00:14:39.326" end="00:14:41.570">This is essentially<br />the same thing</p>
+      <p xml:id="subtitle326" ttm:role="caption" begin="00:14:41.571" end="00:14:42.775">what I just highlighted.</p>
+      <p xml:id="subtitle327" ttm:role="caption" begin="00:14:42.776" end="00:14:45.500">This takes effect July 20th.</p>
+      <p xml:id="subtitle328" ttm:role="caption" begin="00:14:45.501" end="00:14:48.000">So, beginning July 20th,</p>
+      <p xml:id="subtitle329" ttm:role="caption" begin="00:14:48.001" end="00:14:49.750">the app will no longer<br />be in the Store.</p>
+      <p xml:id="subtitle330" ttm:role="caption" begin="00:14:49.751" end="00:14:51.880">However, existing users<br />will still be</p>
+      <p xml:id="subtitle331" ttm:role="caption" begin="00:14:51.881" end="00:14:54.620">able to use the app<br />until October 20th.</p>
+      <p xml:id="subtitle332" ttm:role="caption" begin="00:14:54.621" end="00:14:57.840">At which point, the Teams<br />app will no longer work,</p>
+      <p xml:id="subtitle333" ttm:role="caption" begin="00:14:57.841" end="00:14:59.160">and users will see an</p>
+      <p xml:id="subtitle334" ttm:role="caption" begin="00:14:59.161" end="00:15:01.110">error message when<br />they try to connect.</p>
+      <p xml:id="subtitle335" ttm:role="caption" begin="00:15:01.111" end="00:15:04.990">So, it's just recommended<br />that if you want</p>
+      <p xml:id="subtitle336" ttm:role="caption" begin="00:15:04.991" end="00:15:10.145">to continue using it<br />until October 20th,</p>
+      <p xml:id="subtitle337" ttm:role="caption" begin="00:15:10.146" end="00:15:12.450">go ahead, and install it before</p>
+      <p xml:id="subtitle338" ttm:role="caption" begin="00:15:12.451" end="00:15:15.970">July 20th when it disappears<br />from the App Store.</p>
+      <p xml:id="subtitle339" ttm:role="caption" begin="00:15:15.971" end="00:15:19.145">So, additional information,<br />there's a blog there.</p>
+      <p xml:id="subtitle340" ttm:role="caption" begin="00:15:19.146" end="00:15:22.270">Moving on to Skype<br />for Business for Mac,</p>
+      <p xml:id="subtitle341" ttm:role="caption" begin="00:15:22.271" end="00:15:25.575">we have a few fixes that<br />went into this release,</p>
+      <p xml:id="subtitle342" ttm:role="caption" begin="00:15:25.576" end="00:15:27.710">that was came out May 8th.</p>
+      <p xml:id="subtitle343" ttm:role="caption" begin="00:15:27.711" end="00:15:31.170">So, an issue where<br />excessive CPU usage was</p>
+      <p xml:id="subtitle344" ttm:role="caption" begin="00:15:31.171" end="00:15:33.180">happening when opening<br />a new conversation</p>
+      <p xml:id="subtitle345" ttm:role="caption" begin="00:15:33.181" end="00:15:35.250">while offline has been fixed.</p>
+      <p xml:id="subtitle346" ttm:role="caption" begin="00:15:35.251" end="00:15:36.810">Another issue that prevented</p>
+      <p xml:id="subtitle347" ttm:role="caption" begin="00:15:36.811" end="00:15:38.850">notifications of<br />new phone calls from</p>
+      <p xml:id="subtitle348" ttm:role="caption" begin="00:15:38.851" end="00:15:40.360">being visible when</p>
+      <p xml:id="subtitle349" ttm:role="caption" begin="00:15:40.361" end="00:15:42.555">a Skype for Business<br />window was zoomed,</p>
+      <p xml:id="subtitle350" ttm:role="caption" begin="00:15:42.556" end="00:15:44.800">has been fixed, changed</p>
+      <p xml:id="subtitle351" ttm:role="caption" begin="00:15:44.801" end="00:15:47.550">how the IM disclaimer<br />messages are displayed.</p>
+      <p xml:id="subtitle352" ttm:role="caption" begin="00:15:47.551" end="00:15:49.110">Fixed a crash in</p>
+      <p xml:id="subtitle353" ttm:role="caption" begin="00:15:49.111" end="00:15:51.995">some cases where users<br />tries to sign out,</p>
+      <p xml:id="subtitle354" ttm:role="caption" begin="00:15:51.996" end="00:15:55.140">and an issue that prevented<br />a call window from displaying</p>
+      <p xml:id="subtitle355" ttm:role="caption" begin="00:15:55.141" end="00:15:58.935">properly when trying to leave<br />a voicemail for a contact.</p>
+      <p xml:id="subtitle356" ttm:role="caption" begin="00:15:58.936" end="00:16:01.790">So, there is some<br />additional information</p>
+      <p xml:id="subtitle357" ttm:role="caption" begin="00:16:01.791" end="00:16:03.100">in the blog post here.</p>
+      <p xml:id="subtitle358" ttm:role="caption" begin="00:16:03.101" end="00:16:05.755">So, Skype for Business<br />on Windows Phone,</p>
+      <p xml:id="subtitle359" ttm:role="caption" begin="00:16:05.756" end="00:16:08.535">this is essentially what<br />we just talked about.</p>
+      <p xml:id="subtitle360" ttm:role="caption" begin="00:16:08.536" end="00:16:10.690">Skype for Business<br />on Windows Phone</p>
+      <p xml:id="subtitle361" ttm:role="caption" begin="00:16:10.691" end="00:16:12.570">8.1 will no longer<br />be available for</p>
+      <p xml:id="subtitle362" ttm:role="caption" begin="00:16:12.571" end="00:16:16.370">download beginning<br />in December 2019.</p>
+      <p xml:id="subtitle363" ttm:role="caption" begin="00:16:16.371" end="00:16:18.205">Skype for Business<br />on Windows 10 Mobile</p>
+      <p xml:id="subtitle364" ttm:role="caption" begin="00:16:18.206" end="00:16:20.295">will no longer be<br />available for download.</p>
+      <p xml:id="subtitle365" ttm:role="caption" begin="00:16:20.296" end="00:16:22.660">So, that's still<br />awaits in the future.</p>
+      <p xml:id="subtitle366" ttm:role="caption" begin="00:16:22.661" end="00:16:24.560">Yeah. Same thing with Teams</p>
+      <p xml:id="subtitle367" ttm:role="caption" begin="00:16:24.561" end="00:16:26.170">here just install<br />the app before it</p>
+      <p xml:id="subtitle368" ttm:role="caption" begin="00:16:26.171" end="00:16:30.650">disappears off the Store.</p>
+      <p xml:id="subtitle369" ttm:role="caption" begin="00:16:30.651" end="00:16:33.800">That happens in August 2018.</p>
+      <p xml:id="subtitle370" ttm:role="caption" begin="00:16:36.990" end="00:16:41.250">So, August 2018 for<br />Windows Phone 8.1,</p>
+      <p xml:id="subtitle371" ttm:role="caption" begin="00:16:41.251" end="00:16:42.590">it won't be available<br />for download.</p>
+      <p xml:id="subtitle372" ttm:role="caption" begin="00:16:42.591" end="00:16:45.190">Then, all the way<br />in December 2019</p>
+      <p xml:id="subtitle373" ttm:role="caption" begin="00:16:45.191" end="00:16:49.030">for Skype for Business<br />on Windows 10 Mobile.</p>
+      <p xml:id="subtitle374" ttm:role="caption" begin="00:16:49.031" end="00:16:52.695">So, if your customers are<br />still using Windows 10,</p>
+      <p xml:id="subtitle375" ttm:role="caption" begin="00:16:52.696" end="00:16:54.230">make sure they know<br />about those dates so</p>
+      <p xml:id="subtitle376" ttm:role="caption" begin="00:16:54.231" end="00:16:58.175">they don't lose their-</p>
+      <p xml:id="subtitle377" ttm:role="caption" begin="00:16:58.176" end="00:17:01.160">Yeah, it is kind of</p>
+      <p xml:id="subtitle378" ttm:role="caption" begin="00:17:01.161" end="00:17:04.500">sad when his phone was<br />a great little phone.</p>
+      <p xml:id="subtitle379" ttm:role="caption" begin="00:17:04.501" end="00:17:06.470">So, the Network Assessment Tool,</p>
+      <p xml:id="subtitle380" ttm:role="caption" begin="00:17:06.471" end="00:17:09.370">many of you may have used<br />this or maybe aware of it.</p>
+      <p xml:id="subtitle381" ttm:role="caption" begin="00:17:09.371" end="00:17:11.510">You may even have heard<br />the announcement,</p>
+      <p xml:id="subtitle382" ttm:role="caption" begin="00:17:11.511" end="00:17:13.210">but it's been updated</p>
+      <p xml:id="subtitle383" ttm:role="caption" begin="00:17:13.211" end="00:17:18.170">to also do Network Assessment<br />for Microsoft Teams now.</p>
+      <p xml:id="subtitle384" ttm:role="caption" begin="00:17:18.171" end="00:17:20.170">So, even if a customer<br />doesn't have</p>
+      <p xml:id="subtitle385" ttm:role="caption" begin="00:17:20.171" end="00:17:22.120">an Office 365 subscription yet,</p>
+      <p xml:id="subtitle386" ttm:role="caption" begin="00:17:22.121" end="00:17:27.120">you can still use this as<br />a pre-sales stage to evaluate</p>
+      <p xml:id="subtitle387" ttm:role="caption" begin="00:17:27.121" end="00:17:29.480">whether their network<br />is ready to support</p>
+      <p xml:id="subtitle388" ttm:role="caption" begin="00:17:29.481" end="00:17:30.900">all the various<br />different features and</p>
+      <p xml:id="subtitle389" ttm:role="caption" begin="00:17:30.901" end="00:17:32.715">functionalities of<br />Skype for Business,</p>
+      <p xml:id="subtitle390" ttm:role="caption" begin="00:17:32.716" end="00:17:34.210">whether they have<br />enough bandwidth,</p>
+      <p xml:id="subtitle391" ttm:role="caption" begin="00:17:34.211" end="00:17:37.180">whether they can connect<br />to the specific endpoints.</p>
+      <p xml:id="subtitle392" ttm:role="caption" begin="00:17:37.181" end="00:17:38.620">It does all this stuff.</p>
+      <p xml:id="subtitle393" ttm:role="caption" begin="00:17:38.621" end="00:17:40.270">So, you can get it very easily</p>
+      <p xml:id="subtitle394" ttm:role="caption" begin="00:17:40.271" end="00:17:45.920">by installing a PowerShell<br />module and running</p>
+      <p xml:id="subtitle395" ttm:role="caption" begin="00:17:45.921" end="00:17:49.840">the Install-Module<br />M365NetworkTestingTool commandement,</p>
+      <p xml:id="subtitle396" ttm:role="caption" begin="00:17:49.841" end="00:17:53.980">and then running<br />Invoke-M365CreateShortcuts</p>
+      <p xml:id="subtitle397" ttm:role="caption" begin="00:17:53.981" end="00:17:55.260">and that will just<br />create a shortcut on</p>
+      <p xml:id="subtitle398" ttm:role="caption" begin="00:17:55.261" end="00:17:57.145">your desktop and your Start Menu.</p>
+      <p xml:id="subtitle399" ttm:role="caption" begin="00:17:57.146" end="00:17:59.850">Then go ahead and launch it.</p>
+      <p xml:id="subtitle400" ttm:role="caption" begin="00:17:59.851" end="00:18:02.740">So, it is a very useful tool.</p>
+      <p xml:id="subtitle401" ttm:role="caption" begin="00:18:02.741" end="00:18:05.395">It goes over a lot<br />of information.</p>
+      <p xml:id="subtitle402" ttm:role="caption" begin="00:18:05.396" end="00:18:08.800">And so, it's packaged<br />up in a nice little UI,</p>
+      <p xml:id="subtitle403" ttm:role="caption" begin="00:18:08.801" end="00:18:12.035">so your customers will be<br />happy when they see it.</p>
+      <p xml:id="subtitle404" ttm:role="caption" begin="00:18:12.036" end="00:18:15.500">So, yeah, that's been updated.</p>
+      <p xml:id="subtitle405" ttm:role="caption" begin="00:18:15.530" end="00:18:18.820">The request from<br />the tool creators</p>
+      <p xml:id="subtitle406" ttm:role="caption" begin="00:18:18.821" end="00:18:20.630">is just to start using it.</p>
+      <p xml:id="subtitle407" ttm:role="caption" begin="00:18:20.631" end="00:18:21.820">Get it in front of customers,</p>
+      <p xml:id="subtitle408" ttm:role="caption" begin="00:18:21.821" end="00:18:22.870">figure out what they like,</p>
+      <p xml:id="subtitle409" ttm:role="caption" begin="00:18:22.871" end="00:18:25.950">what they don't like, provide<br />feedback to the tool.</p>
+      <p xml:id="subtitle410" ttm:role="caption" begin="00:18:25.951" end="00:18:27.580">I believe there's definitely</p>
+      <p xml:id="subtitle411" ttm:role="caption" begin="00:18:27.581" end="00:18:29.670">team channels that a lot of you</p>
+      <p xml:id="subtitle412" ttm:role="caption" begin="00:18:29.671" end="00:18:32.095">are probably involved in where<br />they've talked about this.</p>
+      <p xml:id="subtitle413" ttm:role="caption" begin="00:18:32.096" end="00:18:33.950">I believe there's feedback</p>
+      <p xml:id="subtitle414" ttm:role="caption" begin="00:18:33.951" end="00:18:35.640">within the tool<br />that you can email.</p>
+      <p xml:id="subtitle415" ttm:role="caption" begin="00:18:35.641" end="00:18:38.585">So, what are their plans<br />for the tool next?</p>
+      <p xml:id="subtitle416" ttm:role="caption" begin="00:18:38.586" end="00:18:40.410">They want to provide</p>
+      <p xml:id="subtitle417" ttm:role="caption" begin="00:18:40.411" end="00:18:43.495">each information icon that<br />pops up when it does a test.</p>
+      <p xml:id="subtitle418" ttm:role="caption" begin="00:18:43.496" end="00:18:44.610">They want to link to</p>
+      <p xml:id="subtitle419" ttm:role="caption" begin="00:18:44.611" end="00:18:47.380">specific guidance on<br />the fast track website.</p>
+      <p xml:id="subtitle420" ttm:role="caption" begin="00:18:47.381" end="00:18:50.195">Right now, the order<br />of testing is swapped.</p>
+      <p xml:id="subtitle421" ttm:role="caption" begin="00:18:50.196" end="00:18:53.350">They test connectivity first<br />and then audio quality.</p>
+      <p xml:id="subtitle422" ttm:role="caption" begin="00:18:53.351" end="00:18:56.395">The device parser is<br />also updated to reflect</p>
+      <p xml:id="subtitle423" ttm:role="caption" begin="00:18:56.396" end="00:18:58.250">newer headsets and<br />speakerphones which</p>
+      <p xml:id="subtitle424" ttm:role="caption" begin="00:18:58.251" end="00:19:01.015">have been certified by<br />the call quality team.</p>
+      <p xml:id="subtitle425" ttm:role="caption" begin="00:19:01.016" end="00:19:03.290">The Desktop/Start Menu icons</p>
+      <p xml:id="subtitle426" ttm:role="caption" begin="00:19:03.291" end="00:19:05.010">are applied when<br />the module is updated,</p>
+      <p xml:id="subtitle427" ttm:role="caption" begin="00:19:05.011" end="00:19:07.700">instead of each time<br />the application launches.</p>
+      <p xml:id="subtitle428" ttm:role="caption" begin="00:19:07.701" end="00:19:11.585">Then the public web URL's<br />and a blog will follow soon.</p>
+      <p xml:id="subtitle429" ttm:role="caption" begin="00:19:11.586" end="00:19:14.510">So, keep a look out for that.</p>
+      <p xml:id="subtitle430" ttm:role="caption" begin="00:19:14.511" end="00:19:17.105">There is some additional<br />information right here.</p>
+      <p xml:id="subtitle431" ttm:role="caption" begin="00:19:17.106" end="00:19:21.800">And that does it<br />for our releases,</p>
+      <p xml:id="subtitle432" ttm:role="caption" begin="00:19:21.801" end="00:19:23.120">and updates, and stuff like that.</p>
+      <p xml:id="subtitle433" ttm:role="caption" begin="00:19:23.121" end="00:19:24.930">So, I'll go ahead and<br />head back to back to</p>
+      <p xml:id="subtitle434" ttm:role="caption" begin="00:19:24.931" end="00:19:27.170">Tim and he can take<br />it from there.</p>
+      <p xml:id="subtitle435" ttm:role="caption" begin="00:19:27.171" end="00:19:29.570">&gt;&gt; Thanks so much,<br />Darren. Great overview.</p>
+      <p xml:id="subtitle436" ttm:role="caption" begin="00:19:29.571" end="00:19:32.290">In terms of Special Topics<br />and Training Releases,</p>
+      <p xml:id="subtitle437" ttm:role="caption" begin="00:19:32.291" end="00:19:36.330">we'll look at the short view<br />backwards and forwards.</p>
+      <p xml:id="subtitle438" ttm:role="caption" begin="00:19:36.331" end="00:19:39.150">While I go ahead and<br />share these slides,</p>
+      <p xml:id="subtitle439" ttm:role="caption" begin="00:19:39.151" end="00:19:42.775">I want to invite people<br />to put the chat window</p>
+      <p xml:id="subtitle440" ttm:role="caption" begin="00:19:42.776" end="00:19:45.490">any request they have were</p>
+      <p xml:id="subtitle441" ttm:role="caption" begin="00:19:45.491" end="00:19:48.460">training on Skype for<br />Business or Teams topics.</p>
+      <p xml:id="subtitle442" ttm:role="caption" begin="00:19:48.461" end="00:19:50.950">We have been very much focused on</p>
+      <p xml:id="subtitle443" ttm:role="caption" begin="00:19:50.951" end="00:19:54.705">capturing training on<br />major feature releases in Teams,</p>
+      <p xml:id="subtitle444" ttm:role="caption" begin="00:19:54.706" end="00:19:57.050">but we also do strive to</p>
+      <p xml:id="subtitle445" ttm:role="caption" begin="00:19:57.051" end="00:19:59.780">provide training on<br />the knowledge gap areas,</p>
+      <p xml:id="subtitle446" ttm:role="caption" begin="00:19:59.781" end="00:20:03.640">areas in which you're<br />uncomfortable providing support.</p>
+      <p xml:id="subtitle447" ttm:role="caption" begin="00:20:03.641" end="00:20:06.460">So, as I talk about these slides,</p>
+      <p xml:id="subtitle448" ttm:role="caption" begin="00:20:06.461" end="00:20:07.990">I invite you to go ahead and toss</p>
+      <p xml:id="subtitle449" ttm:role="caption" begin="00:20:07.991" end="00:20:10.075">any suggestions you<br />have in the chat window</p>
+      <p xml:id="subtitle450" ttm:role="caption" begin="00:20:10.076" end="00:20:11.850">about training topics<br />you'd like to see</p>
+      <p xml:id="subtitle451" ttm:role="caption" begin="00:20:11.851" end="00:20:14.015">coverage to up skill,</p>
+      <p xml:id="subtitle452" ttm:role="caption" begin="00:20:14.016" end="00:20:16.540">where you feel like you need it.</p>
+      <p xml:id="subtitle453" ttm:role="caption" begin="00:20:16.860" end="00:20:20.025">So, Recently Release Training.</p>
+      <p xml:id="subtitle454" ttm:role="caption" begin="00:20:20.026" end="00:20:23.025">We're having a little bit of<br />a problem, it looks like,</p>
+      <p xml:id="subtitle455" ttm:role="caption" begin="00:20:23.026" end="00:20:27.710">with the slide show in<br />the proper content.</p>
+      <p xml:id="subtitle456" ttm:role="caption" begin="00:20:27.711" end="00:20:29.990">I'm going to go ahead<br />and speak to this.</p>
+      <p xml:id="subtitle457" ttm:role="caption" begin="00:20:29.991" end="00:20:32.385">But I won't have a visual</p>
+      <p xml:id="subtitle458" ttm:role="caption" begin="00:20:32.386" end="00:20:35.170">to show you. Apologies for that.</p>
+      <p xml:id="subtitle459" ttm:role="caption" begin="00:20:35.171" end="00:20:40.180">We have released Microsoft<br />Teams Direct Routing training,</p>
+      <p xml:id="subtitle460" ttm:role="caption" begin="00:20:40.181" end="00:20:42.045">as Darren alluded to,</p>
+      <p xml:id="subtitle461" ttm:role="caption" begin="00:20:42.046" end="00:20:45.355">but please give us<br />feedback on that course.</p>
+      <p xml:id="subtitle462" ttm:role="caption" begin="00:20:45.356" end="00:20:46.990">This is going to give you</p>
+      <p xml:id="subtitle463" ttm:role="caption" begin="00:20:46.991" end="00:20:49.110">a good overview of</p>
+      <p xml:id="subtitle464" ttm:role="caption" begin="00:20:49.111" end="00:20:51.155">the direct routing<br />value add capabilities.</p>
+      <p xml:id="subtitle465" ttm:role="caption" begin="00:20:51.156" end="00:20:52.770">It's going to help you</p>
+      <p xml:id="subtitle466" ttm:role="caption" begin="00:20:52.771" end="00:20:54.920">understand how<br />direct routing is set up,</p>
+      <p xml:id="subtitle467" ttm:role="caption" begin="00:20:54.921" end="00:20:56.970">and with the new features are and</p>
+      <p xml:id="subtitle468" ttm:role="caption" begin="00:20:56.971" end="00:20:58.810">applying basic<br />troubleshooting steps</p>
+      <p xml:id="subtitle469" ttm:role="caption" begin="00:20:58.811" end="00:21:00.570">for various scenarios,</p>
+      <p xml:id="subtitle470" ttm:role="caption" begin="00:21:00.571" end="00:21:02.200">and that includes<br />known issues as well.</p>
+      <p xml:id="subtitle471" ttm:role="caption" begin="00:21:02.201" end="00:21:05.645">So, please do check out<br />the Direct Routing training.</p>
+      <p xml:id="subtitle472" ttm:role="caption" begin="00:21:05.646" end="00:21:09.030">Prior to that, we issued<br />our Cloud Recording Training,</p>
+      <p xml:id="subtitle473" ttm:role="caption" begin="00:21:09.031" end="00:21:11.490">an another recently<br />released feature.</p>
+      <p xml:id="subtitle474" ttm:role="caption" begin="00:21:11.491" end="00:21:15.790">We also have Microsoft Teams</p>
+      <p xml:id="subtitle475" ttm:role="caption" begin="00:21:15.791" end="00:21:18.645">and Skype for Business<br />interoperability course out there</p>
+      <p xml:id="subtitle476" ttm:role="caption" begin="00:21:18.646" end="00:21:21.100">that is being updated</p>
+      <p xml:id="subtitle477" ttm:role="caption" begin="00:21:21.101" end="00:21:25.645">as configuration options<br />are changing.</p>
+      <p xml:id="subtitle478" ttm:role="caption" begin="00:21:25.646" end="00:21:28.375">So, please do also<br />view that training.</p>
+      <p xml:id="subtitle479" ttm:role="caption" begin="00:21:28.376" end="00:21:29.895">Again, apologies for the lack</p>
+      <p xml:id="subtitle480" ttm:role="caption" begin="00:21:29.896" end="00:21:33.400">of content showing on screen.</p>
+      <p xml:id="subtitle481" ttm:role="caption" begin="00:21:33.401" end="00:21:36.480">So, coming up in June for Teams,</p>
+      <p xml:id="subtitle482" ttm:role="caption" begin="00:21:36.481" end="00:21:40.600">we are going to be addressing</p>
+      <p xml:id="subtitle483" ttm:role="caption" begin="00:21:40.601" end="00:21:42.095">the Skype for Business to Teams</p>
+      <p xml:id="subtitle484" ttm:role="caption" begin="00:21:42.096" end="00:21:45.925">Upgrade Process<br />and Customer Experience.</p>
+      <p xml:id="subtitle485" ttm:role="caption" begin="00:21:45.926" end="00:21:51.580">The schedule for these upgrades<br />is being finalized,</p>
+      <p xml:id="subtitle486" ttm:role="caption" begin="00:21:51.581" end="00:21:53.850">but we can look for<br />this activity to kick</p>
+      <p xml:id="subtitle487" ttm:role="caption" begin="00:21:53.851" end="00:21:56.170">off and start small</p>
+      <p xml:id="subtitle488" ttm:role="caption" begin="00:21:56.171" end="00:21:59.080">but ramp up beginning in<br />the next month or so.</p>
+      <p xml:id="subtitle489" ttm:role="caption" begin="00:21:59.081" end="00:22:01.310">We'll also be covering<br />Call Delegation</p>
+      <p xml:id="subtitle490" ttm:role="caption" begin="00:22:01.311" end="00:22:02.975">and Consultative Transfer,</p>
+      <p xml:id="subtitle491" ttm:role="caption" begin="00:22:02.976" end="00:22:04.925">and we are watching</p>
+      <p xml:id="subtitle492" ttm:role="caption" begin="00:22:04.926" end="00:22:08.640">Teams Federation<br />features lighting up,</p>
+      <p xml:id="subtitle493" ttm:role="caption" begin="00:22:08.641" end="00:22:12.530">and we will be training<br />on those features</p>
+      <p xml:id="subtitle494" ttm:role="caption" begin="00:22:12.531" end="00:22:14.355">as we have more information</p>
+      <p xml:id="subtitle495" ttm:role="caption" begin="00:22:14.356" end="00:22:17.630">that would be useful<br />to support agents.</p>
+      <p xml:id="subtitle496" ttm:role="caption" begin="00:22:17.631" end="00:22:20.240">So, beyond that, we'll be looking</p>
+      <p xml:id="subtitle497" ttm:role="caption" begin="00:22:20.241" end="00:22:23.210">to cover Teams<br />Broadcast Meetings,</p>
+      <p xml:id="subtitle498" ttm:role="caption" begin="00:22:23.211" end="00:22:25.570">which will include<br />a new feature called</p>
+      <p xml:id="subtitle499" ttm:role="caption" begin="00:22:25.571" end="00:22:28.575">Leadership Connection<br />geared toward connecting</p>
+      <p xml:id="subtitle500" ttm:role="caption" begin="00:22:28.576" end="00:22:35.495">executive leadership and<br />companies to their audience.</p>
+      <p xml:id="subtitle501" ttm:role="caption" begin="00:22:35.496" end="00:22:39.430">We are looking at<br />consolidating PSTN Teams,</p>
+      <p xml:id="subtitle502" ttm:role="caption" begin="00:22:39.431" end="00:22:42.370">PSTN Calling Feature Releases</p>
+      <p xml:id="subtitle503" ttm:role="caption" begin="00:22:42.371" end="00:22:45.900">into a consolidated<br />training as well.</p>
+      <p xml:id="subtitle504" ttm:role="caption" begin="00:22:45.901" end="00:22:50.255">Our June Brown Bag is<br />going to be on the 26.</p>
+      <p xml:id="subtitle505" ttm:role="caption" begin="00:22:50.256" end="00:22:52.410">If you have an idea for a topic</p>
+      <p xml:id="subtitle506" ttm:role="caption" begin="00:22:52.411" end="00:22:54.870">or anything you<br />want to hear about,</p>
+      <p xml:id="subtitle507" ttm:role="caption" begin="00:22:54.871" end="00:22:57.185">please do let us know<br />with that email address.</p>
+      <p xml:id="subtitle508" ttm:role="caption" begin="00:22:57.186" end="00:22:59.430">We'll be happy to arrange.</p>
+      <p xml:id="subtitle509" ttm:role="caption" begin="00:22:59.540" end="00:23:02.600">Let me just point out</p>
+      <p xml:id="subtitle510" ttm:role="caption" begin="00:23:02.601" end="00:23:05.455">a couple items on<br />the Blogs of Note.</p>
+      <p xml:id="subtitle511" ttm:role="caption" begin="00:23:05.456" end="00:23:08.990">We have that updated roadmap for</p>
+      <p xml:id="subtitle512" ttm:role="caption" begin="00:23:08.991" end="00:23:12.040">the Microsoft Teams Upgrade<br />from Skype for</p>
+      <p xml:id="subtitle513" ttm:role="caption" begin="00:23:12.041" end="00:23:13.400">Business that will give a lot of</p>
+      <p xml:id="subtitle514" ttm:role="caption" begin="00:23:13.401" end="00:23:15.905">information on feature plans.</p>
+      <p xml:id="subtitle515" ttm:role="caption" begin="00:23:15.906" end="00:23:17.670">That's a good place to go for</p>
+      <p xml:id="subtitle516" ttm:role="caption" begin="00:23:17.671" end="00:23:19.090">comprehensive information on what</p>
+      <p xml:id="subtitle517" ttm:role="caption" begin="00:23:19.091" end="00:23:20.645">that activity looks like.</p>
+      <p xml:id="subtitle518" ttm:role="caption" begin="00:23:20.646" end="00:23:22.475">Like I said, we'll be addressing</p>
+      <p xml:id="subtitle519" ttm:role="caption" begin="00:23:22.476" end="00:23:25.695">that process in a<br />training coming up.</p>
+      <p xml:id="subtitle520" ttm:role="caption" begin="00:23:25.696" end="00:23:27.290">You'll notice that we have</p>
+      <p xml:id="subtitle521" ttm:role="caption" begin="00:23:27.291" end="00:23:30.000">our planning direct routing link</p>
+      <p xml:id="subtitle522" ttm:role="caption" begin="00:23:30.001" end="00:23:32.005">included in this set of blogs,</p>
+      <p xml:id="subtitle523" ttm:role="caption" begin="00:23:32.006" end="00:23:35.700">which is an overview<br />of how customers are</p>
+      <p xml:id="subtitle524" ttm:role="caption" begin="00:23:35.701" end="00:23:37.530">to approach and<br />configure and set up</p>
+      <p xml:id="subtitle525" ttm:role="caption" begin="00:23:37.531" end="00:23:40.075">direct routing might<br />be useful for you.</p>
+      <p xml:id="subtitle526" ttm:role="caption" begin="00:23:40.076" end="00:23:43.860">I will just also point<br />out that GDPR has</p>
+      <p xml:id="subtitle527" ttm:role="caption" begin="00:23:43.861" end="00:23:47.355">been a big focus obviously<br />in the last week or so.</p>
+      <p xml:id="subtitle528" ttm:role="caption" begin="00:23:47.356" end="00:23:50.990">There's a link here to the<br />specific information about how</p>
+      <p xml:id="subtitle529" ttm:role="caption" begin="00:23:50.991" end="00:23:52.570">GDPR pertains to</p>
+      <p xml:id="subtitle530" ttm:role="caption" begin="00:23:52.571" end="00:23:54.955">Skype for Business Server<br />and Lync Server.</p>
+      <p xml:id="subtitle531" ttm:role="caption" begin="00:23:54.956" end="00:23:56.980">And as always, we are</p>
+      <p xml:id="subtitle532" ttm:role="caption" begin="00:23:56.981" end="00:23:59.320">available through<br />our Infopedia page where</p>
+      <p xml:id="subtitle533" ttm:role="caption" begin="00:23:59.321" end="00:24:01.005">you'll find our training catalog</p>
+      <p xml:id="subtitle534" ttm:role="caption" begin="00:24:01.006" end="00:24:03.960">and contact information<br />for our team.</p>
+      <p xml:id="subtitle535" ttm:role="caption" begin="00:24:03.961" end="00:24:06.790">I'm taking a look at<br />the feedback we're getting in</p>
+      <p xml:id="subtitle536" ttm:role="caption" begin="00:24:06.791" end="00:24:09.205">the chat window regarding</p>
+      <p xml:id="subtitle537" ttm:role="caption" begin="00:24:09.206" end="00:24:10.930">topics you'd like to see covered.</p>
+      <p xml:id="subtitle538" ttm:role="caption" begin="00:24:10.931" end="00:24:14.310">This is very useful<br />information for us.</p>
+      <p xml:id="subtitle539" ttm:role="caption" begin="00:24:14.311" end="00:24:16.420">We're going to take<br />these suggestions and see</p>
+      <p xml:id="subtitle540" ttm:role="caption" begin="00:24:16.421" end="00:24:18.645">if we can follow up with</p>
+      <p xml:id="subtitle541" ttm:role="caption" begin="00:24:18.646" end="00:24:20.550">a guest speaker or</p>
+      <p xml:id="subtitle542" ttm:role="caption" begin="00:24:20.551" end="00:24:24.200">provide you deeper information<br />on next Brown Bag.</p>
+      <p xml:id="subtitle543" ttm:role="caption" begin="00:24:24.201" end="00:24:26.730">Thank you so much. And with that,</p>
+      <p xml:id="subtitle544" ttm:role="caption" begin="00:24:26.731" end="00:24:28.900">I want to thank Darren<br />Hansen and the rest</p>
+      <p xml:id="subtitle545" ttm:role="caption" begin="00:24:28.901" end="00:24:31.260">of our CSS Learning<br />and Readiness Team.</p>
+      <p xml:id="subtitle546" ttm:role="caption" begin="00:24:31.261" end="00:24:34.655">And of course, those of you<br />who participated today.</p>
+      <p xml:id="subtitle547" ttm:role="caption" begin="00:24:34.656" end="00:24:38.130">Thank you so much and<br />have a great day.</p>
+    </div>
+  </body>
+</tt>

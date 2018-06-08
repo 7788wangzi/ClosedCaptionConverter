@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2015 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:fontFamily="Segoe UI" tts:fontSize="13px" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region xml:id="subtitleArea" style="s1" tts:origin="0% 0%" tts:extent="100% 60px" tts:padding="3px 3px" tts:backgroundColor="black" tts:opacity="0.7" tts:displayAlign="center" tts:showBackground="whenActive" />
+    </layout>
+  </head>
+  <body>
+    <div region="subtitleArea">
+<p begin="00:00:00.560" xml:id="p0" end="00:00:03.030">&gt;&gt; Everybody, as the top of the hour,</p>
+<p begin="00:00:03.031" xml:id="p1" end="00:00:05.250">we're going to give people another couple of</p>
+<p begin="00:00:05.251" xml:id="p2" end="00:00:08.130">minutes to join from other mediums</p>
+<p begin="00:00:08.131" xml:id="p3" end="00:00:12.400">so we'll get started in two minutes.</p>
+<p begin="00:00:12.690" xml:id="p4" end="00:00:15.340">All right, folks. We're going to give it about one</p>
+<p begin="00:00:15.341" xml:id="p5" end="00:00:17.110">more minute before we get started.</p>
+<p begin="00:00:17.111" xml:id="p6" end="00:00:21.540">All right, everybody.</p>
+<p begin="00:00:21.541" xml:id="p7" end="00:00:22.890">It's a couple of minutes after the hour,</p>
+<p begin="00:00:22.891" xml:id="p8" end="00:00:25.800">we're going to go ahead and get started as people join.</p>
+<p begin="00:00:25.801" xml:id="p9" end="00:00:29.850">Welcome to the May 2018 Skype</p>
+<p begin="00:00:29.851" xml:id="p10" end="00:00:32.745">for Business and Microsoft Teams Readiness Brown Bag.</p>
+<p begin="00:00:32.746" xml:id="p11" end="00:00:34.200">My name is Tim Ballew,</p>
+<p begin="00:00:34.201" xml:id="p12" end="00:00:36.240">and I am the Business Program Manager</p>
+<p begin="00:00:36.241" xml:id="p13" end="00:00:38.770">for CSS Learning for these products,</p>
+<p begin="00:00:38.771" xml:id="p14" end="00:00:41.580">and I'm joined today by members of our Readiness Team:</p>
+<p begin="00:00:41.581" xml:id="p15" end="00:00:43.305">our learning development managers</p>
+<p begin="00:00:43.306" xml:id="p16" end="00:00:45.390">and instructional designers.</p>
+<p begin="00:00:45.391" xml:id="p17" end="00:00:47.440">During today's session, we'll be</p>
+<p begin="00:00:47.441" xml:id="p18" end="00:00:49.590">reviewing the May feature releases and updates for</p>
+<p begin="00:00:49.591" xml:id="p19" end="00:00:51.945">Skype for Business and Teams' product family</p>
+<p begin="00:00:51.946" xml:id="p20" end="00:00:53.100">and we'll be providing</p>
+<p begin="00:00:53.101" xml:id="p21" end="00:00:54.930">you some additional resources</p>
+<p begin="00:00:54.931" xml:id="p22" end="00:00:57.450">for more information on those items.</p>
+<p begin="00:00:57.451" xml:id="p23" end="00:00:59.880">We anticipate that today's session</p>
+<p begin="00:00:59.881" xml:id="p24" end="00:01:01.600">will be roughly 50 minutes,</p>
+<p begin="00:01:01.601" xml:id="p25" end="00:01:04.570">we won't necessarily take the whole hour this time.</p>
+<p begin="00:01:04.571" xml:id="p26" end="00:01:06.220">And please note that</p>
+<p begin="00:01:06.221" xml:id="p27" end="00:01:08.275">a recording will be made available as</p>
+<p begin="00:01:08.276" xml:id="p28" end="00:01:12.200">a training and success factors after the session is over.</p>
+<p begin="00:01:12.201" xml:id="p29" end="00:01:15.600">So, a real quick reminder</p>
+<p begin="00:01:15.601" xml:id="p30" end="00:01:20.060">about our confidentiality obligations.</p>
+<p begin="00:01:20.061" xml:id="p31" end="00:01:22.855">We do not disclose confidential information,</p>
+<p begin="00:01:22.856" xml:id="p32" end="00:01:25.220">and this information that we're sharing today has not</p>
+<p begin="00:01:25.221" xml:id="p33" end="00:01:27.525">necessarily been reviewed for public consumption.</p>
+<p begin="00:01:27.526" xml:id="p34" end="00:01:29.740">So, be aware.</p>
+<p begin="00:01:30.120" xml:id="p35" end="00:01:32.380">Today we're going to be looking at</p>
+<p begin="00:01:32.381" xml:id="p36" end="00:01:35.950">typical topics of Lync and Skype for Business Server.</p>
+<p begin="00:01:35.951" xml:id="p37" end="00:01:38.150">We'll be talking about Skype</p>
+<p begin="00:01:38.151" xml:id="p38" end="00:01:39.970">for Business Online Calling Plans,</p>
+<p begin="00:01:39.971" xml:id="p39" end="00:01:43.805">Direct Routing and Coexistence Modes.</p>
+<p begin="00:01:43.806" xml:id="p40" end="00:01:46.040">Our Phones and Devices section will</p>
+<p begin="00:01:46.041" xml:id="p41" end="00:01:48.985">cover Skype Room Systems updates,</p>
+<p begin="00:01:48.986" xml:id="p42" end="00:01:52.360">and they will cover all of the clients.</p>
+<p begin="00:01:52.361" xml:id="p43" end="00:01:55.840">We'll talk a little bit about the network assessment tool</p>
+<p begin="00:01:55.841" xml:id="p44" end="00:01:59.900">and then review current recently released trainings,</p>
+<p begin="00:01:59.901" xml:id="p45" end="00:02:02.525">they have the upcoming trainings to look out for.</p>
+<p begin="00:02:02.526" xml:id="p46" end="00:02:05.700">So, with that I'm going to go</p>
+<p begin="00:02:05.701" xml:id="p47" end="00:02:08.510">ahead and hand it over to Darren Hansen,</p>
+<p begin="00:02:08.511" xml:id="p48" end="00:02:09.690">who is going to walk us through</p>
+<p begin="00:02:09.691" xml:id="p49" end="00:02:12.890">our features and fixes. Darren!</p>
+<p begin="00:02:13.540" xml:id="p50" end="00:02:16.280">&gt;&gt; All right thank you much Tim.</p>
+<p begin="00:02:16.281" xml:id="p51" end="00:02:17.900">All right, so we're going to start off</p>
+<p begin="00:02:17.901" xml:id="p52" end="00:02:19.040">today with an update</p>
+<p begin="00:02:19.041" xml:id="p53" end="00:02:22.070">for Skype for Business Server 2015.</p>
+<p begin="00:02:22.071" xml:id="p54" end="00:02:27.165">This is highly anticipated CU for CU7.</p>
+<p begin="00:02:27.166" xml:id="p55" end="00:02:31.160">It is going to come out here in June in a little bit.</p>
+<p begin="00:02:31.161" xml:id="p56" end="00:02:33.380">We don't have an exact date but it should be</p>
+<p begin="00:02:33.381" xml:id="p57" end="00:02:35.300">coming up in the next few weeks.</p>
+<p begin="00:02:35.301" xml:id="p58" end="00:02:38.450">So, there are a lot of</p>
+<p begin="00:02:38.451" xml:id="p59" end="00:02:40.700">fixes and improvements and</p>
+<p begin="00:02:40.701" xml:id="p60" end="00:02:42.695">stuff like that that have gone into this update.</p>
+<p begin="00:02:42.696" xml:id="p61" end="00:02:45.610">We're going to highlight a few here on the slides,</p>
+<p begin="00:02:45.611" xml:id="p62" end="00:02:48.630">and then the majority of them are in the appendix,</p>
+<p begin="00:02:48.631" xml:id="p63" end="00:02:50.935">which is linked right down here.</p>
+<p begin="00:02:50.936" xml:id="p64" end="00:02:52.940">So, the first one that we're going to talk</p>
+<p begin="00:02:52.941" xml:id="p65" end="00:02:55.010">about is an issue where we now</p>
+<p begin="00:02:55.011" xml:id="p66" end="00:02:57.590">support anonymous PSTN callers starting</p>
+<p begin="00:02:57.591" xml:id="p67" end="00:02:59.510">a static meeting without</p>
+<p begin="00:02:59.511" xml:id="p68" end="00:03:02.525">an authenticated user in Skype for Business.</p>
+<p begin="00:03:02.526" xml:id="p69" end="00:03:04.760">Another one where we support</p>
+<p begin="00:03:04.761" xml:id="p70" end="00:03:06.830">the end meeting functionality for</p>
+<p begin="00:03:06.831" xml:id="p71" end="00:03:09.995">Skype for Business on Mac in 2015,</p>
+<p begin="00:03:09.996" xml:id="p72" end="00:03:13.160">enabling Skype meetings app to replace</p>
+<p begin="00:03:13.161" xml:id="p73" end="00:03:14.810">the Skype for Business Web app and</p>
+<p begin="00:03:14.811" xml:id="p74" end="00:03:17.540">Skype for Business Server 2015.</p>
+<p begin="00:03:18.490" xml:id="p75" end="00:03:22.265">Then Microsoft SQL servers</p>
+<p begin="00:03:22.266" xml:id="p76" end="00:03:25.285">2016 is available for the back end server.</p>
+<p begin="00:03:25.286" xml:id="p77" end="00:03:28.010">Oh! I'm sorry, Thank you Colin.</p>
+<p begin="00:03:28.011" xml:id="p78" end="00:03:31.130">I did not take over as presenter there.</p>
+<p begin="00:03:31.450" xml:id="p79" end="00:03:33.710">All right so now you should be seeing</p>
+<p begin="00:03:33.711" xml:id="p80" end="00:03:35.810">the Skype for Business Server 2015</p>
+<p begin="00:03:35.811" xml:id="p81" end="00:03:40.350">slides with a few improvements here on the screen.</p>
+<p begin="00:03:40.351" xml:id="p82" end="00:03:42.820">So, we get to the last one there were</p>
+<p begin="00:03:42.821" xml:id="p83" end="00:03:45.220">Microsoft SQL server 2016 is available</p>
+<p begin="00:03:45.221" xml:id="p84" end="00:03:49.200">for backend servers of Skype for Business Server 2015.</p>
+<p begin="00:03:49.201" xml:id="p85" end="00:03:51.270">So, we now support that.</p>
+<p begin="00:03:51.310" xml:id="p86" end="00:03:54.485">And again, there are probably</p>
+<p begin="00:03:54.486" xml:id="p87" end="00:03:58.190">20 or more additional fixes and improvements</p>
+<p begin="00:03:58.191" xml:id="p88" end="00:04:01.130">in the appendix there so make sure you download the deck</p>
+<p begin="00:04:01.131" xml:id="p89" end="00:04:04.570">from the meeting attachments and take a look there.</p>
+<p begin="00:04:04.571" xml:id="p90" end="00:04:07.520">So, now moving off of</p>
+<p begin="00:04:07.521" xml:id="p91" end="00:04:10.310">server and onto sort of Skype for Business online,</p>
+<p begin="00:04:10.311" xml:id="p92" end="00:04:12.225">you can see that all of these things have to do</p>
+<p begin="00:04:12.226" xml:id="p93" end="00:04:16.180">with Microsoft Teams but they also do</p>
+<p begin="00:04:16.181" xml:id="p94" end="00:04:19.700">reflect functionality and Skype for Business</p>
+<p begin="00:04:19.701" xml:id="p95" end="00:04:21.350">online too for customers who are</p>
+<p begin="00:04:21.351" xml:id="p96" end="00:04:23.860">using for example calling plans,</p>
+<p begin="00:04:23.861" xml:id="p97" end="00:04:28.090">Direct Routing and coexistence modes apply.</p>
+<p begin="00:04:28.091" xml:id="p98" end="00:04:29.945">But, as we move forward</p>
+<p begin="00:04:29.946" xml:id="p99" end="00:04:32.030">you'll also see in the top right hand corner</p>
+<p begin="00:04:32.031" xml:id="p100" end="00:04:36.380">that there are some logos for Teams and Skype.</p>
+<p begin="00:04:36.381" xml:id="p101" end="00:04:39.295">Those just help you know which</p>
+<p begin="00:04:39.296" xml:id="p102" end="00:04:40.580">one we're talking about on each</p>
+<p begin="00:04:40.581" xml:id="p103" end="00:04:42.080">individual slide as we go through the deck,</p>
+<p begin="00:04:42.081" xml:id="p104" end="00:04:44.750">you see we've made some updates to the template.</p>
+<p begin="00:04:44.751" xml:id="p105" end="00:04:45.920">So, we're just trying to</p>
+<p begin="00:04:45.921" xml:id="p106" end="00:04:47.615">make that a little bit more clear.</p>
+<p begin="00:04:47.616" xml:id="p107" end="00:04:50.450">So, Microsoft Teams and</p>
+<p begin="00:04:50.451" xml:id="p108" end="00:04:52.340">Skype for Business Online calling plans in</p>
+<p begin="00:04:52.341" xml:id="p109" end="00:04:54.530">Canada are now general available,</p>
+<p begin="00:04:54.531" xml:id="p110" end="00:04:57.910">that was updated or released on May first.</p>
+<p begin="00:04:57.911" xml:id="p111" end="00:05:00.980">So, all calls between US and Canada users in</p>
+<p begin="00:05:00.981" xml:id="p112" end="00:05:02.360">both directions are now considered</p>
+<p begin="00:05:02.361" xml:id="p113" end="00:05:05.225">domestic and not international so that's a big win.</p>
+<p begin="00:05:05.226" xml:id="p114" end="00:05:07.535">Calling plans work with both teams</p>
+<p begin="00:05:07.536" xml:id="p115" end="00:05:09.415">as well as Skype for Business and you can buy</p>
+<p begin="00:05:09.416" xml:id="p116" end="00:05:13.720">today in Office 365 together obviously,</p>
+<p begin="00:05:13.721" xml:id="p117" end="00:05:15.350">they make calling enabled for</p>
+<p begin="00:05:15.351" xml:id="p118" end="00:05:19.275">your organization using your primary phone number.</p>
+<p begin="00:05:19.276" xml:id="p119" end="00:05:23.285">So, make sure your customers know about that.</p>
+<p begin="00:05:23.286" xml:id="p120" end="00:05:25.950">There is information in the blog here.</p>
+<p begin="00:05:27.480" xml:id="p121" end="00:05:29.690">Direct Routing, if you</p>
+<p begin="00:05:29.691" xml:id="p122" end="00:05:32.315">haven't heard about Direct Routing before.</p>
+<p begin="00:05:32.316" xml:id="p123" end="00:05:35.645">It's essentially CCE or Cloud.</p>
+<p begin="00:05:35.646" xml:id="p124" end="00:05:38.705">There are definitely two different things</p>
+<p begin="00:05:38.706" xml:id="p125" end="00:05:40.400">but this is basically using</p>
+<p begin="00:05:40.401" xml:id="p126" end="00:05:45.680">your on premise infrastructure with Teams to route calls.</p>
+<p begin="00:05:45.681" xml:id="p127" end="00:05:48.900">So, this was released on May 15.</p>
+<p begin="00:05:49.540" xml:id="p128" end="00:05:52.655">Customers can choose to sign up for preview</p>
+<p begin="00:05:52.656" xml:id="p129" end="00:05:54.910">and they will get support through our in market teams.</p>
+<p begin="00:05:54.911" xml:id="p130" end="00:05:57.505">It is a preview release,</p>
+<p begin="00:05:57.506" xml:id="p131" end="00:05:59.255">so just be aware of that.</p>
+<p begin="00:05:59.256" xml:id="p132" end="00:06:01.880">What if you do get a call and you</p>
+<p begin="00:06:01.881" xml:id="p133" end="00:06:04.540">need assistance with answering direct routing calls?</p>
+<p begin="00:06:04.541" xml:id="p134" end="00:06:06.695">You can post your question here,</p>
+<p begin="00:06:06.696" xml:id="p135" end="00:06:10.085">which leads to the real one note I believe,</p>
+<p begin="00:06:10.086" xml:id="p136" end="00:06:12.260">and SME will respond or you</p>
+<p begin="00:06:12.261" xml:id="p137" end="00:06:14.370">can reach out to one of these SMEs listed.</p>
+<p begin="00:06:14.371" xml:id="p138" end="00:06:17.055">So, I know that there are some of you on the phone,</p>
+<p begin="00:06:17.056" xml:id="p139" end="00:06:18.925">who are on this list so,</p>
+<p begin="00:06:18.926" xml:id="p140" end="00:06:22.380">I hope you don't get too many calls or questions.</p>
+<p begin="00:06:22.381" xml:id="p141" end="00:06:24.260">There's also plenty of</p>
+<p begin="00:06:24.261" xml:id="p142" end="00:06:27.265">information in our training that we just released,</p>
+<p begin="00:06:27.266" xml:id="p143" end="00:06:30.570">as well as the UC real one note documents.</p>
+<p begin="00:06:30.571" xml:id="p144" end="00:06:33.890">So, Carolyn and other SMEs did a</p>
+<p begin="00:06:33.891" xml:id="p145" end="00:06:37.260">really bang up job in documenting Direct Routing,</p>
+<p begin="00:06:37.261" xml:id="p146" end="00:06:39.820">documenting troubleshooting methodologies,</p>
+<p begin="00:06:39.821" xml:id="p147" end="00:06:42.440">scenarios, all sorts of stuff.</p>
+<p begin="00:06:42.441" xml:id="p148" end="00:06:45.530">So, it's very well understood product</p>
+<p begin="00:06:45.531" xml:id="p149" end="00:06:47.740">at this point and we're just entering previews.</p>
+<p begin="00:06:47.741" xml:id="p150" end="00:06:54.890">So, coexistence mode, you may have also heard about this.</p>
+<p begin="00:06:54.891" xml:id="p151" end="00:06:58.310">Greg talked about it in our last brown bag last month,</p>
+<p begin="00:06:58.311" xml:id="p152" end="00:07:00.200">when he demo the modern portal</p>
+<p begin="00:07:00.201" xml:id="p153" end="00:07:02.450">and the modes for upgrading.</p>
+<p begin="00:07:02.451" xml:id="p154" end="00:07:06.815">So, the modern portal now removes the interrupt policy</p>
+<p begin="00:07:06.816" xml:id="p155" end="00:07:08.090">and upgrade policy as</p>
+<p begin="00:07:08.091" xml:id="p156" end="00:07:12.335">two separate entities and gives us coexistence modes.</p>
+<p begin="00:07:12.336" xml:id="p157" end="00:07:14.555">The goal is to consolidate</p>
+<p begin="00:07:14.556" xml:id="p158" end="00:07:16.070">the upgrade experience when</p>
+<p begin="00:07:16.071" xml:id="p159" end="00:07:18.020">transitioning from Skype for Business to Teams,</p>
+<p begin="00:07:18.021" xml:id="p160" end="00:07:20.550">because it's pretty confusing as it is today.</p>
+<p begin="00:07:20.551" xml:id="p161" end="00:07:23.370">There are some customers and TAP,</p>
+<p begin="00:07:23.371" xml:id="p162" end="00:07:28.390">who have already set the Teams interrupt policy before,</p>
+<p begin="00:07:28.391" xml:id="p163" end="00:07:32.070">and those customers are flighted</p>
+<p begin="00:07:32.071" xml:id="p164" end="00:07:36.025">for the Team's only upgrade coexistence mode.</p>
+<p begin="00:07:36.026" xml:id="p165" end="00:07:38.450">So, they're the only customers right now who can</p>
+<p begin="00:07:38.451" xml:id="p166" end="00:07:40.250">fully switch the Teams</p>
+<p begin="00:07:40.251" xml:id="p167" end="00:07:42.960">and have Skype for Business disabled.</p>
+<p begin="00:07:43.300" xml:id="p168" end="00:07:46.070">The rest of the customers are given</p>
+<p begin="00:07:46.071" xml:id="p169" end="00:07:48.950">the option of I believe,</p>
+<p begin="00:07:48.951" xml:id="p170" end="00:07:52.230">Skype for Business only or Teams club,</p>
+<p begin="00:07:52.231" xml:id="p171" end="00:07:55.905">and so make sure to check out the appendix.</p>
+<p begin="00:07:55.906" xml:id="p172" end="00:07:59.295">There are some screenshots in there to understand what</p>
+<p begin="00:07:59.296" xml:id="p173" end="00:08:01.940">the coexistence mode looks like</p>
+<p begin="00:08:01.941" xml:id="p174" end="00:08:04.610">and how to set it, as well as a blog.</p>
+<p begin="00:08:04.611" xml:id="p175" end="00:08:06.935">So, make sure you go check those out.</p>
+<p begin="00:08:06.936" xml:id="p176" end="00:08:08.570">We also will be releasing</p>
+<p begin="00:08:08.571" xml:id="p177" end="00:08:10.190">training here in the next few weeks</p>
+<p begin="00:08:10.191" xml:id="p178" end="00:08:13.690">on the upgrade story and the interrupt mode story,</p>
+<p begin="00:08:13.691" xml:id="p179" end="00:08:15.615">so make sure to look out for that.</p>
+<p begin="00:08:15.616" xml:id="p180" end="00:08:19.130">So, that does it</p>
+<p begin="00:08:19.131" xml:id="p181" end="00:08:20.565">for Skype for Business Online</p>
+<p begin="00:08:20.566" xml:id="p182" end="00:08:23.120">specifically or Microsoft Teams.</p>
+<p begin="00:08:23.121" xml:id="p183" end="00:08:25.040">So, now we'll move on to Phone Devices,</p>
+<p begin="00:08:25.041" xml:id="p184" end="00:08:27.110">where we've got some updates</p>
+<p begin="00:08:27.111" xml:id="p185" end="00:08:29.785">or information on Skype Room Systems.</p>
+<p begin="00:08:29.786" xml:id="p186" end="00:08:32.720">So, this one is a performance issue on</p>
+<p begin="00:08:32.721" xml:id="p187" end="00:08:35.814">Skype Room Systems v2 devices</p>
+<p begin="00:08:35.815" xml:id="p188" end="00:08:40.830">that are on Surface Pro 2017 based devices.</p>
+<p begin="00:08:42.020" xml:id="p189" end="00:08:47.250">So there is a performance issues when you join</p>
+<p begin="00:08:47.251" xml:id="p190" end="00:08:48.820">a meeting with a combination</p>
+<p begin="00:08:48.821" xml:id="p191" end="00:08:52.020">of HDMI, wired ingest sharing.</p>
+<p begin="00:08:52.021" xml:id="p192" end="00:08:54.370">So, you're plugging the HDMI into your laptop,</p>
+<p begin="00:08:54.371" xml:id="p193" end="00:08:56.685">and sharing through the Skype Room System.</p>
+<p begin="00:08:56.686" xml:id="p194" end="00:08:59.820">When you have dual front-of-room displays,</p>
+<p begin="00:08:59.821" xml:id="p195" end="00:09:02.010">and multiple remote video streams being used.</p>
+<p begin="00:09:02.011" xml:id="p196" end="00:09:03.650">So, when all of those things are</p>
+<p begin="00:09:03.651" xml:id="p197" end="00:09:06.065">happening in conjunction in one meeting,</p>
+<p begin="00:09:06.066" xml:id="p198" end="00:09:08.875">you might get some performance issues.</p>
+<p begin="00:09:08.876" xml:id="p199" end="00:09:13.010">So, possible workarounds are desktop sharing into</p>
+<p begin="00:09:13.011" xml:id="p200" end="00:09:15.390">the meeting via Skype for Business Application</p>
+<p begin="00:09:15.391" xml:id="p201" end="00:09:17.200">instead of the HDMI cable,</p>
+<p begin="00:09:17.201" xml:id="p202" end="00:09:21.040">or reducing the front-off-room display configuration</p>
+<p begin="00:09:21.041" xml:id="p203" end="00:09:23.175">to a single screen.</p>
+<p begin="00:09:23.176" xml:id="p204" end="00:09:26.390">So, that's just be aware of that if you're</p>
+<p begin="00:09:26.391" xml:id="p205" end="00:09:28.120">using all of these features</p>
+<p begin="00:09:28.121" xml:id="p206" end="00:09:30.250">of Skype Room Systems at one time,</p>
+<p begin="00:09:30.251" xml:id="p207" end="00:09:32.170">you might get some performance issues,</p>
+<p begin="00:09:32.171" xml:id="p208" end="00:09:35.935">specifically on the Surface Pro 2017 based devices.</p>
+<p begin="00:09:35.936" xml:id="p209" end="00:09:38.630">So, this is just to let you know that documentation</p>
+<p begin="00:09:38.631" xml:id="p210" end="00:09:41.610">has been updated for Skype Room Systems v2.</p>
+<p begin="00:09:41.611" xml:id="p211" end="00:09:44.550">It improves the onscreen keyboard behavior,</p>
+<p begin="00:09:44.551" xml:id="p212" end="00:09:46.400">or just lets you know about</p>
+<p begin="00:09:46.401" xml:id="p213" end="00:09:48.130">the onscreen keyboard behavior</p>
+<p begin="00:09:48.131" xml:id="p214" end="00:09:50.855">in version 1709 of Windows 10,</p>
+<p begin="00:09:50.856" xml:id="p215" end="00:09:54.150">and improvements to prepare</p>
+<p begin="00:09:54.151" xml:id="p216" end="00:09:57.175">for updates to future operating systems.</p>
+<p begin="00:09:57.176" xml:id="p217" end="00:09:58.940">All right. Moving on to Lync,</p>
+<p begin="00:09:58.941" xml:id="p218" end="00:10:00.660">and Skype for Business desktop,</p>
+<p begin="00:10:00.661" xml:id="p219" end="00:10:04.040">and mobile clients, we also have Teams in here as well.</p>
+<p begin="00:10:04.041" xml:id="p220" end="00:10:08.375">So, we will start off with Skype for Business 2015.</p>
+<p begin="00:10:08.376" xml:id="p221" end="00:10:11.815">This was an update released back on May 1st.</p>
+<p begin="00:10:11.816" xml:id="p222" end="00:10:15.970">Just one issue fixed here with a location display issue</p>
+<p begin="00:10:15.971" xml:id="p223" end="00:10:20.430">if using E911 is set to true in Skype for Business.</p>
+<p begin="00:10:20.431" xml:id="p224" end="00:10:23.060">So there, the downloads available there,</p>
+<p begin="00:10:23.061" xml:id="p225" end="00:10:26.180">as well as the KB if you'd like more information.</p>
+<p begin="00:10:26.181" xml:id="p226" end="00:10:29.204">Joe correctly called out</p>
+<p begin="00:10:29.205" xml:id="p227" end="00:10:33.310">that this should be May 1st, 2018 not 2013.</p>
+<p begin="00:10:33.311" xml:id="p228" end="00:10:35.375">So, thank you.</p>
+<p begin="00:10:35.376" xml:id="p229" end="00:10:37.695">Skype for Business 2016,</p>
+<p begin="00:10:37.696" xml:id="p230" end="00:10:39.420">also released on May 1st.</p>
+<p begin="00:10:39.421" xml:id="p231" end="00:10:41.780">I know that the same fix for</p>
+<p begin="00:10:41.781" xml:id="p232" end="00:10:46.130">the 2015 client is also in the 2016 quite right here,</p>
+<p begin="00:10:46.131" xml:id="p233" end="00:10:48.265">in addition to two other ones.</p>
+<p begin="00:10:48.266" xml:id="p234" end="00:10:51.190">So, unread messages of a reopened chatroom are</p>
+<p begin="00:10:51.191" xml:id="p235" end="00:10:52.900">incorrectly indicated when restarting</p>
+<p begin="00:10:52.901" xml:id="p236" end="00:10:54.320">Skype for Business 2016,</p>
+<p begin="00:10:54.321" xml:id="p237" end="00:10:55.910">so that issue is fixed.</p>
+<p begin="00:10:55.911" xml:id="p238" end="00:10:57.870">Another issue fixed where you</p>
+<p begin="00:10:57.871" xml:id="p239" end="00:11:00.365">were repeatedly added as a delegate.</p>
+<p begin="00:11:00.366" xml:id="p240" end="00:11:03.270">You would receive that message every time you log in</p>
+<p begin="00:11:03.271" xml:id="p241" end="00:11:05.675">to Skype for Business 2015 even if you were,</p>
+<p begin="00:11:05.676" xml:id="p242" end="00:11:08.200">had already been a member of that,</p>
+<p begin="00:11:08.280" xml:id="p243" end="00:11:12.105">or even selected as a delegate for that user.</p>
+<p begin="00:11:12.106" xml:id="p244" end="00:11:15.070">So, make sure to check out the download links,</p>
+<p begin="00:11:15.071" xml:id="p245" end="00:11:16.645">as well as KB.</p>
+<p begin="00:11:16.646" xml:id="p246" end="00:11:19.440">So, Microsoft Teams.</p>
+<p begin="00:11:20.960" xml:id="p247" end="00:11:23.580">Some of this is available</p>
+<p begin="00:11:23.581" xml:id="p248" end="00:11:26.190">publicly in your regular Team's client.</p>
+<p begin="00:11:26.191" xml:id="p249" end="00:11:28.780">You can go to the, I believe, the T bot,</p>
+<p begin="00:11:28.781" xml:id="p250" end="00:11:32.005">and look at what's new in Teams.</p>
+<p begin="00:11:32.006" xml:id="p251" end="00:11:36.320">So, just some new features,</p>
+<p begin="00:11:36.321" xml:id="p252" end="00:11:38.255">and new improvements that they've made.</p>
+<p begin="00:11:38.256" xml:id="p253" end="00:11:39.950">I believe this was last months</p>
+<p begin="00:11:39.951" xml:id="p254" end="00:11:41.080">that we may have already covered it.</p>
+<p begin="00:11:41.081" xml:id="p255" end="00:11:43.800">So, you can now send messages from the command box.</p>
+<p begin="00:11:43.801" xml:id="p256" end="00:11:45.100">For the contact card,</p>
+<p begin="00:11:45.101" xml:id="p257" end="00:11:48.330">you can dial out or into a group call,</p>
+<p begin="00:11:48.331" xml:id="p258" end="00:11:52.180">auto import, or auto favorite import channels.</p>
+<p begin="00:11:52.181" xml:id="p259" end="00:11:54.545">That means that an admin of a channel,</p>
+<p begin="00:11:54.546" xml:id="p260" end="00:11:55.970">or an owner of a channel,</p>
+<p begin="00:11:55.971" xml:id="p261" end="00:11:58.550">or a group can automatically</p>
+<p begin="00:11:58.551" xml:id="p262" end="00:12:00.050">favorites certain channels for</p>
+<p begin="00:12:00.051" xml:id="p263" end="00:12:01.960">you when you join the team.</p>
+<p begin="00:12:01.961" xml:id="p264" end="00:12:04.530">New views in the Microsoft Planner tab.</p>
+<p begin="00:12:04.531" xml:id="p265" end="00:12:06.090">I believe there's graph views,</p>
+<p begin="00:12:06.091" xml:id="p266" end="00:12:08.290">and different schedule views,</p>
+<p begin="00:12:08.291" xml:id="p267" end="00:12:10.415">you can look at the schedule all up.</p>
+<p begin="00:12:10.416" xml:id="p268" end="00:12:13.220">Then, in the charts view of the Planner tab,</p>
+<p begin="00:12:13.221" xml:id="p269" end="00:12:14.390">you can stay up to date on</p>
+<p begin="00:12:14.391" xml:id="p270" end="00:12:16.355">the status of your plans obviously.</p>
+<p begin="00:12:16.356" xml:id="p271" end="00:12:19.820">So, there's also filtering options where you can</p>
+<p begin="00:12:19.821" xml:id="p272" end="00:12:23.335">group tasks by buckets such as a sign to,</p>
+<p begin="00:12:23.336" xml:id="p273" end="00:12:24.990">progress, due dates, and labels.</p>
+<p begin="00:12:24.991" xml:id="p274" end="00:12:28.695">So, you have a lot more way to look at your project data.</p>
+<p begin="00:12:28.696" xml:id="p275" end="00:12:31.530">You can now use the SharePoint tab</p>
+<p begin="00:12:31.531" xml:id="p276" end="00:12:33.090">to place important pages,</p>
+<p begin="00:12:33.091" xml:id="p277" end="00:12:36.495">news articles, and list as individual tabs in a channel.</p>
+<p begin="00:12:36.496" xml:id="p278" end="00:12:39.160">So, instead of just having a link to one SharePoint page,</p>
+<p begin="00:12:39.161" xml:id="p279" end="00:12:43.310">you can add a list to specific SharePoint pages,</p>
+<p begin="00:12:43.311" xml:id="p280" end="00:12:46.875">and have that show up in your team channel.</p>
+<p begin="00:12:46.876" xml:id="p281" end="00:12:50.590">&gt;&gt; Hey, Darren we got a quick question regarding the</p>
+<p begin="00:12:50.591" xml:id="p282" end="00:12:53.450">delegate data fix for 2016 MSI.</p>
+<p begin="00:12:53.451" xml:id="p283" end="00:12:57.555">Does that now imply that it supports 25 delegators.</p>
+<p begin="00:12:57.556" xml:id="p284" end="00:13:02.255">&gt;&gt; I didn't get that implication from what I read.</p>
+<p begin="00:13:02.256" xml:id="p285" end="00:13:04.780">I think we'd have to check the KB for more information,</p>
+<p begin="00:13:04.781" xml:id="p286" end="00:13:11.690">but I wouldn't know off the top of my head.</p>
+<p begin="00:13:11.691" xml:id="p287" end="00:13:15.300">So, that's a good question that if it's not in the KB,</p>
+<p begin="00:13:15.301" xml:id="p288" end="00:13:17.175">we can go ahead, and take a look at that.</p>
+<p begin="00:13:17.176" xml:id="p289" end="00:13:20.300">So, Tim, if you might take a note to follow up on that.</p>
+<p begin="00:13:20.301" xml:id="p290" end="00:13:21.685">We can check later.</p>
+<p begin="00:13:21.686" xml:id="p291" end="00:13:23.020">&gt;&gt; I will do that.</p>
+<p begin="00:13:23.021" xml:id="p292" end="00:13:26.080">&gt;&gt; Thank you. All right.</p>
+<p begin="00:13:26.081" xml:id="p293" end="00:13:29.575">So, moving on more on Microsoft Teams,</p>
+<p begin="00:13:29.576" xml:id="p294" end="00:13:33.240">few highlights on the iOS, and Android apps.</p>
+<p begin="00:13:33.241" xml:id="p295" end="00:13:36.635">We now have better meeting capabilities on the apps.</p>
+<p begin="00:13:36.636" xml:id="p296" end="00:13:39.050">You can request a call to your Teams</p>
+<p begin="00:13:39.051" xml:id="p297" end="00:13:41.645">phone to connect you to a meeting instead of dialing in.</p>
+<p begin="00:13:41.646" xml:id="p298" end="00:13:43.440">That's very similar to Skype for Business,</p>
+<p begin="00:13:43.441" xml:id="p299" end="00:13:44.760">and how it's done today.</p>
+<p begin="00:13:44.761" xml:id="p300" end="00:13:46.950">So, you can easily turn a one on</p>
+<p begin="00:13:46.951" xml:id="p301" end="00:13:48.860">one call into a group call,</p>
+<p begin="00:13:48.861" xml:id="p302" end="00:13:50.250">or transfer one on one call</p>
+<p begin="00:13:50.251" xml:id="p303" end="00:13:52.175">to someone else, or forward calls.</p>
+<p begin="00:13:52.176" xml:id="p304" end="00:13:54.060">This is all in the mobile app, remember.</p>
+<p begin="00:13:54.061" xml:id="p305" end="00:13:55.310">So, some of the stuff is already</p>
+<p begin="00:13:55.311" xml:id="p306" end="00:13:56.585">available on the desktop app,</p>
+<p begin="00:13:56.586" xml:id="p307" end="00:13:59.675">now it's in mobile.</p>
+<p begin="00:13:59.676" xml:id="p308" end="00:14:03.900">So, you can now create Teams for mobile, and Teams EDU.</p>
+<p begin="00:14:03.901" xml:id="p309" end="00:14:07.970">So, specifically you have to be a EDU customer,</p>
+<p begin="00:14:07.971" xml:id="p310" end="00:14:10.480">using classrooms, and teachers,</p>
+<p begin="00:14:10.481" xml:id="p311" end="00:14:11.550">and students can now create,</p>
+<p begin="00:14:11.551" xml:id="p312" end="00:14:13.565">edit, and delete teams on mobile.</p>
+<p begin="00:14:13.566" xml:id="p313" end="00:14:17.535">So, as we announced this last week, or last month,</p>
+<p begin="00:14:17.536" xml:id="p314" end="00:14:20.005">but more about the Windows Phone apps for Teams,</p>
+<p begin="00:14:20.006" xml:id="p315" end="00:14:21.910">the app for Teams,</p>
+<p begin="00:14:21.911" xml:id="p316" end="00:14:24.040">and Skype for Business is being retired.</p>
+<p begin="00:14:24.041" xml:id="p317" end="00:14:25.890">So, after this takes effects,</p>
+<p begin="00:14:25.891" xml:id="p318" end="00:14:27.415">users would no longer be able to</p>
+<p begin="00:14:27.416" xml:id="p319" end="00:14:29.370">download the app from the Store,</p>
+<p begin="00:14:29.371" xml:id="p320" end="00:14:31.595">and the app will no longer be supported.</p>
+<p begin="00:14:31.596" xml:id="p321" end="00:14:33.960">So, we'll continue to invest in the iOS,</p>
+<p begin="00:14:33.961" xml:id="p322" end="00:14:35.650">and Android apps on desktop,</p>
+<p begin="00:14:35.651" xml:id="p323" end="00:14:39.325">and Windows, but no longer the Windows Phone apps.</p>
+<p begin="00:14:39.326" xml:id="p324" end="00:14:41.570">This is essentially the same thing</p>
+<p begin="00:14:41.571" xml:id="p325" end="00:14:42.775">what I just highlighted.</p>
+<p begin="00:14:42.776" xml:id="p326" end="00:14:45.500">This takes effect July 20th.</p>
+<p begin="00:14:45.501" xml:id="p327" end="00:14:48.000">So, beginning July 20th,</p>
+<p begin="00:14:48.001" xml:id="p328" end="00:14:49.750">the app will no longer be in the Store.</p>
+<p begin="00:14:49.751" xml:id="p329" end="00:14:51.880">However, existing users will still be</p>
+<p begin="00:14:51.881" xml:id="p330" end="00:14:54.620">able to use the app until October 20th.</p>
+<p begin="00:14:54.621" xml:id="p331" end="00:14:57.840">At which point, the Teams app will no longer work,</p>
+<p begin="00:14:57.841" xml:id="p332" end="00:14:59.160">and users will see an</p>
+<p begin="00:14:59.161" xml:id="p333" end="00:15:01.110">error message when they try to connect.</p>
+<p begin="00:15:01.111" xml:id="p334" end="00:15:04.990">So, it's just recommended that if you want</p>
+<p begin="00:15:04.991" xml:id="p335" end="00:15:10.145">to continue using it until October 20th,</p>
+<p begin="00:15:10.146" xml:id="p336" end="00:15:12.450">go ahead, and install it before</p>
+<p begin="00:15:12.451" xml:id="p337" end="00:15:15.970">July 20th when it disappears from the App Store.</p>
+<p begin="00:15:15.971" xml:id="p338" end="00:15:19.145">So, additional information, there's a blog there.</p>
+<p begin="00:15:19.146" xml:id="p339" end="00:15:22.270">Moving on to Skype for Business for Mac,</p>
+<p begin="00:15:22.271" xml:id="p340" end="00:15:25.575">we have a few fixes that went into this release,</p>
+<p begin="00:15:25.576" xml:id="p341" end="00:15:27.710">that was came out May 8th.</p>
+<p begin="00:15:27.711" xml:id="p342" end="00:15:31.170">So, an issue where excessive CPU usage was</p>
+<p begin="00:15:31.171" xml:id="p343" end="00:15:33.180">happening when opening a new conversation</p>
+<p begin="00:15:33.181" xml:id="p344" end="00:15:35.250">while offline has been fixed.</p>
+<p begin="00:15:35.251" xml:id="p345" end="00:15:36.810">Another issue that prevented</p>
+<p begin="00:15:36.811" xml:id="p346" end="00:15:38.850">notifications of new phone calls from</p>
+<p begin="00:15:38.851" xml:id="p347" end="00:15:40.360">being visible when</p>
+<p begin="00:15:40.361" xml:id="p348" end="00:15:42.555">a Skype for Business window was zoomed,</p>
+<p begin="00:15:42.556" xml:id="p349" end="00:15:44.800">has been fixed, changed</p>
+<p begin="00:15:44.801" xml:id="p350" end="00:15:47.550">how the IM disclaimer messages are displayed.</p>
+<p begin="00:15:47.551" xml:id="p351" end="00:15:49.110">Fixed a crash in</p>
+<p begin="00:15:49.111" xml:id="p352" end="00:15:51.995">some cases where users tries to sign out,</p>
+<p begin="00:15:51.996" xml:id="p353" end="00:15:55.140">and an issue that prevented a call window from displaying</p>
+<p begin="00:15:55.141" xml:id="p354" end="00:15:58.935">properly when trying to leave a voicemail for a contact.</p>
+<p begin="00:15:58.936" xml:id="p355" end="00:16:01.790">So, there is some additional information</p>
+<p begin="00:16:01.791" xml:id="p356" end="00:16:03.100">in the blog post here.</p>
+<p begin="00:16:03.101" xml:id="p357" end="00:16:05.755">So, Skype for Business on Windows Phone,</p>
+<p begin="00:16:05.756" xml:id="p358" end="00:16:08.535">this is essentially what we just talked about.</p>
+<p begin="00:16:08.536" xml:id="p359" end="00:16:10.690">Skype for Business on Windows Phone</p>
+<p begin="00:16:10.691" xml:id="p360" end="00:16:12.570">8.1 will no longer be available for</p>
+<p begin="00:16:12.571" xml:id="p361" end="00:16:16.370">download beginning in December 2019.</p>
+<p begin="00:16:16.371" xml:id="p362" end="00:16:18.205">Skype for Business on Windows 10 Mobile</p>
+<p begin="00:16:18.206" xml:id="p363" end="00:16:20.295">will no longer be available for download.</p>
+<p begin="00:16:20.296" xml:id="p364" end="00:16:22.660">So, that's still awaits in the future.</p>
+<p begin="00:16:22.661" xml:id="p365" end="00:16:24.560">Yeah. Same thing with Teams</p>
+<p begin="00:16:24.561" xml:id="p366" end="00:16:26.170">here just install the app before it</p>
+<p begin="00:16:26.171" xml:id="p367" end="00:16:30.650">disappears off the Store.</p>
+<p begin="00:16:30.651" xml:id="p368" end="00:16:33.800">That happens in August 2018.</p>
+<p begin="00:16:36.990" xml:id="p369" end="00:16:41.250">So, August 2018 for Windows Phone 8.1,</p>
+<p begin="00:16:41.251" xml:id="p370" end="00:16:42.590">it won't be available for download.</p>
+<p begin="00:16:42.591" xml:id="p371" end="00:16:45.190">Then, all the way in December 2019</p>
+<p begin="00:16:45.191" xml:id="p372" end="00:16:49.030">for Skype for Business on Windows 10 Mobile.</p>
+<p begin="00:16:49.031" xml:id="p373" end="00:16:52.695">So, if your customers are still using Windows 10,</p>
+<p begin="00:16:52.696" xml:id="p374" end="00:16:54.230">make sure they know about those dates so</p>
+<p begin="00:16:54.231" xml:id="p375" end="00:16:58.175">they don't lose their-</p>
+<p begin="00:16:58.176" xml:id="p376" end="00:17:01.160">Yeah, it is kind of</p>
+<p begin="00:17:01.161" xml:id="p377" end="00:17:04.500">sad when his phone was a great little phone.</p>
+<p begin="00:17:04.501" xml:id="p378" end="00:17:06.470">So, the Network Assessment Tool,</p>
+<p begin="00:17:06.471" xml:id="p379" end="00:17:09.370">many of you may have used this or maybe aware of it.</p>
+<p begin="00:17:09.371" xml:id="p380" end="00:17:11.510">You may even have heard the announcement,</p>
+<p begin="00:17:11.511" xml:id="p381" end="00:17:13.210">but it's been updated</p>
+<p begin="00:17:13.211" xml:id="p382" end="00:17:18.170">to also do Network Assessment for Microsoft Teams now.</p>
+<p begin="00:17:18.171" xml:id="p383" end="00:17:20.170">So, even if a customer doesn't have</p>
+<p begin="00:17:20.171" xml:id="p384" end="00:17:22.120">an Office 365 subscription yet,</p>
+<p begin="00:17:22.121" xml:id="p385" end="00:17:27.120">you can still use this as a pre-sales stage to evaluate</p>
+<p begin="00:17:27.121" xml:id="p386" end="00:17:29.480">whether their network is ready to support</p>
+<p begin="00:17:29.481" xml:id="p387" end="00:17:30.900">all the various different features and</p>
+<p begin="00:17:30.901" xml:id="p388" end="00:17:32.715">functionalities of Skype for Business,</p>
+<p begin="00:17:32.716" xml:id="p389" end="00:17:34.210">whether they have enough bandwidth,</p>
+<p begin="00:17:34.211" xml:id="p390" end="00:17:37.180">whether they can connect to the specific endpoints.</p>
+<p begin="00:17:37.181" xml:id="p391" end="00:17:38.620">It does all this stuff.</p>
+<p begin="00:17:38.621" xml:id="p392" end="00:17:40.270">So, you can get it very easily</p>
+<p begin="00:17:40.271" xml:id="p393" end="00:17:45.920">by installing a PowerShell module and running</p>
+<p begin="00:17:45.921" xml:id="p394" end="00:17:49.840">the Install-Module M365NetworkTestingTool commandement,</p>
+<p begin="00:17:49.841" xml:id="p395" end="00:17:53.980">and then running Invoke-M365CreateShortcuts</p>
+<p begin="00:17:53.981" xml:id="p396" end="00:17:55.260">and that will just create a shortcut on</p>
+<p begin="00:17:55.261" xml:id="p397" end="00:17:57.145">your desktop and your Start Menu.</p>
+<p begin="00:17:57.146" xml:id="p398" end="00:17:59.850">Then go ahead and launch it.</p>
+<p begin="00:17:59.851" xml:id="p399" end="00:18:02.740">So, it is a very useful tool.</p>
+<p begin="00:18:02.741" xml:id="p400" end="00:18:05.395">It goes over a lot of information.</p>
+<p begin="00:18:05.396" xml:id="p401" end="00:18:08.800">And so, it's packaged up in a nice little UI,</p>
+<p begin="00:18:08.801" xml:id="p402" end="00:18:12.035">so your customers will be happy when they see it.</p>
+<p begin="00:18:12.036" xml:id="p403" end="00:18:15.500">So, yeah, that's been updated.</p>
+<p begin="00:18:15.530" xml:id="p404" end="00:18:18.820">The request from the tool creators</p>
+<p begin="00:18:18.821" xml:id="p405" end="00:18:20.630">is just to start using it.</p>
+<p begin="00:18:20.631" xml:id="p406" end="00:18:21.820">Get it in front of customers,</p>
+<p begin="00:18:21.821" xml:id="p407" end="00:18:22.870">figure out what they like,</p>
+<p begin="00:18:22.871" xml:id="p408" end="00:18:25.950">what they don't like, provide feedback to the tool.</p>
+<p begin="00:18:25.951" xml:id="p409" end="00:18:27.580">I believe there's definitely</p>
+<p begin="00:18:27.581" xml:id="p410" end="00:18:29.670">team channels that a lot of you</p>
+<p begin="00:18:29.671" xml:id="p411" end="00:18:32.095">are probably involved in where they've talked about this.</p>
+<p begin="00:18:32.096" xml:id="p412" end="00:18:33.950">I believe there's feedback</p>
+<p begin="00:18:33.951" xml:id="p413" end="00:18:35.640">within the tool that you can email.</p>
+<p begin="00:18:35.641" xml:id="p414" end="00:18:38.585">So, what are their plans for the tool next?</p>
+<p begin="00:18:38.586" xml:id="p415" end="00:18:40.410">They want to provide</p>
+<p begin="00:18:40.411" xml:id="p416" end="00:18:43.495">each information icon that pops up when it does a test.</p>
+<p begin="00:18:43.496" xml:id="p417" end="00:18:44.610">They want to link to</p>
+<p begin="00:18:44.611" xml:id="p418" end="00:18:47.380">specific guidance on the fast track website.</p>
+<p begin="00:18:47.381" xml:id="p419" end="00:18:50.195">Right now, the order of testing is swapped.</p>
+<p begin="00:18:50.196" xml:id="p420" end="00:18:53.350">They test connectivity first and then audio quality.</p>
+<p begin="00:18:53.351" xml:id="p421" end="00:18:56.395">The device parser is also updated to reflect</p>
+<p begin="00:18:56.396" xml:id="p422" end="00:18:58.250">newer headsets and speakerphones which</p>
+<p begin="00:18:58.251" xml:id="p423" end="00:19:01.015">have been certified by the call quality team.</p>
+<p begin="00:19:01.016" xml:id="p424" end="00:19:03.290">The Desktop/Start Menu icons</p>
+<p begin="00:19:03.291" xml:id="p425" end="00:19:05.010">are applied when the module is updated,</p>
+<p begin="00:19:05.011" xml:id="p426" end="00:19:07.700">instead of each time the application launches.</p>
+<p begin="00:19:07.701" xml:id="p427" end="00:19:11.585">Then the public web URL's and a blog will follow soon.</p>
+<p begin="00:19:11.586" xml:id="p428" end="00:19:14.510">So, keep a look out for that.</p>
+<p begin="00:19:14.511" xml:id="p429" end="00:19:17.105">There is some additional information right here.</p>
+<p begin="00:19:17.106" xml:id="p430" end="00:19:21.800">And that does it for our releases,</p>
+<p begin="00:19:21.801" xml:id="p431" end="00:19:23.120">and updates, and stuff like that.</p>
+<p begin="00:19:23.121" xml:id="p432" end="00:19:24.930">So, I'll go ahead and head back to back to</p>
+<p begin="00:19:24.931" xml:id="p433" end="00:19:27.170">Tim and he can take it from there.</p>
+<p begin="00:19:27.171" xml:id="p434" end="00:19:29.570">&gt;&gt; Thanks so much, Darren. Great overview.</p>
+<p begin="00:19:29.571" xml:id="p435" end="00:19:32.290">In terms of Special Topics and Training Releases,</p>
+<p begin="00:19:32.291" xml:id="p436" end="00:19:36.330">we'll look at the short view backwards and forwards.</p>
+<p begin="00:19:36.331" xml:id="p437" end="00:19:39.150">While I go ahead and share these slides,</p>
+<p begin="00:19:39.151" xml:id="p438" end="00:19:42.775">I want to invite people to put the chat window</p>
+<p begin="00:19:42.776" xml:id="p439" end="00:19:45.490">any request they have were</p>
+<p begin="00:19:45.491" xml:id="p440" end="00:19:48.460">training on Skype for Business or Teams topics.</p>
+<p begin="00:19:48.461" xml:id="p441" end="00:19:50.950">We have been very much focused on</p>
+<p begin="00:19:50.951" xml:id="p442" end="00:19:54.705">capturing training on major feature releases in Teams,</p>
+<p begin="00:19:54.706" xml:id="p443" end="00:19:57.050">but we also do strive to</p>
+<p begin="00:19:57.051" xml:id="p444" end="00:19:59.780">provide training on the knowledge gap areas,</p>
+<p begin="00:19:59.781" xml:id="p445" end="00:20:03.640">areas in which you're uncomfortable providing support.</p>
+<p begin="00:20:03.641" xml:id="p446" end="00:20:06.460">So, as I talk about these slides,</p>
+<p begin="00:20:06.461" xml:id="p447" end="00:20:07.990">I invite you to go ahead and toss</p>
+<p begin="00:20:07.991" xml:id="p448" end="00:20:10.075">any suggestions you have in the chat window</p>
+<p begin="00:20:10.076" xml:id="p449" end="00:20:11.850">about training topics you'd like to see</p>
+<p begin="00:20:11.851" xml:id="p450" end="00:20:14.015">coverage to up skill,</p>
+<p begin="00:20:14.016" xml:id="p451" end="00:20:16.540">where you feel like you need it.</p>
+<p begin="00:20:16.860" xml:id="p452" end="00:20:20.025">So, Recently Release Training.</p>
+<p begin="00:20:20.026" xml:id="p453" end="00:20:23.025">We're having a little bit of a problem, it looks like,</p>
+<p begin="00:20:23.026" xml:id="p454" end="00:20:27.710">with the slide show in the proper content.</p>
+<p begin="00:20:27.711" xml:id="p455" end="00:20:29.990">I'm going to go ahead and speak to this.</p>
+<p begin="00:20:29.991" xml:id="p456" end="00:20:32.385">But I won't have a visual</p>
+<p begin="00:20:32.386" xml:id="p457" end="00:20:35.170">to show you. Apologies for that.</p>
+<p begin="00:20:35.171" xml:id="p458" end="00:20:40.180">We have released Microsoft Teams Direct Routing training,</p>
+<p begin="00:20:40.181" xml:id="p459" end="00:20:42.045">as Darren alluded to,</p>
+<p begin="00:20:42.046" xml:id="p460" end="00:20:45.355">but please give us feedback on that course.</p>
+<p begin="00:20:45.356" xml:id="p461" end="00:20:46.990">This is going to give you</p>
+<p begin="00:20:46.991" xml:id="p462" end="00:20:49.110">a good overview of</p>
+<p begin="00:20:49.111" xml:id="p463" end="00:20:51.155">the direct routing value add capabilities.</p>
+<p begin="00:20:51.156" xml:id="p464" end="00:20:52.770">It's going to help you</p>
+<p begin="00:20:52.771" xml:id="p465" end="00:20:54.920">understand how direct routing is set up,</p>
+<p begin="00:20:54.921" xml:id="p466" end="00:20:56.970">and with the new features are and</p>
+<p begin="00:20:56.971" xml:id="p467" end="00:20:58.810">applying basic troubleshooting steps</p>
+<p begin="00:20:58.811" xml:id="p468" end="00:21:00.570">for various scenarios,</p>
+<p begin="00:21:00.571" xml:id="p469" end="00:21:02.200">and that includes known issues as well.</p>
+<p begin="00:21:02.201" xml:id="p470" end="00:21:05.645">So, please do check out the Direct Routing training.</p>
+<p begin="00:21:05.646" xml:id="p471" end="00:21:09.030">Prior to that, we issued our Cloud Recording Training,</p>
+<p begin="00:21:09.031" xml:id="p472" end="00:21:11.490">an another recently released feature.</p>
+<p begin="00:21:11.491" xml:id="p473" end="00:21:15.790">We also have Microsoft Teams</p>
+<p begin="00:21:15.791" xml:id="p474" end="00:21:18.645">and Skype for Business interoperability course out there</p>
+<p begin="00:21:18.646" xml:id="p475" end="00:21:21.100">that is being updated</p>
+<p begin="00:21:21.101" xml:id="p476" end="00:21:25.645">as configuration options are changing.</p>
+<p begin="00:21:25.646" xml:id="p477" end="00:21:28.375">So, please do also view that training.</p>
+<p begin="00:21:28.376" xml:id="p478" end="00:21:29.895">Again, apologies for the lack</p>
+<p begin="00:21:29.896" xml:id="p479" end="00:21:33.400">of content showing on screen.</p>
+<p begin="00:21:33.401" xml:id="p480" end="00:21:36.480">So, coming up in June for Teams,</p>
+<p begin="00:21:36.481" xml:id="p481" end="00:21:40.600">we are going to be addressing</p>
+<p begin="00:21:40.601" xml:id="p482" end="00:21:42.095">the Skype for Business to Teams</p>
+<p begin="00:21:42.096" xml:id="p483" end="00:21:45.925">Upgrade Process and Customer Experience.</p>
+<p begin="00:21:45.926" xml:id="p484" end="00:21:51.580">The schedule for these upgrades is being finalized,</p>
+<p begin="00:21:51.581" xml:id="p485" end="00:21:53.850">but we can look for this activity to kick</p>
+<p begin="00:21:53.851" xml:id="p486" end="00:21:56.170">off and start small</p>
+<p begin="00:21:56.171" xml:id="p487" end="00:21:59.080">but ramp up beginning in the next month or so.</p>
+<p begin="00:21:59.081" xml:id="p488" end="00:22:01.310">We'll also be covering Call Delegation</p>
+<p begin="00:22:01.311" xml:id="p489" end="00:22:02.975">and Consultative Transfer,</p>
+<p begin="00:22:02.976" xml:id="p490" end="00:22:04.925">and we are watching</p>
+<p begin="00:22:04.926" xml:id="p491" end="00:22:08.640">Teams Federation features lighting up,</p>
+<p begin="00:22:08.641" xml:id="p492" end="00:22:12.530">and we will be training on those features</p>
+<p begin="00:22:12.531" xml:id="p493" end="00:22:14.355">as we have more information</p>
+<p begin="00:22:14.356" xml:id="p494" end="00:22:17.630">that would be useful to support agents.</p>
+<p begin="00:22:17.631" xml:id="p495" end="00:22:20.240">So, beyond that, we'll be looking</p>
+<p begin="00:22:20.241" xml:id="p496" end="00:22:23.210">to cover Teams Broadcast Meetings,</p>
+<p begin="00:22:23.211" xml:id="p497" end="00:22:25.570">which will include a new feature called</p>
+<p begin="00:22:25.571" xml:id="p498" end="00:22:28.575">Leadership Connection geared toward connecting</p>
+<p begin="00:22:28.576" xml:id="p499" end="00:22:35.495">executive leadership and companies to their audience.</p>
+<p begin="00:22:35.496" xml:id="p500" end="00:22:39.430">We are looking at consolidating PSTN Teams,</p>
+<p begin="00:22:39.431" xml:id="p501" end="00:22:42.370">PSTN Calling Feature Releases</p>
+<p begin="00:22:42.371" xml:id="p502" end="00:22:45.900">into a consolidated training as well.</p>
+<p begin="00:22:45.901" xml:id="p503" end="00:22:50.255">Our June Brown Bag is going to be on the 26.</p>
+<p begin="00:22:50.256" xml:id="p504" end="00:22:52.410">If you have an idea for a topic</p>
+<p begin="00:22:52.411" xml:id="p505" end="00:22:54.870">or anything you want to hear about,</p>
+<p begin="00:22:54.871" xml:id="p506" end="00:22:57.185">please do let us know with that email address.</p>
+<p begin="00:22:57.186" xml:id="p507" end="00:22:59.430">We'll be happy to arrange.</p>
+<p begin="00:22:59.540" xml:id="p508" end="00:23:02.600">Let me just point out</p>
+<p begin="00:23:02.601" xml:id="p509" end="00:23:05.455">a couple items on the Blogs of Note.</p>
+<p begin="00:23:05.456" xml:id="p510" end="00:23:08.990">We have that updated roadmap for</p>
+<p begin="00:23:08.991" xml:id="p511" end="00:23:12.040">the Microsoft Teams Upgrade from Skype for</p>
+<p begin="00:23:12.041" xml:id="p512" end="00:23:13.400">Business that will give a lot of</p>
+<p begin="00:23:13.401" xml:id="p513" end="00:23:15.905">information on feature plans.</p>
+<p begin="00:23:15.906" xml:id="p514" end="00:23:17.670">That's a good place to go for</p>
+<p begin="00:23:17.671" xml:id="p515" end="00:23:19.090">comprehensive information on what</p>
+<p begin="00:23:19.091" xml:id="p516" end="00:23:20.645">that activity looks like.</p>
+<p begin="00:23:20.646" xml:id="p517" end="00:23:22.475">Like I said, we'll be addressing</p>
+<p begin="00:23:22.476" xml:id="p518" end="00:23:25.695">that process in a training coming up.</p>
+<p begin="00:23:25.696" xml:id="p519" end="00:23:27.290">You'll notice that we have</p>
+<p begin="00:23:27.291" xml:id="p520" end="00:23:30.000">our planning direct routing link</p>
+<p begin="00:23:30.001" xml:id="p521" end="00:23:32.005">included in this set of blogs,</p>
+<p begin="00:23:32.006" xml:id="p522" end="00:23:35.700">which is an overview of how customers are</p>
+<p begin="00:23:35.701" xml:id="p523" end="00:23:37.530">to approach and configure and set up</p>
+<p begin="00:23:37.531" xml:id="p524" end="00:23:40.075">direct routing might be useful for you.</p>
+<p begin="00:23:40.076" xml:id="p525" end="00:23:43.860">I will just also point out that GDPR has</p>
+<p begin="00:23:43.861" xml:id="p526" end="00:23:47.355">been a big focus obviously in the last week or so.</p>
+<p begin="00:23:47.356" xml:id="p527" end="00:23:50.990">There's a link here to the specific information about how</p>
+<p begin="00:23:50.991" xml:id="p528" end="00:23:52.570">GDPR pertains to</p>
+<p begin="00:23:52.571" xml:id="p529" end="00:23:54.955">Skype for Business Server and Lync Server.</p>
+<p begin="00:23:54.956" xml:id="p530" end="00:23:56.980">And as always, we are</p>
+<p begin="00:23:56.981" xml:id="p531" end="00:23:59.320">available through our Infopedia page where</p>
+<p begin="00:23:59.321" xml:id="p532" end="00:24:01.005">you'll find our training catalog</p>
+<p begin="00:24:01.006" xml:id="p533" end="00:24:03.960">and contact information for our team.</p>
+<p begin="00:24:03.961" xml:id="p534" end="00:24:06.790">I'm taking a look at the feedback we're getting in</p>
+<p begin="00:24:06.791" xml:id="p535" end="00:24:09.205">the chat window regarding</p>
+<p begin="00:24:09.206" xml:id="p536" end="00:24:10.930">topics you'd like to see covered.</p>
+<p begin="00:24:10.931" xml:id="p537" end="00:24:14.310">This is very useful information for us.</p>
+<p begin="00:24:14.311" xml:id="p538" end="00:24:16.420">We're going to take these suggestions and see</p>
+<p begin="00:24:16.421" xml:id="p539" end="00:24:18.645">if we can follow up with</p>
+<p begin="00:24:18.646" xml:id="p540" end="00:24:20.550">a guest speaker or</p>
+<p begin="00:24:20.551" xml:id="p541" end="00:24:24.200">provide you deeper information on next Brown Bag.</p>
+<p begin="00:24:24.201" xml:id="p542" end="00:24:26.730">Thank you so much. And with that,</p>
+<p begin="00:24:26.731" xml:id="p543" end="00:24:28.900">I want to thank Darren Hansen and the rest</p>
+<p begin="00:24:28.901" xml:id="p544" end="00:24:31.260">of our CSS Learning and Readiness Team.</p>
+<p begin="00:24:31.261" xml:id="p545" end="00:24:34.655">And of course, those of you who participated today.</p>
+<p begin="00:24:34.656" xml:id="p546" end="00:24:38.130">Thank you so much and have a great day.</p>
+</div>
+
+  </body>
+</tt>

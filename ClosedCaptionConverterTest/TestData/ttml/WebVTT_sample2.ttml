@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2015 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:fontFamily="Segoe UI" tts:fontSize="13px" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region xml:id="subtitleArea" style="s1" tts:origin="0% 0%" tts:extent="100% 60px" tts:padding="3px 3px" tts:backgroundColor="black" tts:opacity="0.7" tts:displayAlign="center" tts:showBackground="whenActive" />
+    </layout>
+  </head>
+  <body>
+    <div region="subtitleArea">
+<p begin="00:00:02.633" xml:id="p0" end="00:00:06.266">Hello! I am Anusha Muthiah and welcome to week 2 of the Introduction to HTML5.</p>
+<p begin="00:00:06.266" xml:id="p1" end="00:00:09.899">This week, we are going to cover global and</p>
+<p begin="00:00:09.900" xml:id="p2" end="00:00:13.533">non-global attributes and how to use them, paying close attention</p>
+<p begin="00:00:13.533" xml:id="p3" end="00:00:17.333">to the commonly used ones such as 'id' and 'class'.</p>
+<p begin="00:00:17.333" xml:id="p4" end="00:00:19.599">In addition, you'll learn about the importance of separating content</p>
+<p begin="00:00:19.600" xml:id="p5" end="00:00:22.033">and style in HTML5,</p>
+<p begin="00:00:22.033" xml:id="p6" end="00:00:24.999">as well as look at the difference between semantic and style tags.</p>
+<p begin="00:00:25.000" xml:id="p7" end="00:00:30.932">We will study semantic elements, why they are important as well as look at their usage in various examples.</p>
+<p begin="00:00:30.933" xml:id="p8" end="00:00:35.866">In the second half, we will cover how to add images to your HTML.</p>
+<p begin="00:00:35.866" xml:id="p9" end="00:00:37.866">Images make everything more interesting.</p>
+<p begin="00:00:37.866" xml:id="p10" end="00:00:41.732">For example, we will learn how to use the image tag and its attributes.</p>
+<p begin="00:00:41.733" xml:id="p11" end="00:00:45.366">We will also look at scenarios where it is more appropriate to add images</p>
+<p begin="00:00:45.366" xml:id="p12" end="00:00:49.032">using CSS instead. Finally, we will learn how to add hyperlinks</p>
+<p begin="00:00:49.033" xml:id="p13" end="00:00:53.899">to your Web page and their different uses. At the end of each subsection, you'll be able to do</p>
+<p begin="00:00:53.900" xml:id="p14" end="00:00:56.333">exercises based on what you've learned</p>
+<p begin="00:00:56.333" xml:id="p15" end="00:00:58.799">and test your knowledge by doing a quiz.</p>
+<p begin="00:00:58.800" xml:id="p16" end="00:01:01.600">We hope you enjoy the course and happy learning!</p>
+</div>
+
+  </body>
+</tt>

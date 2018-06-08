@@ -1,0 +1,1643 @@
+WEBVTT
+
+00:00:00.560 --> 00:00:03.030
+&gt;&gt; Everybody, as the top of the hour,
+
+00:00:03.031 --> 00:00:05.250
+we're going to give people another couple of
+
+00:00:05.251 --> 00:00:08.130
+minutes to join from other mediums
+
+00:00:08.131 --> 00:00:12.400
+so we'll get started in two minutes.
+
+00:00:12.690 --> 00:00:15.340
+All right, folks. We're going to give it about one
+
+00:00:15.341 --> 00:00:17.110
+more minute before we get started.
+
+00:00:17.111 --> 00:00:21.540
+All right, everybody.
+
+00:00:21.541 --> 00:00:22.890
+It's a couple of minutes after the hour,
+
+00:00:22.891 --> 00:00:25.800
+we're going to go ahead and get started as people join.
+
+00:00:25.801 --> 00:00:29.850
+Welcome to the May 2018 Skype
+
+00:00:29.851 --> 00:00:32.745
+for Business and Microsoft Teams Readiness Brown Bag.
+
+00:00:32.746 --> 00:00:34.200
+My name is Tim Ballew,
+
+00:00:34.201 --> 00:00:36.240
+and I am the Business Program Manager
+
+00:00:36.241 --> 00:00:38.770
+for CSS Learning for these products,
+
+00:00:38.771 --> 00:00:41.580
+and I'm joined today by members of our Readiness Team:
+
+00:00:41.581 --> 00:00:43.305
+our learning development managers
+
+00:00:43.306 --> 00:00:45.390
+and instructional designers.
+
+00:00:45.391 --> 00:00:47.440
+During today's session, we'll be
+
+00:00:47.441 --> 00:00:49.590
+reviewing the May feature releases and updates for
+
+00:00:49.591 --> 00:00:51.945
+Skype for Business and Teams' product family
+
+00:00:51.946 --> 00:00:53.100
+and we'll be providing
+
+00:00:53.101 --> 00:00:54.930
+you some additional resources
+
+00:00:54.931 --> 00:00:57.450
+for more information on those items.
+
+00:00:57.451 --> 00:00:59.880
+We anticipate that today's session
+
+00:00:59.881 --> 00:01:01.600
+will be roughly 50 minutes,
+
+00:01:01.601 --> 00:01:04.570
+we won't necessarily take the whole hour this time.
+
+00:01:04.571 --> 00:01:06.220
+And please note that
+
+00:01:06.221 --> 00:01:08.275
+a recording will be made available as
+
+00:01:08.276 --> 00:01:12.200
+a training and success factors after the session is over.
+
+00:01:12.201 --> 00:01:15.600
+So, a real quick reminder
+
+00:01:15.601 --> 00:01:20.060
+about our confidentiality obligations.
+
+00:01:20.061 --> 00:01:22.855
+We do not disclose confidential information,
+
+00:01:22.856 --> 00:01:25.220
+and this information that we're sharing today has not
+
+00:01:25.221 --> 00:01:27.525
+necessarily been reviewed for public consumption.
+
+00:01:27.526 --> 00:01:29.740
+So, be aware.
+
+00:01:30.120 --> 00:01:32.380
+Today we're going to be looking at
+
+00:01:32.381 --> 00:01:35.950
+typical topics of Lync and Skype for Business Server.
+
+00:01:35.951 --> 00:01:38.150
+We'll be talking about Skype
+
+00:01:38.151 --> 00:01:39.970
+for Business Online Calling Plans,
+
+00:01:39.971 --> 00:01:43.805
+Direct Routing and Coexistence Modes.
+
+00:01:43.806 --> 00:01:46.040
+Our Phones and Devices section will
+
+00:01:46.041 --> 00:01:48.985
+cover Skype Room Systems updates,
+
+00:01:48.986 --> 00:01:52.360
+and they will cover all of the clients.
+
+00:01:52.361 --> 00:01:55.840
+We'll talk a little bit about the network assessment tool
+
+00:01:55.841 --> 00:01:59.900
+and then review current recently released trainings,
+
+00:01:59.901 --> 00:02:02.525
+they have the upcoming trainings to look out for.
+
+00:02:02.526 --> 00:02:05.700
+So, with that I'm going to go
+
+00:02:05.701 --> 00:02:08.510
+ahead and hand it over to Darren Hansen,
+
+00:02:08.511 --> 00:02:09.690
+who is going to walk us through
+
+00:02:09.691 --> 00:02:12.890
+our features and fixes. Darren!
+
+00:02:13.540 --> 00:02:16.280
+&gt;&gt; All right thank you much Tim.
+
+00:02:16.281 --> 00:02:17.900
+All right, so we're going to start off
+
+00:02:17.901 --> 00:02:19.040
+today with an update
+
+00:02:19.041 --> 00:02:22.070
+for Skype for Business Server 2015.
+
+00:02:22.071 --> 00:02:27.165
+This is highly anticipated CU for CU7.
+
+00:02:27.166 --> 00:02:31.160
+It is going to come out here in June in a little bit.
+
+00:02:31.161 --> 00:02:33.380
+We don't have an exact date but it should be
+
+00:02:33.381 --> 00:02:35.300
+coming up in the next few weeks.
+
+00:02:35.301 --> 00:02:38.450
+So, there are a lot of
+
+00:02:38.451 --> 00:02:40.700
+fixes and improvements and
+
+00:02:40.701 --> 00:02:42.695
+stuff like that that have gone into this update.
+
+00:02:42.696 --> 00:02:45.610
+We're going to highlight a few here on the slides,
+
+00:02:45.611 --> 00:02:48.630
+and then the majority of them are in the appendix,
+
+00:02:48.631 --> 00:02:50.935
+which is linked right down here.
+
+00:02:50.936 --> 00:02:52.940
+So, the first one that we're going to talk
+
+00:02:52.941 --> 00:02:55.010
+about is an issue where we now
+
+00:02:55.011 --> 00:02:57.590
+support anonymous PSTN callers starting
+
+00:02:57.591 --> 00:02:59.510
+a static meeting without
+
+00:02:59.511 --> 00:03:02.525
+an authenticated user in Skype for Business.
+
+00:03:02.526 --> 00:03:04.760
+Another one where we support
+
+00:03:04.761 --> 00:03:06.830
+the end meeting functionality for
+
+00:03:06.831 --> 00:03:09.995
+Skype for Business on Mac in 2015,
+
+00:03:09.996 --> 00:03:13.160
+enabling Skype meetings app to replace
+
+00:03:13.161 --> 00:03:14.810
+the Skype for Business Web app and
+
+00:03:14.811 --> 00:03:17.540
+Skype for Business Server 2015.
+
+00:03:18.490 --> 00:03:22.265
+Then Microsoft SQL servers
+
+00:03:22.266 --> 00:03:25.285
+2016 is available for the back end server.
+
+00:03:25.286 --> 00:03:28.010
+Oh! I'm sorry, Thank you Colin.
+
+00:03:28.011 --> 00:03:31.130
+I did not take over as presenter there.
+
+00:03:31.450 --> 00:03:33.710
+All right so now you should be seeing
+
+00:03:33.711 --> 00:03:35.810
+the Skype for Business Server 2015
+
+00:03:35.811 --> 00:03:40.350
+slides with a few improvements here on the screen.
+
+00:03:40.351 --> 00:03:42.820
+So, we get to the last one there were
+
+00:03:42.821 --> 00:03:45.220
+Microsoft SQL server 2016 is available
+
+00:03:45.221 --> 00:03:49.200
+for backend servers of Skype for Business Server 2015.
+
+00:03:49.201 --> 00:03:51.270
+So, we now support that.
+
+00:03:51.310 --> 00:03:54.485
+And again, there are probably
+
+00:03:54.486 --> 00:03:58.190
+20 or more additional fixes and improvements
+
+00:03:58.191 --> 00:04:01.130
+in the appendix there so make sure you download the deck
+
+00:04:01.131 --> 00:04:04.570
+from the meeting attachments and take a look there.
+
+00:04:04.571 --> 00:04:07.520
+So, now moving off of
+
+00:04:07.521 --> 00:04:10.310
+server and onto sort of Skype for Business online,
+
+00:04:10.311 --> 00:04:12.225
+you can see that all of these things have to do
+
+00:04:12.226 --> 00:04:16.180
+with Microsoft Teams but they also do
+
+00:04:16.181 --> 00:04:19.700
+reflect functionality and Skype for Business
+
+00:04:19.701 --> 00:04:21.350
+online too for customers who are
+
+00:04:21.351 --> 00:04:23.860
+using for example calling plans,
+
+00:04:23.861 --> 00:04:28.090
+Direct Routing and coexistence modes apply.
+
+00:04:28.091 --> 00:04:29.945
+But, as we move forward
+
+00:04:29.946 --> 00:04:32.030
+you'll also see in the top right hand corner
+
+00:04:32.031 --> 00:04:36.380
+that there are some logos for Teams and Skype.
+
+00:04:36.381 --> 00:04:39.295
+Those just help you know which
+
+00:04:39.296 --> 00:04:40.580
+one we're talking about on each
+
+00:04:40.581 --> 00:04:42.080
+individual slide as we go through the deck,
+
+00:04:42.081 --> 00:04:44.750
+you see we've made some updates to the template.
+
+00:04:44.751 --> 00:04:45.920
+So, we're just trying to
+
+00:04:45.921 --> 00:04:47.615
+make that a little bit more clear.
+
+00:04:47.616 --> 00:04:50.450
+So, Microsoft Teams and
+
+00:04:50.451 --> 00:04:52.340
+Skype for Business Online calling plans in
+
+00:04:52.341 --> 00:04:54.530
+Canada are now general available,
+
+00:04:54.531 --> 00:04:57.910
+that was updated or released on May first.
+
+00:04:57.911 --> 00:05:00.980
+So, all calls between US and Canada users in
+
+00:05:00.981 --> 00:05:02.360
+both directions are now considered
+
+00:05:02.361 --> 00:05:05.225
+domestic and not international so that's a big win.
+
+00:05:05.226 --> 00:05:07.535
+Calling plans work with both teams
+
+00:05:07.536 --> 00:05:09.415
+as well as Skype for Business and you can buy
+
+00:05:09.416 --> 00:05:13.720
+today in Office 365 together obviously,
+
+00:05:13.721 --> 00:05:15.350
+they make calling enabled for
+
+00:05:15.351 --> 00:05:19.275
+your organization using your primary phone number.
+
+00:05:19.276 --> 00:05:23.285
+So, make sure your customers know about that.
+
+00:05:23.286 --> 00:05:25.950
+There is information in the blog here.
+
+00:05:27.480 --> 00:05:29.690
+Direct Routing, if you
+
+00:05:29.691 --> 00:05:32.315
+haven't heard about Direct Routing before.
+
+00:05:32.316 --> 00:05:35.645
+It's essentially CCE or Cloud.
+
+00:05:35.646 --> 00:05:38.705
+There are definitely two different things
+
+00:05:38.706 --> 00:05:40.400
+but this is basically using
+
+00:05:40.401 --> 00:05:45.680
+your on premise infrastructure with Teams to route calls.
+
+00:05:45.681 --> 00:05:48.900
+So, this was released on May 15.
+
+00:05:49.540 --> 00:05:52.655
+Customers can choose to sign up for preview
+
+00:05:52.656 --> 00:05:54.910
+and they will get support through our in market teams.
+
+00:05:54.911 --> 00:05:57.505
+It is a preview release,
+
+00:05:57.506 --> 00:05:59.255
+so just be aware of that.
+
+00:05:59.256 --> 00:06:01.880
+What if you do get a call and you
+
+00:06:01.881 --> 00:06:04.540
+need assistance with answering direct routing calls?
+
+00:06:04.541 --> 00:06:06.695
+You can post your question here,
+
+00:06:06.696 --> 00:06:10.085
+which leads to the real one note I believe,
+
+00:06:10.086 --> 00:06:12.260
+and SME will respond or you
+
+00:06:12.261 --> 00:06:14.370
+can reach out to one of these SMEs listed.
+
+00:06:14.371 --> 00:06:17.055
+So, I know that there are some of you on the phone,
+
+00:06:17.056 --> 00:06:18.925
+who are on this list so,
+
+00:06:18.926 --> 00:06:22.380
+I hope you don't get too many calls or questions.
+
+00:06:22.381 --> 00:06:24.260
+There's also plenty of
+
+00:06:24.261 --> 00:06:27.265
+information in our training that we just released,
+
+00:06:27.266 --> 00:06:30.570
+as well as the UC real one note documents.
+
+00:06:30.571 --> 00:06:33.890
+So, Carolyn and other SMEs did a
+
+00:06:33.891 --> 00:06:37.260
+really bang up job in documenting Direct Routing,
+
+00:06:37.261 --> 00:06:39.820
+documenting troubleshooting methodologies,
+
+00:06:39.821 --> 00:06:42.440
+scenarios, all sorts of stuff.
+
+00:06:42.441 --> 00:06:45.530
+So, it's very well understood product
+
+00:06:45.531 --> 00:06:47.740
+at this point and we're just entering previews.
+
+00:06:47.741 --> 00:06:54.890
+So, coexistence mode, you may have also heard about this.
+
+00:06:54.891 --> 00:06:58.310
+Greg talked about it in our last brown bag last month,
+
+00:06:58.311 --> 00:07:00.200
+when he demo the modern portal
+
+00:07:00.201 --> 00:07:02.450
+and the modes for upgrading.
+
+00:07:02.451 --> 00:07:06.815
+So, the modern portal now removes the interrupt policy
+
+00:07:06.816 --> 00:07:08.090
+and upgrade policy as
+
+00:07:08.091 --> 00:07:12.335
+two separate entities and gives us coexistence modes.
+
+00:07:12.336 --> 00:07:14.555
+The goal is to consolidate
+
+00:07:14.556 --> 00:07:16.070
+the upgrade experience when
+
+00:07:16.071 --> 00:07:18.020
+transitioning from Skype for Business to Teams,
+
+00:07:18.021 --> 00:07:20.550
+because it's pretty confusing as it is today.
+
+00:07:20.551 --> 00:07:23.370
+There are some customers and TAP,
+
+00:07:23.371 --> 00:07:28.390
+who have already set the Teams interrupt policy before,
+
+00:07:28.391 --> 00:07:32.070
+and those customers are flighted
+
+00:07:32.071 --> 00:07:36.025
+for the Team's only upgrade coexistence mode.
+
+00:07:36.026 --> 00:07:38.450
+So, they're the only customers right now who can
+
+00:07:38.451 --> 00:07:40.250
+fully switch the Teams
+
+00:07:40.251 --> 00:07:42.960
+and have Skype for Business disabled.
+
+00:07:43.300 --> 00:07:46.070
+The rest of the customers are given
+
+00:07:46.071 --> 00:07:48.950
+the option of I believe,
+
+00:07:48.951 --> 00:07:52.230
+Skype for Business only or Teams club,
+
+00:07:52.231 --> 00:07:55.905
+and so make sure to check out the appendix.
+
+00:07:55.906 --> 00:07:59.295
+There are some screenshots in there to understand what
+
+00:07:59.296 --> 00:08:01.940
+the coexistence mode looks like
+
+00:08:01.941 --> 00:08:04.610
+and how to set it, as well as a blog.
+
+00:08:04.611 --> 00:08:06.935
+So, make sure you go check those out.
+
+00:08:06.936 --> 00:08:08.570
+We also will be releasing
+
+00:08:08.571 --> 00:08:10.190
+training here in the next few weeks
+
+00:08:10.191 --> 00:08:13.690
+on the upgrade story and the interrupt mode story,
+
+00:08:13.691 --> 00:08:15.615
+so make sure to look out for that.
+
+00:08:15.616 --> 00:08:19.130
+So, that does it
+
+00:08:19.131 --> 00:08:20.565
+for Skype for Business Online
+
+00:08:20.566 --> 00:08:23.120
+specifically or Microsoft Teams.
+
+00:08:23.121 --> 00:08:25.040
+So, now we'll move on to Phone Devices,
+
+00:08:25.041 --> 00:08:27.110
+where we've got some updates
+
+00:08:27.111 --> 00:08:29.785
+or information on Skype Room Systems.
+
+00:08:29.786 --> 00:08:32.720
+So, this one is a performance issue on
+
+00:08:32.721 --> 00:08:35.814
+Skype Room Systems v2 devices
+
+00:08:35.815 --> 00:08:40.830
+that are on Surface Pro 2017 based devices.
+
+00:08:42.020 --> 00:08:47.250
+So there is a performance issues when you join
+
+00:08:47.251 --> 00:08:48.820
+a meeting with a combination
+
+00:08:48.821 --> 00:08:52.020
+of HDMI, wired ingest sharing.
+
+00:08:52.021 --> 00:08:54.370
+So, you're plugging the HDMI into your laptop,
+
+00:08:54.371 --> 00:08:56.685
+and sharing through the Skype Room System.
+
+00:08:56.686 --> 00:08:59.820
+When you have dual front-of-room displays,
+
+00:08:59.821 --> 00:09:02.010
+and multiple remote video streams being used.
+
+00:09:02.011 --> 00:09:03.650
+So, when all of those things are
+
+00:09:03.651 --> 00:09:06.065
+happening in conjunction in one meeting,
+
+00:09:06.066 --> 00:09:08.875
+you might get some performance issues.
+
+00:09:08.876 --> 00:09:13.010
+So, possible workarounds are desktop sharing into
+
+00:09:13.011 --> 00:09:15.390
+the meeting via Skype for Business Application
+
+00:09:15.391 --> 00:09:17.200
+instead of the HDMI cable,
+
+00:09:17.201 --> 00:09:21.040
+or reducing the front-off-room display configuration
+
+00:09:21.041 --> 00:09:23.175
+to a single screen.
+
+00:09:23.176 --> 00:09:26.390
+So, that's just be aware of that if you're
+
+00:09:26.391 --> 00:09:28.120
+using all of these features
+
+00:09:28.121 --> 00:09:30.250
+of Skype Room Systems at one time,
+
+00:09:30.251 --> 00:09:32.170
+you might get some performance issues,
+
+00:09:32.171 --> 00:09:35.935
+specifically on the Surface Pro 2017 based devices.
+
+00:09:35.936 --> 00:09:38.630
+So, this is just to let you know that documentation
+
+00:09:38.631 --> 00:09:41.610
+has been updated for Skype Room Systems v2.
+
+00:09:41.611 --> 00:09:44.550
+It improves the onscreen keyboard behavior,
+
+00:09:44.551 --> 00:09:46.400
+or just lets you know about
+
+00:09:46.401 --> 00:09:48.130
+the onscreen keyboard behavior
+
+00:09:48.131 --> 00:09:50.855
+in version 1709 of Windows 10,
+
+00:09:50.856 --> 00:09:54.150
+and improvements to prepare
+
+00:09:54.151 --> 00:09:57.175
+for updates to future operating systems.
+
+00:09:57.176 --> 00:09:58.940
+All right. Moving on to Lync,
+
+00:09:58.941 --> 00:10:00.660
+and Skype for Business desktop,
+
+00:10:00.661 --> 00:10:04.040
+and mobile clients, we also have Teams in here as well.
+
+00:10:04.041 --> 00:10:08.375
+So, we will start off with Skype for Business 2015.
+
+00:10:08.376 --> 00:10:11.815
+This was an update released back on May 1st.
+
+00:10:11.816 --> 00:10:15.970
+Just one issue fixed here with a location display issue
+
+00:10:15.971 --> 00:10:20.430
+if using E911 is set to true in Skype for Business.
+
+00:10:20.431 --> 00:10:23.060
+So there, the downloads available there,
+
+00:10:23.061 --> 00:10:26.180
+as well as the KB if you'd like more information.
+
+00:10:26.181 --> 00:10:29.204
+Joe correctly called out
+
+00:10:29.205 --> 00:10:33.310
+that this should be May 1st, 2018 not 2013.
+
+00:10:33.311 --> 00:10:35.375
+So, thank you.
+
+00:10:35.376 --> 00:10:37.695
+Skype for Business 2016,
+
+00:10:37.696 --> 00:10:39.420
+also released on May 1st.
+
+00:10:39.421 --> 00:10:41.780
+I know that the same fix for
+
+00:10:41.781 --> 00:10:46.130
+the 2015 client is also in the 2016 quite right here,
+
+00:10:46.131 --> 00:10:48.265
+in addition to two other ones.
+
+00:10:48.266 --> 00:10:51.190
+So, unread messages of a reopened chatroom are
+
+00:10:51.191 --> 00:10:52.900
+incorrectly indicated when restarting
+
+00:10:52.901 --> 00:10:54.320
+Skype for Business 2016,
+
+00:10:54.321 --> 00:10:55.910
+so that issue is fixed.
+
+00:10:55.911 --> 00:10:57.870
+Another issue fixed where you
+
+00:10:57.871 --> 00:11:00.365
+were repeatedly added as a delegate.
+
+00:11:00.366 --> 00:11:03.270
+You would receive that message every time you log in
+
+00:11:03.271 --> 00:11:05.675
+to Skype for Business 2015 even if you were,
+
+00:11:05.676 --> 00:11:08.200
+had already been a member of that,
+
+00:11:08.280 --> 00:11:12.105
+or even selected as a delegate for that user.
+
+00:11:12.106 --> 00:11:15.070
+So, make sure to check out the download links,
+
+00:11:15.071 --> 00:11:16.645
+as well as KB.
+
+00:11:16.646 --> 00:11:19.440
+So, Microsoft Teams.
+
+00:11:20.960 --> 00:11:23.580
+Some of this is available
+
+00:11:23.581 --> 00:11:26.190
+publicly in your regular Team's client.
+
+00:11:26.191 --> 00:11:28.780
+You can go to the, I believe, the T bot,
+
+00:11:28.781 --> 00:11:32.005
+and look at what's new in Teams.
+
+00:11:32.006 --> 00:11:36.320
+So, just some new features,
+
+00:11:36.321 --> 00:11:38.255
+and new improvements that they've made.
+
+00:11:38.256 --> 00:11:39.950
+I believe this was last months
+
+00:11:39.951 --> 00:11:41.080
+that we may have already covered it.
+
+00:11:41.081 --> 00:11:43.800
+So, you can now send messages from the command box.
+
+00:11:43.801 --> 00:11:45.100
+For the contact card,
+
+00:11:45.101 --> 00:11:48.330
+you can dial out or into a group call,
+
+00:11:48.331 --> 00:11:52.180
+auto import, or auto favorite import channels.
+
+00:11:52.181 --> 00:11:54.545
+That means that an admin of a channel,
+
+00:11:54.546 --> 00:11:55.970
+or an owner of a channel,
+
+00:11:55.971 --> 00:11:58.550
+or a group can automatically
+
+00:11:58.551 --> 00:12:00.050
+favorites certain channels for
+
+00:12:00.051 --> 00:12:01.960
+you when you join the team.
+
+00:12:01.961 --> 00:12:04.530
+New views in the Microsoft Planner tab.
+
+00:12:04.531 --> 00:12:06.090
+I believe there's graph views,
+
+00:12:06.091 --> 00:12:08.290
+and different schedule views,
+
+00:12:08.291 --> 00:12:10.415
+you can look at the schedule all up.
+
+00:12:10.416 --> 00:12:13.220
+Then, in the charts view of the Planner tab,
+
+00:12:13.221 --> 00:12:14.390
+you can stay up to date on
+
+00:12:14.391 --> 00:12:16.355
+the status of your plans obviously.
+
+00:12:16.356 --> 00:12:19.820
+So, there's also filtering options where you can
+
+00:12:19.821 --> 00:12:23.335
+group tasks by buckets such as a sign to,
+
+00:12:23.336 --> 00:12:24.990
+progress, due dates, and labels.
+
+00:12:24.991 --> 00:12:28.695
+So, you have a lot more way to look at your project data.
+
+00:12:28.696 --> 00:12:31.530
+You can now use the SharePoint tab
+
+00:12:31.531 --> 00:12:33.090
+to place important pages,
+
+00:12:33.091 --> 00:12:36.495
+news articles, and list as individual tabs in a channel.
+
+00:12:36.496 --> 00:12:39.160
+So, instead of just having a link to one SharePoint page,
+
+00:12:39.161 --> 00:12:43.310
+you can add a list to specific SharePoint pages,
+
+00:12:43.311 --> 00:12:46.875
+and have that show up in your team channel.
+
+00:12:46.876 --> 00:12:50.590
+&gt;&gt; Hey, Darren we got a quick question regarding the
+
+00:12:50.591 --> 00:12:53.450
+delegate data fix for 2016 MSI.
+
+00:12:53.451 --> 00:12:57.555
+Does that now imply that it supports 25 delegators.
+
+00:12:57.556 --> 00:13:02.255
+&gt;&gt; I didn't get that implication from what I read.
+
+00:13:02.256 --> 00:13:04.780
+I think we'd have to check the KB for more information,
+
+00:13:04.781 --> 00:13:11.690
+but I wouldn't know off the top of my head.
+
+00:13:11.691 --> 00:13:15.300
+So, that's a good question that if it's not in the KB,
+
+00:13:15.301 --> 00:13:17.175
+we can go ahead, and take a look at that.
+
+00:13:17.176 --> 00:13:20.300
+So, Tim, if you might take a note to follow up on that.
+
+00:13:20.301 --> 00:13:21.685
+We can check later.
+
+00:13:21.686 --> 00:13:23.020
+&gt;&gt; I will do that.
+
+00:13:23.021 --> 00:13:26.080
+&gt;&gt; Thank you. All right.
+
+00:13:26.081 --> 00:13:29.575
+So, moving on more on Microsoft Teams,
+
+00:13:29.576 --> 00:13:33.240
+few highlights on the iOS, and Android apps.
+
+00:13:33.241 --> 00:13:36.635
+We now have better meeting capabilities on the apps.
+
+00:13:36.636 --> 00:13:39.050
+You can request a call to your Teams
+
+00:13:39.051 --> 00:13:41.645
+phone to connect you to a meeting instead of dialing in.
+
+00:13:41.646 --> 00:13:43.440
+That's very similar to Skype for Business,
+
+00:13:43.441 --> 00:13:44.760
+and how it's done today.
+
+00:13:44.761 --> 00:13:46.950
+So, you can easily turn a one on
+
+00:13:46.951 --> 00:13:48.860
+one call into a group call,
+
+00:13:48.861 --> 00:13:50.250
+or transfer one on one call
+
+00:13:50.251 --> 00:13:52.175
+to someone else, or forward calls.
+
+00:13:52.176 --> 00:13:54.060
+This is all in the mobile app, remember.
+
+00:13:54.061 --> 00:13:55.310
+So, some of the stuff is already
+
+00:13:55.311 --> 00:13:56.585
+available on the desktop app,
+
+00:13:56.586 --> 00:13:59.675
+now it's in mobile.
+
+00:13:59.676 --> 00:14:03.900
+So, you can now create Teams for mobile, and Teams EDU.
+
+00:14:03.901 --> 00:14:07.970
+So, specifically you have to be a EDU customer,
+
+00:14:07.971 --> 00:14:10.480
+using classrooms, and teachers,
+
+00:14:10.481 --> 00:14:11.550
+and students can now create,
+
+00:14:11.551 --> 00:14:13.565
+edit, and delete teams on mobile.
+
+00:14:13.566 --> 00:14:17.535
+So, as we announced this last week, or last month,
+
+00:14:17.536 --> 00:14:20.005
+but more about the Windows Phone apps for Teams,
+
+00:14:20.006 --> 00:14:21.910
+the app for Teams,
+
+00:14:21.911 --> 00:14:24.040
+and Skype for Business is being retired.
+
+00:14:24.041 --> 00:14:25.890
+So, after this takes effects,
+
+00:14:25.891 --> 00:14:27.415
+users would no longer be able to
+
+00:14:27.416 --> 00:14:29.370
+download the app from the Store,
+
+00:14:29.371 --> 00:14:31.595
+and the app will no longer be supported.
+
+00:14:31.596 --> 00:14:33.960
+So, we'll continue to invest in the iOS,
+
+00:14:33.961 --> 00:14:35.650
+and Android apps on desktop,
+
+00:14:35.651 --> 00:14:39.325
+and Windows, but no longer the Windows Phone apps.
+
+00:14:39.326 --> 00:14:41.570
+This is essentially the same thing
+
+00:14:41.571 --> 00:14:42.775
+what I just highlighted.
+
+00:14:42.776 --> 00:14:45.500
+This takes effect July 20th.
+
+00:14:45.501 --> 00:14:48.000
+So, beginning July 20th,
+
+00:14:48.001 --> 00:14:49.750
+the app will no longer be in the Store.
+
+00:14:49.751 --> 00:14:51.880
+However, existing users will still be
+
+00:14:51.881 --> 00:14:54.620
+able to use the app until October 20th.
+
+00:14:54.621 --> 00:14:57.840
+At which point, the Teams app will no longer work,
+
+00:14:57.841 --> 00:14:59.160
+and users will see an
+
+00:14:59.161 --> 00:15:01.110
+error message when they try to connect.
+
+00:15:01.111 --> 00:15:04.990
+So, it's just recommended that if you want
+
+00:15:04.991 --> 00:15:10.145
+to continue using it until October 20th,
+
+00:15:10.146 --> 00:15:12.450
+go ahead, and install it before
+
+00:15:12.451 --> 00:15:15.970
+July 20th when it disappears from the App Store.
+
+00:15:15.971 --> 00:15:19.145
+So, additional information, there's a blog there.
+
+00:15:19.146 --> 00:15:22.270
+Moving on to Skype for Business for Mac,
+
+00:15:22.271 --> 00:15:25.575
+we have a few fixes that went into this release,
+
+00:15:25.576 --> 00:15:27.710
+that was came out May 8th.
+
+00:15:27.711 --> 00:15:31.170
+So, an issue where excessive CPU usage was
+
+00:15:31.171 --> 00:15:33.180
+happening when opening a new conversation
+
+00:15:33.181 --> 00:15:35.250
+while offline has been fixed.
+
+00:15:35.251 --> 00:15:36.810
+Another issue that prevented
+
+00:15:36.811 --> 00:15:38.850
+notifications of new phone calls from
+
+00:15:38.851 --> 00:15:40.360
+being visible when
+
+00:15:40.361 --> 00:15:42.555
+a Skype for Business window was zoomed,
+
+00:15:42.556 --> 00:15:44.800
+has been fixed, changed
+
+00:15:44.801 --> 00:15:47.550
+how the IM disclaimer messages are displayed.
+
+00:15:47.551 --> 00:15:49.110
+Fixed a crash in
+
+00:15:49.111 --> 00:15:51.995
+some cases where users tries to sign out,
+
+00:15:51.996 --> 00:15:55.140
+and an issue that prevented a call window from displaying
+
+00:15:55.141 --> 00:15:58.935
+properly when trying to leave a voicemail for a contact.
+
+00:15:58.936 --> 00:16:01.790
+So, there is some additional information
+
+00:16:01.791 --> 00:16:03.100
+in the blog post here.
+
+00:16:03.101 --> 00:16:05.755
+So, Skype for Business on Windows Phone,
+
+00:16:05.756 --> 00:16:08.535
+this is essentially what we just talked about.
+
+00:16:08.536 --> 00:16:10.690
+Skype for Business on Windows Phone
+
+00:16:10.691 --> 00:16:12.570
+8.1 will no longer be available for
+
+00:16:12.571 --> 00:16:16.370
+download beginning in December 2019.
+
+00:16:16.371 --> 00:16:18.205
+Skype for Business on Windows 10 Mobile
+
+00:16:18.206 --> 00:16:20.295
+will no longer be available for download.
+
+00:16:20.296 --> 00:16:22.660
+So, that's still awaits in the future.
+
+00:16:22.661 --> 00:16:24.560
+Yeah. Same thing with Teams
+
+00:16:24.561 --> 00:16:26.170
+here just install the app before it
+
+00:16:26.171 --> 00:16:30.650
+disappears off the Store.
+
+00:16:30.651 --> 00:16:33.800
+That happens in August 2018.
+
+00:16:36.990 --> 00:16:41.250
+So, August 2018 for Windows Phone 8.1,
+
+00:16:41.251 --> 00:16:42.590
+it won't be available for download.
+
+00:16:42.591 --> 00:16:45.190
+Then, all the way in December 2019
+
+00:16:45.191 --> 00:16:49.030
+for Skype for Business on Windows 10 Mobile.
+
+00:16:49.031 --> 00:16:52.695
+So, if your customers are still using Windows 10,
+
+00:16:52.696 --> 00:16:54.230
+make sure they know about those dates so
+
+00:16:54.231 --> 00:16:58.175
+they don't lose their-
+
+00:16:58.176 --> 00:17:01.160
+Yeah, it is kind of
+
+00:17:01.161 --> 00:17:04.500
+sad when his phone was a great little phone.
+
+00:17:04.501 --> 00:17:06.470
+So, the Network Assessment Tool,
+
+00:17:06.471 --> 00:17:09.370
+many of you may have used this or maybe aware of it.
+
+00:17:09.371 --> 00:17:11.510
+You may even have heard the announcement,
+
+00:17:11.511 --> 00:17:13.210
+but it's been updated
+
+00:17:13.211 --> 00:17:18.170
+to also do Network Assessment for Microsoft Teams now.
+
+00:17:18.171 --> 00:17:20.170
+So, even if a customer doesn't have
+
+00:17:20.171 --> 00:17:22.120
+an Office 365 subscription yet,
+
+00:17:22.121 --> 00:17:27.120
+you can still use this as a pre-sales stage to evaluate
+
+00:17:27.121 --> 00:17:29.480
+whether their network is ready to support
+
+00:17:29.481 --> 00:17:30.900
+all the various different features and
+
+00:17:30.901 --> 00:17:32.715
+functionalities of Skype for Business,
+
+00:17:32.716 --> 00:17:34.210
+whether they have enough bandwidth,
+
+00:17:34.211 --> 00:17:37.180
+whether they can connect to the specific endpoints.
+
+00:17:37.181 --> 00:17:38.620
+It does all this stuff.
+
+00:17:38.621 --> 00:17:40.270
+So, you can get it very easily
+
+00:17:40.271 --> 00:17:45.920
+by installing a PowerShell module and running
+
+00:17:45.921 --> 00:17:49.840
+the Install-Module M365NetworkTestingTool commandement,
+
+00:17:49.841 --> 00:17:53.980
+and then running Invoke-M365CreateShortcuts
+
+00:17:53.981 --> 00:17:55.260
+and that will just create a shortcut on
+
+00:17:55.261 --> 00:17:57.145
+your desktop and your Start Menu.
+
+00:17:57.146 --> 00:17:59.850
+Then go ahead and launch it.
+
+00:17:59.851 --> 00:18:02.740
+So, it is a very useful tool.
+
+00:18:02.741 --> 00:18:05.395
+It goes over a lot of information.
+
+00:18:05.396 --> 00:18:08.800
+And so, it's packaged up in a nice little UI,
+
+00:18:08.801 --> 00:18:12.035
+so your customers will be happy when they see it.
+
+00:18:12.036 --> 00:18:15.500
+So, yeah, that's been updated.
+
+00:18:15.530 --> 00:18:18.820
+The request from the tool creators
+
+00:18:18.821 --> 00:18:20.630
+is just to start using it.
+
+00:18:20.631 --> 00:18:21.820
+Get it in front of customers,
+
+00:18:21.821 --> 00:18:22.870
+figure out what they like,
+
+00:18:22.871 --> 00:18:25.950
+what they don't like, provide feedback to the tool.
+
+00:18:25.951 --> 00:18:27.580
+I believe there's definitely
+
+00:18:27.581 --> 00:18:29.670
+team channels that a lot of you
+
+00:18:29.671 --> 00:18:32.095
+are probably involved in where they've talked about this.
+
+00:18:32.096 --> 00:18:33.950
+I believe there's feedback
+
+00:18:33.951 --> 00:18:35.640
+within the tool that you can email.
+
+00:18:35.641 --> 00:18:38.585
+So, what are their plans for the tool next?
+
+00:18:38.586 --> 00:18:40.410
+They want to provide
+
+00:18:40.411 --> 00:18:43.495
+each information icon that pops up when it does a test.
+
+00:18:43.496 --> 00:18:44.610
+They want to link to
+
+00:18:44.611 --> 00:18:47.380
+specific guidance on the fast track website.
+
+00:18:47.381 --> 00:18:50.195
+Right now, the order of testing is swapped.
+
+00:18:50.196 --> 00:18:53.350
+They test connectivity first and then audio quality.
+
+00:18:53.351 --> 00:18:56.395
+The device parser is also updated to reflect
+
+00:18:56.396 --> 00:18:58.250
+newer headsets and speakerphones which
+
+00:18:58.251 --> 00:19:01.015
+have been certified by the call quality team.
+
+00:19:01.016 --> 00:19:03.290
+The Desktop/Start Menu icons
+
+00:19:03.291 --> 00:19:05.010
+are applied when the module is updated,
+
+00:19:05.011 --> 00:19:07.700
+instead of each time the application launches.
+
+00:19:07.701 --> 00:19:11.585
+Then the public web URL's and a blog will follow soon.
+
+00:19:11.586 --> 00:19:14.510
+So, keep a look out for that.
+
+00:19:14.511 --> 00:19:17.105
+There is some additional information right here.
+
+00:19:17.106 --> 00:19:21.800
+And that does it for our releases,
+
+00:19:21.801 --> 00:19:23.120
+and updates, and stuff like that.
+
+00:19:23.121 --> 00:19:24.930
+So, I'll go ahead and head back to back to
+
+00:19:24.931 --> 00:19:27.170
+Tim and he can take it from there.
+
+00:19:27.171 --> 00:19:29.570
+&gt;&gt; Thanks so much, Darren. Great overview.
+
+00:19:29.571 --> 00:19:32.290
+In terms of Special Topics and Training Releases,
+
+00:19:32.291 --> 00:19:36.330
+we'll look at the short view backwards and forwards.
+
+00:19:36.331 --> 00:19:39.150
+While I go ahead and share these slides,
+
+00:19:39.151 --> 00:19:42.775
+I want to invite people to put the chat window
+
+00:19:42.776 --> 00:19:45.490
+any request they have were
+
+00:19:45.491 --> 00:19:48.460
+training on Skype for Business or Teams topics.
+
+00:19:48.461 --> 00:19:50.950
+We have been very much focused on
+
+00:19:50.951 --> 00:19:54.705
+capturing training on major feature releases in Teams,
+
+00:19:54.706 --> 00:19:57.050
+but we also do strive to
+
+00:19:57.051 --> 00:19:59.780
+provide training on the knowledge gap areas,
+
+00:19:59.781 --> 00:20:03.640
+areas in which you're uncomfortable providing support.
+
+00:20:03.641 --> 00:20:06.460
+So, as I talk about these slides,
+
+00:20:06.461 --> 00:20:07.990
+I invite you to go ahead and toss
+
+00:20:07.991 --> 00:20:10.075
+any suggestions you have in the chat window
+
+00:20:10.076 --> 00:20:11.850
+about training topics you'd like to see
+
+00:20:11.851 --> 00:20:14.015
+coverage to up skill,
+
+00:20:14.016 --> 00:20:16.540
+where you feel like you need it.
+
+00:20:16.860 --> 00:20:20.025
+So, Recently Release Training.
+
+00:20:20.026 --> 00:20:23.025
+We're having a little bit of a problem, it looks like,
+
+00:20:23.026 --> 00:20:27.710
+with the slide show in the proper content.
+
+00:20:27.711 --> 00:20:29.990
+I'm going to go ahead and speak to this.
+
+00:20:29.991 --> 00:20:32.385
+But I won't have a visual
+
+00:20:32.386 --> 00:20:35.170
+to show you. Apologies for that.
+
+00:20:35.171 --> 00:20:40.180
+We have released Microsoft Teams Direct Routing training,
+
+00:20:40.181 --> 00:20:42.045
+as Darren alluded to,
+
+00:20:42.046 --> 00:20:45.355
+but please give us feedback on that course.
+
+00:20:45.356 --> 00:20:46.990
+This is going to give you
+
+00:20:46.991 --> 00:20:49.110
+a good overview of
+
+00:20:49.111 --> 00:20:51.155
+the direct routing value add capabilities.
+
+00:20:51.156 --> 00:20:52.770
+It's going to help you
+
+00:20:52.771 --> 00:20:54.920
+understand how direct routing is set up,
+
+00:20:54.921 --> 00:20:56.970
+and with the new features are and
+
+00:20:56.971 --> 00:20:58.810
+applying basic troubleshooting steps
+
+00:20:58.811 --> 00:21:00.570
+for various scenarios,
+
+00:21:00.571 --> 00:21:02.200
+and that includes known issues as well.
+
+00:21:02.201 --> 00:21:05.645
+So, please do check out the Direct Routing training.
+
+00:21:05.646 --> 00:21:09.030
+Prior to that, we issued our Cloud Recording Training,
+
+00:21:09.031 --> 00:21:11.490
+an another recently released feature.
+
+00:21:11.491 --> 00:21:15.790
+We also have Microsoft Teams
+
+00:21:15.791 --> 00:21:18.645
+and Skype for Business interoperability course out there
+
+00:21:18.646 --> 00:21:21.100
+that is being updated
+
+00:21:21.101 --> 00:21:25.645
+as configuration options are changing.
+
+00:21:25.646 --> 00:21:28.375
+So, please do also view that training.
+
+00:21:28.376 --> 00:21:29.895
+Again, apologies for the lack
+
+00:21:29.896 --> 00:21:33.400
+of content showing on screen.
+
+00:21:33.401 --> 00:21:36.480
+So, coming up in June for Teams,
+
+00:21:36.481 --> 00:21:40.600
+we are going to be addressing
+
+00:21:40.601 --> 00:21:42.095
+the Skype for Business to Teams
+
+00:21:42.096 --> 00:21:45.925
+Upgrade Process and Customer Experience.
+
+00:21:45.926 --> 00:21:51.580
+The schedule for these upgrades is being finalized,
+
+00:21:51.581 --> 00:21:53.850
+but we can look for this activity to kick
+
+00:21:53.851 --> 00:21:56.170
+off and start small
+
+00:21:56.171 --> 00:21:59.080
+but ramp up beginning in the next month or so.
+
+00:21:59.081 --> 00:22:01.310
+We'll also be covering Call Delegation
+
+00:22:01.311 --> 00:22:02.975
+and Consultative Transfer,
+
+00:22:02.976 --> 00:22:04.925
+and we are watching
+
+00:22:04.926 --> 00:22:08.640
+Teams Federation features lighting up,
+
+00:22:08.641 --> 00:22:12.530
+and we will be training on those features
+
+00:22:12.531 --> 00:22:14.355
+as we have more information
+
+00:22:14.356 --> 00:22:17.630
+that would be useful to support agents.
+
+00:22:17.631 --> 00:22:20.240
+So, beyond that, we'll be looking
+
+00:22:20.241 --> 00:22:23.210
+to cover Teams Broadcast Meetings,
+
+00:22:23.211 --> 00:22:25.570
+which will include a new feature called
+
+00:22:25.571 --> 00:22:28.575
+Leadership Connection geared toward connecting
+
+00:22:28.576 --> 00:22:35.495
+executive leadership and companies to their audience.
+
+00:22:35.496 --> 00:22:39.430
+We are looking at consolidating PSTN Teams,
+
+00:22:39.431 --> 00:22:42.370
+PSTN Calling Feature Releases
+
+00:22:42.371 --> 00:22:45.900
+into a consolidated training as well.
+
+00:22:45.901 --> 00:22:50.255
+Our June Brown Bag is going to be on the 26.
+
+00:22:50.256 --> 00:22:52.410
+If you have an idea for a topic
+
+00:22:52.411 --> 00:22:54.870
+or anything you want to hear about,
+
+00:22:54.871 --> 00:22:57.185
+please do let us know with that email address.
+
+00:22:57.186 --> 00:22:59.430
+We'll be happy to arrange.
+
+00:22:59.540 --> 00:23:02.600
+Let me just point out
+
+00:23:02.601 --> 00:23:05.455
+a couple items on the Blogs of Note.
+
+00:23:05.456 --> 00:23:08.990
+We have that updated roadmap for
+
+00:23:08.991 --> 00:23:12.040
+the Microsoft Teams Upgrade from Skype for
+
+00:23:12.041 --> 00:23:13.400
+Business that will give a lot of
+
+00:23:13.401 --> 00:23:15.905
+information on feature plans.
+
+00:23:15.906 --> 00:23:17.670
+That's a good place to go for
+
+00:23:17.671 --> 00:23:19.090
+comprehensive information on what
+
+00:23:19.091 --> 00:23:20.645
+that activity looks like.
+
+00:23:20.646 --> 00:23:22.475
+Like I said, we'll be addressing
+
+00:23:22.476 --> 00:23:25.695
+that process in a training coming up.
+
+00:23:25.696 --> 00:23:27.290
+You'll notice that we have
+
+00:23:27.291 --> 00:23:30.000
+our planning direct routing link
+
+00:23:30.001 --> 00:23:32.005
+included in this set of blogs,
+
+00:23:32.006 --> 00:23:35.700
+which is an overview of how customers are
+
+00:23:35.701 --> 00:23:37.530
+to approach and configure and set up
+
+00:23:37.531 --> 00:23:40.075
+direct routing might be useful for you.
+
+00:23:40.076 --> 00:23:43.860
+I will just also point out that GDPR has
+
+00:23:43.861 --> 00:23:47.355
+been a big focus obviously in the last week or so.
+
+00:23:47.356 --> 00:23:50.990
+There's a link here to the specific information about how
+
+00:23:50.991 --> 00:23:52.570
+GDPR pertains to
+
+00:23:52.571 --> 00:23:54.955
+Skype for Business Server and Lync Server.
+
+00:23:54.956 --> 00:23:56.980
+And as always, we are
+
+00:23:56.981 --> 00:23:59.320
+available through our Infopedia page where
+
+00:23:59.321 --> 00:24:01.005
+you'll find our training catalog
+
+00:24:01.006 --> 00:24:03.960
+and contact information for our team.
+
+00:24:03.961 --> 00:24:06.790
+I'm taking a look at the feedback we're getting in
+
+00:24:06.791 --> 00:24:09.205
+the chat window regarding
+
+00:24:09.206 --> 00:24:10.930
+topics you'd like to see covered.
+
+00:24:10.931 --> 00:24:14.310
+This is very useful information for us.
+
+00:24:14.311 --> 00:24:16.420
+We're going to take these suggestions and see
+
+00:24:16.421 --> 00:24:18.645
+if we can follow up with
+
+00:24:18.646 --> 00:24:20.550
+a guest speaker or
+
+00:24:20.551 --> 00:24:24.200
+provide you deeper information on next Brown Bag.
+
+00:24:24.201 --> 00:24:26.730
+Thank you so much. And with that,
+
+00:24:26.731 --> 00:24:28.900
+I want to thank Darren Hansen and the rest
+
+00:24:28.901 --> 00:24:31.260
+of our CSS Learning and Readiness Team.
+
+00:24:31.261 --> 00:24:34.655
+And of course, those of you who participated today.
+
+00:24:34.656 --> 00:24:38.130
+Thank you so much and have a great day.
+

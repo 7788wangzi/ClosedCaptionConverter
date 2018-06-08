@@ -1,0 +1,70 @@
+WEBVTT
+
+0
+00:00:02.633 --> 00:00:06.266
+Hello! I am Anusha Muthiah and welcome to week 2 of the Introduction to HTML5.
+
+1
+00:00:06.266 --> 00:00:09.899
+This week, we are going to cover global and
+
+2
+00:00:09.900 --> 00:00:13.533
+non-global attributes and how to use them, paying close attention
+
+3
+00:00:13.533 --> 00:00:17.333
+to the commonly used ones such as 'id' and 'class'.
+
+4
+00:00:17.333 --> 00:00:19.599
+In addition, you'll learn about the importance of separating content
+
+5
+00:00:19.600 --> 00:00:22.033
+and style in HTML5,
+
+6
+00:00:22.033 --> 00:00:24.999
+as well as look at the difference between semantic and style tags.
+
+7
+00:00:25.000 --> 00:00:30.932
+We will study semantic elements, why they are important as well as look at their usage in various examples.
+
+8
+00:00:30.933 --> 00:00:35.866
+In the second half, we will cover how to add images to your HTML.
+
+9
+00:00:35.866 --> 00:00:37.866
+Images make everything more interesting.
+
+10
+00:00:37.866 --> 00:00:41.732
+For example, we will learn how to use the image tag and its attributes.
+
+11
+00:00:41.733 --> 00:00:45.366
+We will also look at scenarios where it is more appropriate to add images
+
+12
+00:00:45.366 --> 00:00:49.032
+using CSS instead. Finally, we will learn how to add hyperlinks
+
+13
+00:00:49.033 --> 00:00:53.899
+to your Web page and their different uses. At the end of each subsection, you'll be able to do
+
+14
+00:00:53.900 --> 00:00:56.333
+exercises based on what you've learned
+
+15
+00:00:56.333 --> 00:00:58.799
+and test your knowledge by doing a quiz.
+
+16
+00:00:58.800 --> 00:01:01.600
+We hope you enjoy the course and happy learning!
+

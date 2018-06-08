@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="eng" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>Media.wvx.aib</ttm:title>
+      <ttm:copyright>Copyright (c) 2015 Microsoft Corporation.  All rights reserved.</ttm:copyright>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:fontFamily="Segoe UI" tts:fontSize="13px" tts:textAlign="center" tts:color="white" />
+    </styling>
+    <layout>
+      <region xml:id="subtitleArea" style="s1" tts:origin="0% 0%" tts:extent="100% 60px" tts:padding="3px 3px" tts:backgroundColor="black" tts:opacity="0.7" tts:displayAlign="center" tts:showBackground="whenActive" />
+    </layout>
+  </head>
+  <body>
+    <div region="subtitleArea">
+<p begin="00:00:01.400" xml:id="p0" end="00:00:03.310">Hello, my name is Audrie.</p>
+<p begin="00:00:03.310" xml:id="p1" end="00:00:07.010">I'm a Senior Program Manager on the PowerApps product team.</p>
+<p begin="00:00:07.010" xml:id="p2" end="00:00:09.670">And I'm excited to bring you some more</p>
+<p begin="00:00:09.670" xml:id="p3" end="00:00:13.530">goodness about PowerApps in the next series of videos.</p>
+<p begin="00:00:13.530" xml:id="p4" end="00:00:16.300">As you've already seen in previous sections,</p>
+<p begin="00:00:16.300" xml:id="p5" end="00:00:19.950">we have been talking about the Contoso Flooring Company.</p>
+<p begin="00:00:19.950" xml:id="p6" end="00:00:21.890">And you already have made an app,</p>
+<p begin="00:00:21.890" xml:id="p7" end="00:00:24.530">if you've visited the other sections, that helps to</p>
+<p begin="00:00:24.530" xml:id="p8" end="00:00:28.140">estimate the cost of flooring for a particular room.</p>
+<p begin="00:00:28.140" xml:id="p9" end="00:00:29.840">That was a great app.</p>
+<p begin="00:00:29.840" xml:id="p10" end="00:00:31.625">Today, I'm going to take you a little bit further</p>
+<p begin="00:00:31.625" xml:id="p11" end="00:00:35.190">into this process, and I'm gonna show you some additional skills</p>
+<p begin="00:00:35.190" xml:id="p12" end="00:00:37.950">in the area of galleries and forms.</p>
+<p begin="00:00:37.950" xml:id="p13" end="00:00:40.500">To get you started though, I'd like to help you</p>
+<p begin="00:00:40.500" xml:id="p14" end="00:00:44.290">make a data set with me using only a formula.</p>
+<p begin="00:00:44.290" xml:id="p15" end="00:00:47.770">This data set will enable us to build the galleries</p>
+<p begin="00:00:47.770" xml:id="p16" end="00:00:51.060">that will be used in this next app.</p>
+<p begin="00:00:51.060" xml:id="p17" end="00:00:55.330">So in your resources you should have a text file.</p>
+<p begin="00:00:55.330" xml:id="p18" end="00:00:56.816">And let me show you what the text file looks like.</p>
+<p begin="00:00:56.816" xml:id="p19" end="00:01:00.924">The text file is called collection data formula.</p>
+<p begin="00:01:00.924" xml:id="p20" end="00:01:04.211">And within that text file is a single formula,</p>
+<p begin="00:01:04.211" xml:id="p21" end="00:01:06.993">I know it's a pretty long formula, but</p>
+<p begin="00:01:06.993" xml:id="p22" end="00:01:11.231">after all we are making a whole table with just one formula.</p>
+<p begin="00:01:11.231" xml:id="p23" end="00:01:14.848">And we're using the ClearCollect function to do that.</p>
+<p begin="00:01:14.848" xml:id="p24" end="00:01:18.724">To break this down, immediately after the ClearCollect function</p>
+<p begin="00:01:18.724" xml:id="p25" end="00:01:22.335">which is this long, you'll find the name of the collection.</p>
+<p begin="00:01:22.335" xml:id="p26" end="00:01:25.621">We will refer to this name very often.</p>
+<p begin="00:01:25.621" xml:id="p27" end="00:01:29.022">What this is, is our CitySales table.</p>
+<p begin="00:01:29.022" xml:id="p28" end="00:01:32.118">So imagine that we have been selling flooring and</p>
+<p begin="00:01:32.118" xml:id="p29" end="00:01:34.080">now we are ready to look back and</p>
+<p begin="00:01:34.080" xml:id="p30" end="00:01:37.251">see how many sales we had in different countries,</p>
+<p begin="00:01:37.251" xml:id="p31" end="00:01:41.430">in addition to different cities in the United States.</p>
+<p begin="00:01:41.430" xml:id="p32" end="00:01:46.260">So we are creating a table of data for those sales.</p>
+<p begin="00:01:46.260" xml:id="p33" end="00:01:49.640">If you look at this, you'll notice very quickly</p>
+<p begin="00:01:49.640" xml:id="p34" end="00:01:52.480">that there are words followed by colons.</p>
+<p begin="00:01:52.480" xml:id="p35" end="00:01:55.830">Those words represent column headers and</p>
+<p begin="00:01:55.830" xml:id="p36" end="00:02:00.110">the words within quotes after them represent the value for</p>
+<p begin="00:02:00.110" xml:id="p37" end="00:02:03.620">that header for that particular column.</p>
+<p begin="00:02:04.980" xml:id="p38" end="00:02:08.628">At the end of each row is our sales figure, and you'll see</p>
+<p begin="00:02:08.628" xml:id="p39" end="00:02:12.428">these very large numbers that represent the total sales for</p>
+<p begin="00:02:12.428" xml:id="p40" end="00:02:13.190">that city.</p>
+<p begin="00:02:13.190" xml:id="p41" end="00:02:17.848">So what we're going to do to actually create our collection</p>
+<p begin="00:02:17.848" xml:id="p42" end="00:02:22.133">that we will use in the galleries is we're gonna select</p>
+<p begin="00:02:22.133" xml:id="p43" end="00:02:26.323">all of that, and I suggest that you only use Notepad,</p>
+<p begin="00:02:26.323" xml:id="p44" end="00:02:28.021">to select that data.</p>
+<p begin="00:02:28.021" xml:id="p45" end="00:02:31.555">Because if you use any other application, it's possible that</p>
+<p begin="00:02:31.555" xml:id="p46" end="00:02:35.022">they'll try to make your quotes a little prettier, and those</p>
+<p begin="00:02:35.022" xml:id="p47" end="00:02:38.660">curly quotes or pretty quotes don't work so well in PowerApps.</p>
+<p begin="00:02:38.660" xml:id="p48" end="00:02:42.590">So it's best to continue to copy and paste from Notepad.</p>
+<p begin="00:02:42.590" xml:id="p49" end="00:02:44.870">So I'm going to just copy this data.</p>
+<p begin="00:02:44.870" xml:id="p50" end="00:02:48.070">You can either do an edit copy or a Ctrl + C.</p>
+<p begin="00:02:48.070" xml:id="p51" end="00:02:52.026">And then I'm going to open up in the desktop version</p>
+<p begin="00:02:52.026" xml:id="p52" end="00:02:53.223">of PowerApps,</p>
+<p begin="00:02:53.223" xml:id="p53" end="00:02:57.006">a brand new application which is a phone layout.</p>
+<p begin="00:02:57.006" xml:id="p54" end="00:03:00.430">And you'll see that on the lower section here.</p>
+<p begin="00:03:00.430" xml:id="p55" end="00:03:02.200">I'm gonna click on phone layout.</p>
+<p begin="00:03:04.410" xml:id="p56" end="00:03:07.910">And once I've done that I will get a brand new screen.</p>
+<p begin="00:03:07.910" xml:id="p57" end="00:03:09.280">I think in previous sections,</p>
+<p begin="00:03:09.280" xml:id="p58" end="00:03:12.040">you've also had a look at the properties.</p>
+<p begin="00:03:12.040" xml:id="p59" end="00:03:15.210">I'm going to go straight to the OnVisible property</p>
+<p begin="00:03:15.210" xml:id="p60" end="00:03:16.680">of this screen.</p>
+<p begin="00:03:16.680" xml:id="p61" end="00:03:19.630">Because what I want to do is build the collection</p>
+<p begin="00:03:19.630" xml:id="p62" end="00:03:22.090">as soon as this screen is visible.</p>
+<p begin="00:03:22.090" xml:id="p63" end="00:03:25.320">So I'm gonna click in the formula area, and</p>
+<p begin="00:03:25.320" xml:id="p64" end="00:03:28.600">I'm going to paste what I've copied from my clipboard.</p>
+<p begin="00:03:28.600" xml:id="p65" end="00:03:31.442">If I scroll over here to the right you'll see that I can make</p>
+<p begin="00:03:31.442" xml:id="p66" end="00:03:32.955">this bigger and look at it all.</p>
+<p begin="00:03:32.955" xml:id="p67" end="00:03:37.358">And look how cool that looks, all of my cities and countries,</p>
+<p begin="00:03:37.358" xml:id="p68" end="00:03:41.763">my abbreviations and my sales data have been color-coded for</p>
+<p begin="00:03:41.763" xml:id="p69" end="00:03:43.371">me to make it easier for</p>
+<p begin="00:03:43.371" xml:id="p70" end="00:03:47.116">me to validate that my data is formatted correctly.</p>
+<p begin="00:03:47.116" xml:id="p71" end="00:03:48.314">Now it is possible,</p>
+<p begin="00:03:48.314" xml:id="p72" end="00:03:51.061">this is a mistake I've made quite a few times,</p>
+<p begin="00:03:51.061" xml:id="p73" end="00:03:54.670">that you might copy and paste and you don't get everything.</p>
+<p begin="00:03:54.670" xml:id="p74" end="00:03:56.310">Maybe you missed the first letter, or</p>
+<p begin="00:03:56.310" xml:id="p75" end="00:03:58.810">you missed the last mark.</p>
+<p begin="00:03:58.810" xml:id="p76" end="00:03:59.740">So in this case,</p>
+<p begin="00:03:59.740" xml:id="p77" end="00:04:01.750">I've deleted the C, which is the first letter.</p>
+<p begin="00:04:01.750" xml:id="p78" end="00:04:02.499">And you see it all went red.</p>
+<p begin="00:04:02.499" xml:id="p79" end="00:04:04.760">Don't let that panic you.</p>
+<p begin="00:04:04.760" xml:id="p80" end="00:04:07.330">It's okay, it just means something's missing.</p>
+<p begin="00:04:07.330" xml:id="p81" end="00:04:08.560">So I usually check and</p>
+<p begin="00:04:08.560" xml:id="p82" end="00:04:10.350">see if I've missed something in the beginning.</p>
+<p begin="00:04:10.350" xml:id="p83" end="00:04:12.850">And nine times out of ten, that's what caused it.</p>
+<p begin="00:04:12.850" xml:id="p84" end="00:04:14.090">And then towards the end,</p>
+<p begin="00:04:14.090" xml:id="p85" end="00:04:18.850">if you forget the paren, there's a little red dot that shows up.</p>
+<p begin="00:04:18.850" xml:id="p86" end="00:04:19.900">And that little red dot</p>
+<p begin="00:04:19.900" xml:id="p87" end="00:04:21.980">there means you haven't closed the functions.</p>
+<p begin="00:04:21.980" xml:id="p88" end="00:04:24.270">So you need that closing paren.</p>
+<p begin="00:04:24.270" xml:id="p89" end="00:04:26.700">So once I have all of that and it looks nice and</p>
+<p begin="00:04:26.700" xml:id="p90" end="00:04:29.690">neat, then I'm gonna come out of that formula bar, and</p>
+<p begin="00:04:29.690" xml:id="p91" end="00:04:31.410">I'm gonna insert a new screen.</p>
+<p begin="00:04:31.410" xml:id="p92" end="00:04:34.980">My only purpose there is to create a trigger, I want to</p>
+<p begin="00:04:34.980" xml:id="p93" end="00:04:39.270">trigger that OnVisible, so that my collection is built.</p>
+<p begin="00:04:39.270" xml:id="p94" end="00:04:43.200">By going back to screen one I trigger the OnVisible.</p>
+<p begin="00:04:43.200" xml:id="p95" end="00:04:45.130">And if you go to the Content tab and</p>
+<p begin="00:04:45.130" xml:id="p96" end="00:04:49.030">you look in Collections, voila, there's the table we created.</p>
+<p begin="00:04:49.030" xml:id="p97" end="00:04:52.321">Look how easy it is to create data directly in your PowerApp.</p>
+<p begin="00:04:52.321" xml:id="p98" end="00:04:55.555">Now don't be surprised, you won't see all the data,</p>
+<p begin="00:04:55.555" xml:id="p99" end="00:04:58.521">you'll just see a preview of the first five rows.</p>
+<p begin="00:04:58.521" xml:id="p100" end="00:04:59.514">But that's good,</p>
+<p begin="00:04:59.514" xml:id="p101" end="00:05:03.200">at least it validates that we have all of the data we needed.</p>
+<p begin="00:05:03.200" xml:id="p102" end="00:05:06.590">So now that we have our data, let's get ready in the next</p>
+<p begin="00:05:06.590" xml:id="p103" end="00:05:10.450">video to see how we can format that in a brand new gallery.</p>
+<p begin="00:05:10.450" xml:id="p104" end="00:05:12.380">Thank you for looking at this video and</p>
+<p begin="00:05:12.380" xml:id="p105" end="00:05:14.740">I hope it taught you something that you could use later on</p>
+</div>
+
+  </body>
+</tt>
